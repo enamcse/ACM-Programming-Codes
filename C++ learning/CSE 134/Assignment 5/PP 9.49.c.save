@@ -1,0 +1,58 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int i, j, random, n1 = 32, n2 = 126, ch2, flag;
+    char c, arr[100];
+
+    random = rand();
+
+    for (i = 0; c = getchar()) != '\n';
+    i++)
+    arr[i] = c;
+
+    printf("\n Enter 1 for encoding or 2 for decoding.\n");
+    scanf("%d", &flag);
+
+    if(flag == 1)
+    {
+        for (j = 0; j < i; j++)
+        {
+            ch2 = arr[j] + random;
+            if (ch2 > n2)
+            {
+                ch2 = ch2 - n2;
+                ch2 = n1 + (ch2 % n2);
+            }
+            putchar(ch2);
+        }
+    }
+
+    else if (flag == 2)
+    {
+        for (j = 0; j < i; j++)
+        {
+            ch2 = arr[j] - random;
+            if (ch2 < n1)
+            {
+                
+                ch2 = ch2 - n2;
+                ch2 = n1 + (ch2 % n2);
+            }
+            putchar(ch2);
+        }
+    }
+
+
+
+    while (()
+    {
+        printf("\n Enter 1 for encoding or 2 for decoding.\n");
+        scanf("%d", &flag)
+
+
+    }
+
+    return 0;
+}

@@ -1,0 +1,10 @@
+here
+Case 1: 0
+here
+Case 2: 0
+w = 3
+now = 0
+now = 0
+now = 0
+here
+Case 3: 0

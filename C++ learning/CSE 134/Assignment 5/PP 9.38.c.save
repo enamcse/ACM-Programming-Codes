@@ -1,0 +1,72 @@
+#include <stdio.h>
+
+#define MAXROWS 20
+#define MAXCOLS 30
+
+void readinput(int a[][MAXROWS][MAXCOLS], int nrows, int ncols, int tableno);
+void computesums (int a[][MAXROWS][MAXCOLS], int nrows, int ncols);
+void writeoutput(int a[][MAXROWS][MAXCOLS], int nrows, int ncols);
+
+int main()
+{
+    int nrows, ncols;
+
+    int a[3][MAXROWS][MAXCOLS];
+
+    printf("How many rows?  ");
+    scanf("%d", &nrows);
+
+    printf("How many columns?   ");
+    scanf("%d", &ncols);
+
+    printf("\n\nFirst table:\n");
+    readinput(a, nrows, ncols);
+
+    printf("\n\nSecond table:\n");
+    readinput(a, nrows, ncols);
+
+    computesums(a, nrows, ncols);
+
+    printf("\n\nSums of the elements:\n\n");
+    writeoutput(a, nrows, ncols);
+
+    return 0;
+}
+
+
+void readinput(int a[][MAXROWS][MAXCOLS], int m, int n)
+{
+    int row, col;
+
+    for (row = 0; row < m; ++row)
+    {
+        printf("\nEnter data for row no %2d\n", row + 1);
+        for (col = 0; col < n; ++col)
+            scanf("%d", &a[][row][col]);
+    }
+    return;
+}
+
+void computesums (int a[][MAXROWS][MAXCOLS], int m, int n)
+{
+    int row, col;
+
+    for (row = 0; row < m; ++row)
+    {
+        for (col = 0; col < n; ++col)
+            a[2][row][col] = a[0][row][col] + a[1][row][col];
+    }
+    return;
+}
+void writeoutput(int a[][MAXROWS][MAXCOLS], int m, int n)
+{
+    int row, col;
+
+    for (row = 0; row < m; ++row)
+    {
+        for (col = 0; col < n; ++col)
+            printf("%4d", a[2][row][col]);
+        printf("\n");
+    }
+    return;
+}

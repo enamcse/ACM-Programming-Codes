@@ -1,0 +1,18 @@
+﻿create table stack_list(
+  id int not null auto_increment,
+  dated timestamp not null,
+  oj varchar(20),
+  problem_id varchar(30),
+  problem_name varchar(250),
+  algo varchar(100),
+  stat varchar(10),
+  coded varchar(10),
+  verdict varchar(25),
+  v_dated timestamp,
+  link varchar(400),
+  remarks varchar(500),
+  primary key(id)
+);
+
+#select * from stack_list;
+#truncate table stack_list;

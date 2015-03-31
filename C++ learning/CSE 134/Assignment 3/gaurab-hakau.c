@@ -1,0 +1,29 @@
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
+int main()
+{
+    char num3[2000], num1[1000], num2[1000];
+
+    int carry, sum, d, n;
+
+    scanf("%s", &num1);
+    scanf("%s", &num2);
+
+    l1=strlen(num1);
+    l2=strlen(num2);
+
+    d = 0;
+
+    while(1)
+    {
+        while(d)
+        {
+
+        }
+    }
+
+
+
+    return 0;
+}

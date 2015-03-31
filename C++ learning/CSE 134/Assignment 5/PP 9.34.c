@@ -1,0 +1,42 @@
+#include <stdio.h>
+
+#define SIZE 100
+
+void reorder (int n, int x[]);
+
+int main()
+{
+    int i, n, x[SIZE];
+    printf("\nHow many number will be entered? ");
+    scanf("%d", &n);
+    printf("\n");
+
+    for (i = 0; i < n; ++i)
+    {
+        printf("i = %d  x = ", i + 1);
+        scanf("%d", &x[i]);
+    }
+
+    reorder(n, x);
+
+    printf("\n\nReordered List of Numbers:\n\n");
+    for (i = 0; i < n; ++i)
+        printf("i = %d x = %d\n", i + 1, x[i]);
+
+    return 0;
+}
+
+void reorder (int n, int x[])
+
+{
+    int i, item, temp;
+
+    for (item = 0; item < n - 1; ++item)
+        for (i = item + 1; i < n; ++i)
+            if (x[i] > x[item])
+            {
+                temp = x[item];
+                x[item] = x[i];
+                x[i] = temp;
+            }
+}

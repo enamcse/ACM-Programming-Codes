@@ -1,0 +1,7 @@
+ins 5
+ins 2
+del 5 All
+del 3 One
+find 2 All
+find 7 One
+

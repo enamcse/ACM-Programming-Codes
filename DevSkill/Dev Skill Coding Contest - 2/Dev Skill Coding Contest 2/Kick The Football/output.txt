@@ -1,0 +1,16 @@
+Case 1: Ball is received by p4
+Case 2: Ball is received by P2
+Case 3: No one received the ball
+Case 4: No one received the ball
+Case 5: Ball is received by P2
+Case 6: Ball is received by P1
+Case 7: No one received the ball
+Case 8: Ball is received by P2
+Case 9: Ball is received by P3
+Case 10: No one received the ball
+Case 11: No one received the ball
+Case 12: No one received the ball
+Case 13: Ball is received by P3
+Case 14: No one received the ball
+Case 15: Ball is received by P5
+Case 16: Ball is received by P3

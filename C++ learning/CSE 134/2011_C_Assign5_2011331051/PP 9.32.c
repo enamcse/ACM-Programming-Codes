@@ -1,0 +1,48 @@
+#include <stdio.h>
+
+float readinput (int n, float sum, float list[]);
+void deviation (float avg, int n, float list[], float dev[]);
+
+int main()
+{
+    int n, count;
+    float avg, d, sum = 0;
+    float list[100], dev[100];
+
+    printf("\nHow many numbers will be avereged? ");
+    scanf("%d", &n);
+    printf("\n");
+
+    sum = readinput (n - 1, sum, list);
+
+    avg = sum / n;
+    printf("\nThe average is %5.2f\n\n", avg);
+
+    deviation (avg, n - 1, list, dev);
+
+    for (count = 0; count < n; ++count)
+        printf("i = %d  x = %5.2f   d = %5.2f\n", count + 1, list[count], dev[count]);
+
+    return 0;
+}
+
+float readinput (int count, float sum, float list[])
+{
+    if(count == -1) return 0;
+
+    sum = readinput (count - 1, sum, list);
+
+    printf("i = %d  x= ", count + 1);
+    scanf("%f", &list[count]);
+    sum += list[count];
+    return sum;
+}
+
+void deviation (float avg, int count, float list[], float dev[])
+{
+    if(count == -1) return;
+
+    deviation (avg, count - 1, list, dev);
+
+    dev[count] = list[count] - avg;
+}
