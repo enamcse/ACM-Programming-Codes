@@ -1,7 +1,7 @@
 /**
 * H:\Dropbox\Code\Codeforces\519C.cpp
 * Created on: 2015-02-28-18.42.41, Saturday
-* Verdict: Not Solved
+* Verdict: Solved
 * Author: Enamul Hassan
 **/
 

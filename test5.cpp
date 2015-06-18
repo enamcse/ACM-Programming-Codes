@@ -54,30 +54,34 @@ int main()
 #endif // ENAM
     int t, n, m, cas=1,i,j;
     _
+
+    long double kk = 9.988;
+    scanf("%Lf", &kk);
+    printf("%Lf", kk);
 //	// Generates the divisors
 //    for(i=2;i<=maxd;i++) if(facts[i].size()==0)
 //        for(j=i;j<=maxd;j+=i) facts[j].pb(i);
-    n=1000001;
-//    for (int i = 2; i<n; i++)
-//    {
-//        factorize(i);
-//    }
-//
+//     n=1000001;
+// //    for (int i = 2; i<n; i++)
+// //    {
+// //        factorize(i);
+// //    }
+// //
 
-    m = 0;t=0;
-    for (int i = 2; i<n; i++)
-    {
-        int cnt = 0;
-        for (int j = 1; j<=i/j; j++)
-        {
-            if(i%j==0) cnt+=2;
-            if(j==i/j) cnt--;
-        }
-//        cnt-=2;
-        if(cnt&1) m++;
-        t = max(t,cnt);
-    }
-    cout<<m<<" "<<t<<endl;
+//     m = 0;t=0;
+//     for (int i = 2; i<n; i++)
+//     {
+//         int cnt = 0;
+//         for (int j = 1; j<=i/j; j++)
+//         {
+//             if(i%j==0) cnt+=2;
+//             if(j==i/j) cnt--;
+//         }
+// //        cnt-=2;
+//         if(cnt&1) m++;
+//         t = max(t,cnt);
+//     }
+//     cout<<m<<" "<<t<<endl;
 
    return 0;
 }

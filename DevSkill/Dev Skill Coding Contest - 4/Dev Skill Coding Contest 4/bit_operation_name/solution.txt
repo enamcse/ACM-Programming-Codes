@@ -1,0 +1,3 @@
+It seems there was a missmatch in problem statement and the judge approach. It was reported by contestant and the problem
+setter accepted his mistake and Apologizes for unintensional mistake. Thus the solution is not provided for this problem.
+From dev skill's part we also Apologize, and want to point that the mistake was not intentional by the problem setter.

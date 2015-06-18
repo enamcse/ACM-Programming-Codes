@@ -1,7 +1,7 @@
 /**
 * H:\Dropbox\Code\Codeforces\508A.cpp
 * Created on: 2015-01-27-22.26.53, Tuesday
-* Verdict: Not Solved
+* Verdict: Solved
 * Author: Enamul Hassan
 **/
 

@@ -3,7 +3,7 @@
 *
 * Created on: 2014-12-03-20.59.57, Wednesday
 * Author: Enamul Hassan
-* Verdict: NOT SOLVED
+* Verdict: SOLVED
 **/
 
 #include <bits/stdc++.h>

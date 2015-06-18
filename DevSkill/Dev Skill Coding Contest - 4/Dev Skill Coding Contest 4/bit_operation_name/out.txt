@@ -1,0 +1,9810 @@
+Case 1: AND, OR, XOR
+Case 2: NAND, NOR, XNOR
+Case 3: AND, NOR, XNOR
+Case 4: OR, NAND, XOR
+Case 5:
+Case 6: AND
+Case 7: NAND, NOR, XNOR
+Case 8: OR, XOR
+Case 9:
+Case 10: AND, NOR, XNOR
+Case 11: NAND
+Case 12:
+Case 13: OR, XOR
+Case 14:
+Case 15: AND
+Case 16: NAND
+Case 17:
+Case 18: NOR, XNOR
+Case 19: OR, XOR
+Case 20:
+Case 21: AND
+Case 22: NAND
+Case 23: NOR, XNOR
+Case 24:
+Case 25:
+Case 26: OR, XOR
+Case 27:
+Case 28: AND
+Case 29: NAND, NOR, XNOR
+Case 30:
+Case 31:
+Case 32:
+Case 33:
+Case 34: OR, XOR
+Case 35:
+Case 36: AND, NOR, XNOR
+Case 37: NAND
+Case 38:
+Case 39:
+Case 40:
+Case 41:
+Case 42:
+Case 43: OR, XOR
+Case 44:
+Case 45: AND
+Case 46: NAND
+Case 47:
+Case 48:
+Case 49:
+Case 50:
+Case 51:
+Case 52: NOR, XNOR
+Case 53: OR, XOR
+Case 54:
+Case 55: AND
+Case 56: NAND
+Case 57:
+Case 58:
+Case 59:
+Case 60:
+Case 61: NOR, XNOR
+Case 62:
+Case 63:
+Case 64: OR, XOR
+Case 65:
+Case 66: AND
+Case 67: NAND
+Case 68:
+Case 69:
+Case 70:
+Case 71: NOR, XNOR
+Case 72:
+Case 73:
+Case 74:
+Case 75:
+Case 76: OR, XOR
+Case 77:
+Case 78: AND
+Case 79: NAND
+Case 80:
+Case 81:
+Case 82: NOR, XNOR
+Case 83:
+Case 84:
+Case 85:
+Case 86:
+Case 87:
+Case 88:
+Case 89: OR, XOR
+Case 90:
+Case 91: AND
+Case 92: NAND
+Case 93:
+Case 94: NOR, XNOR
+Case 95:
+Case 96:
+Case 97:
+Case 98:
+Case 99:
+Case 100:
+Case 101:
+Case 102:
+Case 103: OR, XOR
+Case 104:
+Case 105: AND
+Case 106: NAND
+Case 107: NOR, XNOR
+Case 108:
+Case 109:
+Case 110:
+Case 111:
+Case 112:
+Case 113:
+Case 114:
+Case 115:
+Case 116:
+Case 117:
+Case 118: OR, XOR
+Case 119:
+Case 120: AND
+Case 121: NAND, NOR, XNOR
+Case 122:
+Case 123:
+Case 124:
+Case 125:
+Case 126:
+Case 127:
+Case 128:
+Case 129:
+Case 130:
+Case 131:
+Case 132:
+Case 133:
+Case 134: OR, XOR
+Case 135:
+Case 136: AND, NOR, XNOR
+Case 137: NAND
+Case 138:
+Case 139:
+Case 140:
+Case 141:
+Case 142:
+Case 143:
+Case 144:
+Case 145:
+Case 146:
+Case 147:
+Case 148:
+Case 149:
+Case 150:
+Case 151: OR, XOR
+Case 152:
+Case 153: AND
+Case 154: NAND
+Case 155:
+Case 156:
+Case 157:
+Case 158:
+Case 159:
+Case 160:
+Case 161:
+Case 162:
+Case 163:
+Case 164:
+Case 165:
+Case 166:
+Case 167:
+Case 168: NOR, XNOR
+Case 169: OR, XOR
+Case 170:
+Case 171: AND
+Case 172: NAND
+Case 173:
+Case 174:
+Case 175:
+Case 176:
+Case 177:
+Case 178:
+Case 179:
+Case 180:
+Case 181:
+Case 182:
+Case 183:
+Case 184:
+Case 185: NOR, XNOR
+Case 186:
+Case 187:
+Case 188: OR, XOR
+Case 189:
+Case 190: AND
+Case 191: NAND
+Case 192:
+Case 193:
+Case 194:
+Case 195:
+Case 196:
+Case 197:
+Case 198:
+Case 199:
+Case 200:
+Case 201:
+Case 202:
+Case 203: NOR, XNOR
+Case 204:
+Case 205:
+Case 206:
+Case 207:
+Case 208: OR, XOR
+Case 209:
+Case 210: AND
+Case 211: NAND
+Case 212:
+Case 213:
+Case 214:
+Case 215:
+Case 216:
+Case 217:
+Case 218:
+Case 219:
+Case 220:
+Case 221:
+Case 222: NOR, XNOR
+Case 223:
+Case 224:
+Case 225:
+Case 226:
+Case 227:
+Case 228:
+Case 229: OR, XOR
+Case 230:
+Case 231: AND
+Case 232: NAND
+Case 233:
+Case 234:
+Case 235:
+Case 236:
+Case 237:
+Case 238:
+Case 239:
+Case 240:
+Case 241:
+Case 242: NOR, XNOR
+Case 243:
+Case 244:
+Case 245:
+Case 246:
+Case 247:
+Case 248:
+Case 249:
+Case 250:
+Case 251: OR, XOR
+Case 252:
+Case 253: AND
+Case 254: NAND
+Case 255:
+Case 256:
+Case 257:
+Case 258:
+Case 259:
+Case 260:
+Case 261:
+Case 262:
+Case 263: NOR, XNOR
+Case 264:
+Case 265:
+Case 266:
+Case 267:
+Case 268:
+Case 269:
+Case 270:
+Case 271:
+Case 272:
+Case 273:
+Case 274: OR, XOR
+Case 275:
+Case 276: AND
+Case 277: NAND
+Case 278:
+Case 279:
+Case 280:
+Case 281:
+Case 282:
+Case 283:
+Case 284:
+Case 285: NOR, XNOR
+Case 286:
+Case 287:
+Case 288:
+Case 289:
+Case 290:
+Case 291:
+Case 292:
+Case 293:
+Case 294:
+Case 295:
+Case 296:
+Case 297:
+Case 298: OR, XOR
+Case 299:
+Case 300: AND
+Case 301: NAND
+Case 302:
+Case 303:
+Case 304:
+Case 305:
+Case 306:
+Case 307:
+Case 308: NOR, XNOR
+Case 309:
+Case 310:
+Case 311:
+Case 312:
+Case 313:
+Case 314:
+Case 315:
+Case 316:
+Case 317:
+Case 318:
+Case 319:
+Case 320:
+Case 321:
+Case 322:
+Case 323: OR, XOR
+Case 324:
+Case 325: AND
+Case 326: NAND
+Case 327:
+Case 328:
+Case 329:
+Case 330:
+Case 331:
+Case 332: NOR, XNOR
+Case 333:
+Case 334:
+Case 335:
+Case 336:
+Case 337:
+Case 338:
+Case 339:
+Case 340:
+Case 341:
+Case 342:
+Case 343:
+Case 344:
+Case 345:
+Case 346:
+Case 347:
+Case 348:
+Case 349: OR, XOR
+Case 350:
+Case 351: AND
+Case 352: NAND
+Case 353:
+Case 354:
+Case 355:
+Case 356:
+Case 357: NOR, XNOR
+Case 358:
+Case 359:
+Case 360:
+Case 361:
+Case 362:
+Case 363:
+Case 364:
+Case 365:
+Case 366:
+Case 367:
+Case 368:
+Case 369:
+Case 370:
+Case 371:
+Case 372:
+Case 373:
+Case 374:
+Case 375:
+Case 376: OR, XOR
+Case 377:
+Case 378: AND, NOR, XNOR
+Case 379: OR, NAND, XOR
+Case 380: NAND, NOR, XOR
+Case 381: AND, OR, XNOR
+Case 382:
+Case 383: AND, NOR, XNOR
+Case 384: NAND
+Case 385:
+Case 386: OR, XOR
+Case 387: NAND, NOR
+Case 388: AND, XNOR
+Case 389: XOR
+Case 390: OR
+Case 391:
+Case 392: AND
+Case 393: NAND
+Case 394: NOR, XNOR
+Case 395:
+Case 396:
+Case 397: OR, XOR
+Case 398: NAND
+Case 399: AND
+Case 400: NOR
+Case 401: XNOR
+Case 402: XOR
+Case 403: OR
+Case 404:
+Case 405: AND, NOR, XNOR
+Case 406: NAND
+Case 407:
+Case 408:
+Case 409:
+Case 410:
+Case 411:
+Case 412: OR, XOR
+Case 413: NAND, NOR
+Case 414: AND, XNOR
+Case 415:
+Case 416:
+Case 417:
+Case 418:
+Case 419: XOR
+Case 420: OR
+Case 421:
+Case 422: AND
+Case 423: NAND
+Case 424:
+Case 425:
+Case 426:
+Case 427:
+Case 428: NOR, XNOR
+Case 429:
+Case 430:
+Case 431: OR, XOR
+Case 432: NAND
+Case 433: AND
+Case 434:
+Case 435:
+Case 436:
+Case 437:
+Case 438: NOR
+Case 439: XNOR
+Case 440: XOR
+Case 441: OR
+Case 442:
+Case 443: AND
+Case 444: NAND
+Case 445:
+Case 446:
+Case 447: NOR, XNOR
+Case 448:
+Case 449:
+Case 450:
+Case 451:
+Case 452:
+Case 453:
+Case 454: OR, XOR
+Case 455: NAND
+Case 456: AND
+Case 457:
+Case 458:
+Case 459: NOR
+Case 460: XNOR
+Case 461:
+Case 462:
+Case 463:
+Case 464:
+Case 465: XOR
+Case 466: OR
+Case 467:
+Case 468: AND
+Case 469: NAND
+Case 470: NOR, XNOR
+Case 471:
+Case 472:
+Case 473:
+Case 474:
+Case 475:
+Case 476:
+Case 477:
+Case 478:
+Case 479:
+Case 480:
+Case 481: OR, XOR
+Case 482: NAND
+Case 483: AND
+Case 484: NOR
+Case 485: XNOR
+Case 486:
+Case 487:
+Case 488:
+Case 489:
+Case 490:
+Case 491:
+Case 492:
+Case 493:
+Case 494: XOR
+Case 495: OR
+Case 496:
+Case 497: AND, NOR, XNOR
+Case 498: NAND
+Case 499:
+Case 500:
+Case 501:
+Case 502:
+Case 503:
+Case 504:
+Case 505:
+Case 506:
+Case 507:
+Case 508:
+Case 509:
+Case 510:
+Case 511:
+Case 512: OR, XOR
+Case 513: NAND, NOR
+Case 514: AND, XNOR
+Case 515:
+Case 516:
+Case 517:
+Case 518:
+Case 519:
+Case 520:
+Case 521:
+Case 522:
+Case 523:
+Case 524:
+Case 525:
+Case 526:
+Case 527: XOR
+Case 528: OR
+Case 529:
+Case 530: AND
+Case 531: NAND
+Case 532:
+Case 533:
+Case 534:
+Case 535:
+Case 536:
+Case 537:
+Case 538:
+Case 539:
+Case 540:
+Case 541:
+Case 542:
+Case 543:
+Case 544: NOR, XNOR
+Case 545:
+Case 546:
+Case 547: OR, XOR
+Case 548: NAND
+Case 549: AND
+Case 550:
+Case 551:
+Case 552:
+Case 553:
+Case 554:
+Case 555:
+Case 556:
+Case 557:
+Case 558:
+Case 559:
+Case 560:
+Case 561:
+Case 562: NOR
+Case 563: XNOR
+Case 564: XOR
+Case 565: OR
+Case 566:
+Case 567: AND
+Case 568: NAND
+Case 569:
+Case 570:
+Case 571:
+Case 572:
+Case 573:
+Case 574:
+Case 575:
+Case 576:
+Case 577:
+Case 578:
+Case 579: NOR, XNOR
+Case 580:
+Case 581:
+Case 582:
+Case 583:
+Case 584:
+Case 585:
+Case 586: OR, XOR
+Case 587: NAND
+Case 588: AND
+Case 589:
+Case 590:
+Case 591:
+Case 592:
+Case 593:
+Case 594:
+Case 595:
+Case 596:
+Case 597:
+Case 598:
+Case 599: NOR
+Case 600: XNOR
+Case 601:
+Case 602:
+Case 603:
+Case 604:
+Case 605: XOR
+Case 606: OR
+Case 607:
+Case 608: AND
+Case 609: NAND
+Case 610:
+Case 611:
+Case 612:
+Case 613:
+Case 614:
+Case 615:
+Case 616:
+Case 617:
+Case 618: NOR, XNOR
+Case 619:
+Case 620:
+Case 621:
+Case 622:
+Case 623:
+Case 624:
+Case 625:
+Case 626:
+Case 627:
+Case 628:
+Case 629: OR, XOR
+Case 630: NAND
+Case 631: AND
+Case 632:
+Case 633:
+Case 634:
+Case 635:
+Case 636:
+Case 637:
+Case 638:
+Case 639:
+Case 640: NOR
+Case 641: XNOR
+Case 642:
+Case 643:
+Case 644:
+Case 645:
+Case 646:
+Case 647:
+Case 648:
+Case 649:
+Case 650: XOR
+Case 651: OR
+Case 652:
+Case 653: AND
+Case 654: NAND
+Case 655:
+Case 656:
+Case 657:
+Case 658:
+Case 659:
+Case 660:
+Case 661: NOR, XNOR
+Case 662:
+Case 663:
+Case 664:
+Case 665:
+Case 666:
+Case 667:
+Case 668:
+Case 669:
+Case 670:
+Case 671:
+Case 672:
+Case 673:
+Case 674:
+Case 675:
+Case 676: OR, XOR
+Case 677: NAND
+Case 678: AND
+Case 679:
+Case 680:
+Case 681:
+Case 682:
+Case 683:
+Case 684:
+Case 685: NOR
+Case 686: XNOR
+Case 687:
+Case 688:
+Case 689:
+Case 690:
+Case 691:
+Case 692:
+Case 693:
+Case 694:
+Case 695:
+Case 696:
+Case 697:
+Case 698:
+Case 699: XOR
+Case 700: OR
+Case 701:
+Case 702: AND
+Case 703: NAND
+Case 704:
+Case 705:
+Case 706:
+Case 707:
+Case 708: NOR, XNOR
+Case 709:
+Case 710:
+Case 711:
+Case 712:
+Case 713:
+Case 714:
+Case 715:
+Case 716:
+Case 717:
+Case 718:
+Case 719:
+Case 720:
+Case 721:
+Case 722:
+Case 723:
+Case 724:
+Case 725:
+Case 726:
+Case 727: OR, XOR
+Case 728: NAND
+Case 729: AND
+Case 730:
+Case 731:
+Case 732:
+Case 733:
+Case 734: NOR
+Case 735: XNOR
+Case 736:
+Case 737:
+Case 738:
+Case 739:
+Case 740:
+Case 741:
+Case 742:
+Case 743:
+Case 744:
+Case 745:
+Case 746:
+Case 747:
+Case 748:
+Case 749:
+Case 750:
+Case 751:
+Case 752: XOR
+Case 753: OR
+Case 754:
+Case 755: AND
+Case 756: NAND, NOR, XNOR
+Case 757: AND, NOR, XNOR
+Case 758: NAND
+Case 759:
+Case 760: XOR
+Case 761: NAND, NOR, XNOR
+Case 762: AND, OR
+Case 763:
+Case 764: NOR, XNOR
+Case 765: NAND, XOR
+Case 766: AND
+Case 767: OR
+Case 768:
+Case 769: AND
+Case 770: NAND, NOR, XNOR
+Case 771:
+Case 772:
+Case 773:
+Case 774:
+Case 775: AND, NOR, XNOR
+Case 776: NAND
+Case 777:
+Case 778:
+Case 779:
+Case 780:
+Case 781:
+Case 782:
+Case 783: NAND, NOR
+Case 784: AND
+Case 785: XNOR
+Case 786: XOR
+Case 787:
+Case 788: OR
+Case 789:
+Case 790: NOR
+Case 791: NAND
+Case 792: AND, XNOR
+Case 793:
+Case 794:
+Case 795: XOR
+Case 796:
+Case 797: OR
+Case 798:
+Case 799: AND
+Case 800: NAND
+Case 801:
+Case 802:
+Case 803:
+Case 804: NOR, XNOR
+Case 805:
+Case 806:
+Case 807:
+Case 808:
+Case 809: AND
+Case 810: NAND
+Case 811:
+Case 812:
+Case 813: NOR, XNOR
+Case 814:
+Case 815:
+Case 816:
+Case 817:
+Case 818:
+Case 819:
+Case 820:
+Case 821: NAND
+Case 822: AND
+Case 823:
+Case 824:
+Case 825: NOR
+Case 826:
+Case 827: XNOR
+Case 828: XOR
+Case 829:
+Case 830: OR
+Case 831:
+Case 832:
+Case 833: NAND
+Case 834: AND
+Case 835:
+Case 836: NOR
+Case 837:
+Case 838: XNOR
+Case 839:
+Case 840:
+Case 841: XOR
+Case 842:
+Case 843: OR
+Case 844:
+Case 845: AND
+Case 846: NAND, NOR, XNOR
+Case 847:
+Case 848:
+Case 849:
+Case 850:
+Case 851:
+Case 852:
+Case 853:
+Case 854:
+Case 855:
+Case 856:
+Case 857:
+Case 858:
+Case 859: AND, NOR, XNOR
+Case 860: NAND
+Case 861:
+Case 862:
+Case 863:
+Case 864:
+Case 865:
+Case 866:
+Case 867:
+Case 868:
+Case 869:
+Case 870:
+Case 871:
+Case 872:
+Case 873:
+Case 874:
+Case 875: NAND, NOR
+Case 876: AND
+Case 877: XNOR
+Case 878:
+Case 879:
+Case 880:
+Case 881:
+Case 882:
+Case 883:
+Case 884:
+Case 885:
+Case 886: XOR
+Case 887:
+Case 888: OR
+Case 889:
+Case 890: NOR
+Case 891: NAND
+Case 892: AND, XNOR
+Case 893:
+Case 894:
+Case 895:
+Case 896:
+Case 897:
+Case 898:
+Case 899:
+Case 900:
+Case 901:
+Case 902:
+Case 903: XOR
+Case 904:
+Case 905: OR
+Case 906:
+Case 907: AND
+Case 908: NAND
+Case 909:
+Case 910:
+Case 911:
+Case 912:
+Case 913:
+Case 914:
+Case 915:
+Case 916:
+Case 917:
+Case 918:
+Case 919:
+Case 920: NOR, XNOR
+Case 921:
+Case 922:
+Case 923:
+Case 924:
+Case 925: AND
+Case 926: NAND
+Case 927:
+Case 928:
+Case 929:
+Case 930:
+Case 931:
+Case 932:
+Case 933:
+Case 934:
+Case 935:
+Case 936:
+Case 937: NOR, XNOR
+Case 938:
+Case 939:
+Case 940:
+Case 941:
+Case 942:
+Case 943:
+Case 944:
+Case 945: NAND
+Case 946: AND
+Case 947:
+Case 948:
+Case 949:
+Case 950:
+Case 951:
+Case 952:
+Case 953:
+Case 954:
+Case 955:
+Case 956:
+Case 957: NOR
+Case 958:
+Case 959: XNOR
+Case 960: XOR
+Case 961:
+Case 962: OR
+Case 963:
+Case 964:
+Case 965: NAND
+Case 966: AND
+Case 967:
+Case 968:
+Case 969:
+Case 970:
+Case 971:
+Case 972:
+Case 973:
+Case 974:
+Case 975:
+Case 976: NOR
+Case 977:
+Case 978: XNOR
+Case 979:
+Case 980:
+Case 981: XOR
+Case 982:
+Case 983: OR
+Case 984:
+Case 985: AND
+Case 986: NAND
+Case 987:
+Case 988:
+Case 989:
+Case 990:
+Case 991:
+Case 992:
+Case 993:
+Case 994: NOR, XNOR
+Case 995:
+Case 996:
+Case 997:
+Case 998:
+Case 999:
+Case 1000:
+Case 1001:
+Case 1002:
+Case 1003:
+Case 1004:
+Case 1005:
+Case 1006:
+Case 1007: AND
+Case 1008: NAND
+Case 1009:
+Case 1010:
+Case 1011:
+Case 1012:
+Case 1013:
+Case 1014:
+Case 1015: NOR, XNOR
+Case 1016:
+Case 1017:
+Case 1018:
+Case 1019:
+Case 1020:
+Case 1021:
+Case 1022:
+Case 1023:
+Case 1024:
+Case 1025:
+Case 1026:
+Case 1027:
+Case 1028:
+Case 1029:
+Case 1030:
+Case 1031: NAND
+Case 1032: AND
+Case 1033:
+Case 1034:
+Case 1035:
+Case 1036:
+Case 1037:
+Case 1038:
+Case 1039: NOR
+Case 1040:
+Case 1041: XNOR
+Case 1042:
+Case 1043:
+Case 1044:
+Case 1045:
+Case 1046:
+Case 1047:
+Case 1048:
+Case 1049:
+Case 1050: XOR
+Case 1051:
+Case 1052: OR
+Case 1053:
+Case 1054:
+Case 1055: NAND
+Case 1056: AND
+Case 1057:
+Case 1058:
+Case 1059:
+Case 1060:
+Case 1061:
+Case 1062: NOR
+Case 1063:
+Case 1064: XNOR
+Case 1065:
+Case 1066:
+Case 1067:
+Case 1068:
+Case 1069:
+Case 1070:
+Case 1071:
+Case 1072:
+Case 1073:
+Case 1074:
+Case 1075: XOR
+Case 1076:
+Case 1077: OR
+Case 1078:
+Case 1079: AND
+Case 1080: NAND
+Case 1081:
+Case 1082:
+Case 1083:
+Case 1084: NOR, XNOR
+Case 1085:
+Case 1086:
+Case 1087:
+Case 1088:
+Case 1089:
+Case 1090:
+Case 1091:
+Case 1092:
+Case 1093:
+Case 1094:
+Case 1095:
+Case 1096:
+Case 1097:
+Case 1098:
+Case 1099:
+Case 1100:
+Case 1101:
+Case 1102:
+Case 1103:
+Case 1104:
+Case 1105: AND
+Case 1106: NAND
+Case 1107:
+Case 1108:
+Case 1109: NOR, XNOR
+Case 1110:
+Case 1111:
+Case 1112:
+Case 1113:
+Case 1114:
+Case 1115:
+Case 1116:
+Case 1117:
+Case 1118:
+Case 1119:
+Case 1120:
+Case 1121:
+Case 1122:
+Case 1123:
+Case 1124:
+Case 1125:
+Case 1126:
+Case 1127:
+Case 1128:
+Case 1129:
+Case 1130:
+Case 1131:
+Case 1132: AND, NOR, XNOR
+Case 1133: NAND
+Case 1134: NAND, NOR
+Case 1135: AND, XNOR
+Case 1136: XOR
+Case 1137: NOR, XNOR
+Case 1138: NAND, XOR
+Case 1139: AND
+Case 1140: OR
+Case 1141: NAND, NOR, XOR
+Case 1142: XNOR
+Case 1143:
+Case 1144: AND, OR
+Case 1145:
+Case 1146: AND, NOR, XNOR
+Case 1147: NAND
+Case 1148:
+Case 1149:
+Case 1150:
+Case 1151:
+Case 1152: NAND, NOR
+Case 1153: AND, XNOR
+Case 1154:
+Case 1155:
+Case 1156:
+Case 1157:
+Case 1158: XOR
+Case 1159: NOR
+Case 1160: NAND
+Case 1161: AND, XNOR
+Case 1162:
+Case 1163:
+Case 1164: XOR
+Case 1165:
+Case 1166: OR
+Case 1167: NAND, NOR
+Case 1168:
+Case 1169:
+Case 1170: AND, XNOR
+Case 1171: XOR
+Case 1172:
+Case 1173:
+Case 1174: OR
+Case 1175:
+Case 1176: AND
+Case 1177: NAND
+Case 1178:
+Case 1179:
+Case 1180: NOR, XNOR
+Case 1181:
+Case 1182:
+Case 1183:
+Case 1184:
+Case 1185:
+Case 1186: NAND
+Case 1187: AND
+Case 1188:
+Case 1189:
+Case 1190: NOR
+Case 1191: XNOR
+Case 1192:
+Case 1193:
+Case 1194:
+Case 1195:
+Case 1196: XOR
+Case 1197:
+Case 1198: NAND
+Case 1199: AND
+Case 1200:
+Case 1201: NOR
+Case 1202:
+Case 1203: XNOR
+Case 1204:
+Case 1205:
+Case 1206: XOR
+Case 1207:
+Case 1208: OR
+Case 1209: NAND
+Case 1210:
+Case 1211:
+Case 1212: AND
+Case 1213: NOR
+Case 1214:
+Case 1215:
+Case 1216: XNOR
+Case 1217: XOR
+Case 1218:
+Case 1219:
+Case 1220: OR
+Case 1221:
+Case 1222: AND, NOR, XNOR
+Case 1223: NAND
+Case 1224:
+Case 1225:
+Case 1226:
+Case 1227:
+Case 1228:
+Case 1229:
+Case 1230:
+Case 1231:
+Case 1232:
+Case 1233:
+Case 1234:
+Case 1235:
+Case 1236: NAND, NOR
+Case 1237: AND, XNOR
+Case 1238:
+Case 1239:
+Case 1240:
+Case 1241:
+Case 1242:
+Case 1243:
+Case 1244:
+Case 1245:
+Case 1246:
+Case 1247:
+Case 1248:
+Case 1249:
+Case 1250: XOR
+Case 1251: NOR
+Case 1252: NAND
+Case 1253: AND, XNOR
+Case 1254:
+Case 1255:
+Case 1256:
+Case 1257:
+Case 1258:
+Case 1259:
+Case 1260:
+Case 1261:
+Case 1262:
+Case 1263:
+Case 1264: XOR
+Case 1265:
+Case 1266: OR
+Case 1267: NAND, NOR
+Case 1268:
+Case 1269:
+Case 1270: AND, XNOR
+Case 1271:
+Case 1272:
+Case 1273:
+Case 1274:
+Case 1275:
+Case 1276:
+Case 1277:
+Case 1278:
+Case 1279: XOR
+Case 1280:
+Case 1281:
+Case 1282: OR
+Case 1283:
+Case 1284: AND
+Case 1285: NAND
+Case 1286:
+Case 1287:
+Case 1288:
+Case 1289:
+Case 1290:
+Case 1291:
+Case 1292:
+Case 1293:
+Case 1294:
+Case 1295:
+Case 1296: NOR, XNOR
+Case 1297:
+Case 1298:
+Case 1299:
+Case 1300:
+Case 1301:
+Case 1302: NAND
+Case 1303: AND
+Case 1304:
+Case 1305:
+Case 1306:
+Case 1307:
+Case 1308:
+Case 1309:
+Case 1310:
+Case 1311:
+Case 1312:
+Case 1313:
+Case 1314: NOR
+Case 1315: XNOR
+Case 1316:
+Case 1317:
+Case 1318:
+Case 1319:
+Case 1320: XOR
+Case 1321:
+Case 1322: NAND
+Case 1323: AND
+Case 1324:
+Case 1325:
+Case 1326:
+Case 1327:
+Case 1328:
+Case 1329:
+Case 1330:
+Case 1331:
+Case 1332:
+Case 1333: NOR
+Case 1334:
+Case 1335: XNOR
+Case 1336:
+Case 1337:
+Case 1338: XOR
+Case 1339:
+Case 1340: OR
+Case 1341: NAND
+Case 1342:
+Case 1343:
+Case 1344: AND
+Case 1345:
+Case 1346:
+Case 1347:
+Case 1348:
+Case 1349:
+Case 1350:
+Case 1351:
+Case 1352:
+Case 1353: NOR
+Case 1354:
+Case 1355:
+Case 1356: XNOR
+Case 1357: XOR
+Case 1358:
+Case 1359:
+Case 1360: OR
+Case 1361:
+Case 1362: AND
+Case 1363: NAND
+Case 1364:
+Case 1365:
+Case 1366:
+Case 1367:
+Case 1368:
+Case 1369:
+Case 1370: NOR, XNOR
+Case 1371:
+Case 1372:
+Case 1373:
+Case 1374:
+Case 1375:
+Case 1376:
+Case 1377:
+Case 1378:
+Case 1379:
+Case 1380:
+Case 1381:
+Case 1382:
+Case 1383:
+Case 1384: NAND
+Case 1385: AND
+Case 1386:
+Case 1387:
+Case 1388:
+Case 1389:
+Case 1390:
+Case 1391:
+Case 1392: NOR
+Case 1393: XNOR
+Case 1394:
+Case 1395:
+Case 1396:
+Case 1397:
+Case 1398:
+Case 1399:
+Case 1400:
+Case 1401:
+Case 1402:
+Case 1403:
+Case 1404:
+Case 1405:
+Case 1406: XOR
+Case 1407:
+Case 1408: NAND
+Case 1409: AND
+Case 1410:
+Case 1411:
+Case 1412:
+Case 1413:
+Case 1414:
+Case 1415: NOR
+Case 1416:
+Case 1417: XNOR
+Case 1418:
+Case 1419:
+Case 1420:
+Case 1421:
+Case 1422:
+Case 1423:
+Case 1424:
+Case 1425:
+Case 1426:
+Case 1427:
+Case 1428: XOR
+Case 1429:
+Case 1430: OR
+Case 1431: NAND
+Case 1432:
+Case 1433:
+Case 1434: AND
+Case 1435:
+Case 1436:
+Case 1437:
+Case 1438:
+Case 1439: NOR
+Case 1440:
+Case 1441:
+Case 1442: XNOR
+Case 1443:
+Case 1444:
+Case 1445:
+Case 1446:
+Case 1447:
+Case 1448:
+Case 1449:
+Case 1450:
+Case 1451: XOR
+Case 1452:
+Case 1453:
+Case 1454: OR
+Case 1455:
+Case 1456: AND
+Case 1457: NAND
+Case 1458:
+Case 1459:
+Case 1460: NOR, XNOR
+Case 1461:
+Case 1462:
+Case 1463:
+Case 1464:
+Case 1465:
+Case 1466:
+Case 1467:
+Case 1468:
+Case 1469:
+Case 1470:
+Case 1471:
+Case 1472:
+Case 1473:
+Case 1474:
+Case 1475:
+Case 1476:
+Case 1477:
+Case 1478:
+Case 1479:
+Case 1480:
+Case 1481:
+Case 1482: NAND
+Case 1483: AND
+Case 1484:
+Case 1485:
+Case 1486: NOR
+Case 1487: XNOR
+Case 1488:
+Case 1489:
+Case 1490:
+Case 1491:
+Case 1492:
+Case 1493:
+Case 1494:
+Case 1495:
+Case 1496:
+Case 1497:
+Case 1498:
+Case 1499:
+Case 1500:
+Case 1501:
+Case 1502:
+Case 1503:
+Case 1504:
+Case 1505:
+Case 1506:
+Case 1507:
+Case 1508: XOR
+Case 1509: AND
+Case 1510: NAND
+Case 1511: AND
+Case 1512: NAND
+Case 1513: NOR, XNOR
+Case 1514: AND
+Case 1515: NAND, NOR, XNOR
+Case 1516:
+Case 1517:
+Case 1518: AND, NOR, XNOR
+Case 1519: NAND
+Case 1520:
+Case 1521:
+Case 1522:
+Case 1523: XOR
+Case 1524: XNOR
+Case 1525:
+Case 1526: NAND, NOR
+Case 1527: AND, OR
+Case 1528:
+Case 1529: XNOR
+Case 1530: XOR
+Case 1531: NOR
+Case 1532: NAND
+Case 1533: AND
+Case 1534: OR
+Case 1535:
+Case 1536:
+Case 1537: NOR, XNOR
+Case 1538: XOR
+Case 1539: NAND
+Case 1540: AND
+Case 1541:
+Case 1542: OR
+Case 1543:
+Case 1544: NOR, XNOR
+Case 1545:
+Case 1546:
+Case 1547: NAND, XOR
+Case 1548: AND
+Case 1549:
+Case 1550:
+Case 1551: OR
+Case 1552:
+Case 1553: AND
+Case 1554: NAND
+Case 1555:
+Case 1556: NOR, XNOR
+Case 1557:
+Case 1558:
+Case 1559:
+Case 1560:
+Case 1561:
+Case 1562:
+Case 1563: AND
+Case 1564: NAND
+Case 1565: NOR, XNOR
+Case 1566:
+Case 1567:
+Case 1568:
+Case 1569:
+Case 1570:
+Case 1571:
+Case 1572:
+Case 1573:
+Case 1574: AND
+Case 1575: NAND, NOR, XNOR
+Case 1576:
+Case 1577:
+Case 1578:
+Case 1579:
+Case 1580:
+Case 1581:
+Case 1582:
+Case 1583:
+Case 1584:
+Case 1585:
+Case 1586: AND, NOR, XNOR
+Case 1587: NAND
+Case 1588:
+Case 1589:
+Case 1590:
+Case 1591:
+Case 1592:
+Case 1593:
+Case 1594:
+Case 1595:
+Case 1596:
+Case 1597:
+Case 1598:
+Case 1599:
+Case 1600:
+Case 1601:
+Case 1602: NAND, NOR
+Case 1603: AND
+Case 1604:
+Case 1605:
+Case 1606: XNOR
+Case 1607: XOR
+Case 1608:
+Case 1609:
+Case 1610:
+Case 1611: OR
+Case 1612:
+Case 1613:
+Case 1614:
+Case 1615: NOR
+Case 1616: NAND
+Case 1617: AND
+Case 1618:
+Case 1619: XNOR
+Case 1620:
+Case 1621:
+Case 1622: XOR
+Case 1623:
+Case 1624:
+Case 1625:
+Case 1626: OR
+Case 1627:
+Case 1628:
+Case 1629: NOR
+Case 1630:
+Case 1631: NAND
+Case 1632: AND
+Case 1633: XNOR
+Case 1634:
+Case 1635:
+Case 1636:
+Case 1637:
+Case 1638: XOR
+Case 1639:
+Case 1640:
+Case 1641:
+Case 1642: OR
+Case 1643:
+Case 1644: NOR
+Case 1645:
+Case 1646:
+Case 1647: NAND
+Case 1648: AND, XNOR
+Case 1649:
+Case 1650:
+Case 1651:
+Case 1652:
+Case 1653:
+Case 1654:
+Case 1655: XOR
+Case 1656:
+Case 1657:
+Case 1658:
+Case 1659: OR
+Case 1660:
+Case 1661: AND
+Case 1662: NAND
+Case 1663:
+Case 1664:
+Case 1665:
+Case 1666:
+Case 1667:
+Case 1668:
+Case 1669:
+Case 1670:
+Case 1671:
+Case 1672: NOR, XNOR
+Case 1673:
+Case 1674:
+Case 1675:
+Case 1676:
+Case 1677:
+Case 1678:
+Case 1679: AND
+Case 1680: NAND
+Case 1681:
+Case 1682:
+Case 1683:
+Case 1684:
+Case 1685:
+Case 1686:
+Case 1687:
+Case 1688:
+Case 1689: NOR, XNOR
+Case 1690:
+Case 1691:
+Case 1692:
+Case 1693:
+Case 1694:
+Case 1695:
+Case 1696:
+Case 1697:
+Case 1698: AND
+Case 1699: NAND
+Case 1700:
+Case 1701:
+Case 1702:
+Case 1703:
+Case 1704:
+Case 1705:
+Case 1706:
+Case 1707: NOR, XNOR
+Case 1708:
+Case 1709:
+Case 1710:
+Case 1711:
+Case 1712:
+Case 1713:
+Case 1714:
+Case 1715:
+Case 1716:
+Case 1717:
+Case 1718: AND
+Case 1719: NAND
+Case 1720:
+Case 1721:
+Case 1722:
+Case 1723:
+Case 1724:
+Case 1725:
+Case 1726: NOR, XNOR
+Case 1727:
+Case 1728:
+Case 1729:
+Case 1730:
+Case 1731:
+Case 1732:
+Case 1733:
+Case 1734:
+Case 1735:
+Case 1736:
+Case 1737:
+Case 1738:
+Case 1739:
+Case 1740:
+Case 1741:
+Case 1742: NAND
+Case 1743: AND
+Case 1744:
+Case 1745:
+Case 1746:
+Case 1747:
+Case 1748:
+Case 1749:
+Case 1750: NOR
+Case 1751:
+Case 1752:
+Case 1753:
+Case 1754: XNOR
+Case 1755: XOR
+Case 1756:
+Case 1757:
+Case 1758:
+Case 1759: OR
+Case 1760:
+Case 1761:
+Case 1762:
+Case 1763:
+Case 1764: NAND
+Case 1765: AND
+Case 1766:
+Case 1767:
+Case 1768:
+Case 1769:
+Case 1770:
+Case 1771: NOR
+Case 1772:
+Case 1773:
+Case 1774:
+Case 1775: XNOR
+Case 1776:
+Case 1777:
+Case 1778: XOR
+Case 1779:
+Case 1780:
+Case 1781:
+Case 1782: OR
+Case 1783:
+Case 1784:
+Case 1785:
+Case 1786:
+Case 1787: NAND
+Case 1788: AND
+Case 1789:
+Case 1790:
+Case 1791:
+Case 1792:
+Case 1793: NOR
+Case 1794:
+Case 1795:
+Case 1796:
+Case 1797: XNOR
+Case 1798:
+Case 1799:
+Case 1800:
+Case 1801:
+Case 1802: XOR
+Case 1803:
+Case 1804:
+Case 1805:
+Case 1806: OR
+Case 1807:
+Case 1808:
+Case 1809:
+Case 1810:
+Case 1811: NAND
+Case 1812: AND
+Case 1813:
+Case 1814:
+Case 1815:
+Case 1816: NOR
+Case 1817:
+Case 1818:
+Case 1819:
+Case 1820: XNOR
+Case 1821:
+Case 1822:
+Case 1823:
+Case 1824:
+Case 1825:
+Case 1826:
+Case 1827: XOR
+Case 1828:
+Case 1829:
+Case 1830:
+Case 1831: OR
+Case 1832:
+Case 1833: AND
+Case 1834: NAND
+Case 1835:
+Case 1836: NOR, XNOR
+Case 1837:
+Case 1838:
+Case 1839:
+Case 1840:
+Case 1841:
+Case 1842:
+Case 1843:
+Case 1844:
+Case 1845:
+Case 1846:
+Case 1847:
+Case 1848:
+Case 1849:
+Case 1850:
+Case 1851:
+Case 1852:
+Case 1853:
+Case 1854:
+Case 1855:
+Case 1856:
+Case 1857:
+Case 1858:
+Case 1859: AND
+Case 1860: NAND
+Case 1861: NOR, XNOR
+Case 1862:
+Case 1863:
+Case 1864:
+Case 1865:
+Case 1866:
+Case 1867:
+Case 1868:
+Case 1869:
+Case 1870:
+Case 1871:
+Case 1872:
+Case 1873:
+Case 1874:
+Case 1875:
+Case 1876:
+Case 1877:
+Case 1878:
+Case 1879:
+Case 1880:
+Case 1881:
+Case 1882:
+Case 1883:
+Case 1884:
+Case 1885:
+Case 1886: AND
+Case 1887: NAND
+Case 1888: NAND
+Case 1889: AND
+Case 1890: NOR
+Case 1891: AND, NOR, XNOR
+Case 1892: NAND
+Case 1893:
+Case 1894:
+Case 1895: NAND, NOR
+Case 1896: AND, XNOR
+Case 1897:
+Case 1898:
+Case 1899:
+Case 1900: XNOR
+Case 1901: XOR
+Case 1902: NOR
+Case 1903: NAND
+Case 1904: AND
+Case 1905: OR
+Case 1906: XOR
+Case 1907: XNOR
+Case 1908: NAND, NOR
+Case 1909:
+Case 1910:
+Case 1911: AND, OR
+Case 1912:
+Case 1913: NOR, XNOR
+Case 1914:
+Case 1915:
+Case 1916: NAND, XOR
+Case 1917: AND
+Case 1918:
+Case 1919:
+Case 1920: OR
+Case 1921: NOR
+Case 1922: XNOR
+Case 1923: NAND, XOR
+Case 1924:
+Case 1925:
+Case 1926: AND
+Case 1927:
+Case 1928: OR
+Case 1929:
+Case 1930: AND
+Case 1931: NAND
+Case 1932: NOR, XNOR
+Case 1933:
+Case 1934:
+Case 1935:
+Case 1936:
+Case 1937:
+Case 1938:
+Case 1939:
+Case 1940: NAND
+Case 1941: AND
+Case 1942: NOR
+Case 1943: XNOR
+Case 1944:
+Case 1945:
+Case 1946:
+Case 1947:
+Case 1948:
+Case 1949:
+Case 1950:
+Case 1951: AND, NOR, XNOR
+Case 1952: NAND
+Case 1953:
+Case 1954:
+Case 1955:
+Case 1956:
+Case 1957:
+Case 1958:
+Case 1959:
+Case 1960:
+Case 1961:
+Case 1962:
+Case 1963: NAND, NOR
+Case 1964: AND, XNOR
+Case 1965:
+Case 1966:
+Case 1967:
+Case 1968:
+Case 1969:
+Case 1970:
+Case 1971:
+Case 1972:
+Case 1973:
+Case 1974:
+Case 1975:
+Case 1976:
+Case 1977:
+Case 1978: NOR
+Case 1979: NAND
+Case 1980: AND
+Case 1981:
+Case 1982: XNOR
+Case 1983:
+Case 1984:
+Case 1985: XOR
+Case 1986:
+Case 1987:
+Case 1988:
+Case 1989: OR
+Case 1990:
+Case 1991:
+Case 1992: NAND, NOR
+Case 1993:
+Case 1994:
+Case 1995: AND
+Case 1996:
+Case 1997: XNOR
+Case 1998: XOR
+Case 1999:
+Case 2000:
+Case 2001:
+Case 2002:
+Case 2003: OR
+Case 2004:
+Case 2005: NOR
+Case 2006:
+Case 2007:
+Case 2008: NAND
+Case 2009: AND, XNOR
+Case 2010:
+Case 2011:
+Case 2012:
+Case 2013:
+Case 2014:
+Case 2015:
+Case 2016: XOR
+Case 2017:
+Case 2018:
+Case 2019:
+Case 2020: OR
+Case 2021: NOR
+Case 2022:
+Case 2023: NAND
+Case 2024:
+Case 2025:
+Case 2026: AND, XNOR
+Case 2027:
+Case 2028:
+Case 2029:
+Case 2030:
+Case 2031: XOR
+Case 2032:
+Case 2033:
+Case 2034:
+Case 2035:
+Case 2036: OR
+Case 2037:
+Case 2038: AND
+Case 2039: NAND
+Case 2040:
+Case 2041:
+Case 2042:
+Case 2043:
+Case 2044:
+Case 2045:
+Case 2046:
+Case 2047:
+Case 2048: NOR, XNOR
+Case 2049:
+Case 2050:
+Case 2051:
+Case 2052:
+Case 2053:
+Case 2054:
+Case 2055:
+Case 2056: NAND
+Case 2057: AND
+Case 2058:
+Case 2059:
+Case 2060:
+Case 2061:
+Case 2062:
+Case 2063:
+Case 2064:
+Case 2065:
+Case 2066: NOR
+Case 2067: XNOR
+Case 2068:
+Case 2069:
+Case 2070:
+Case 2071:
+Case 2072:
+Case 2073:
+Case 2074:
+Case 2075: AND
+Case 2076: NAND
+Case 2077:
+Case 2078:
+Case 2079:
+Case 2080:
+Case 2081:
+Case 2082:
+Case 2083: NOR, XNOR
+Case 2084:
+Case 2085:
+Case 2086:
+Case 2087:
+Case 2088:
+Case 2089:
+Case 2090:
+Case 2091:
+Case 2092:
+Case 2093:
+Case 2094:
+Case 2095: NAND
+Case 2096: AND
+Case 2097:
+Case 2098:
+Case 2099:
+Case 2100:
+Case 2101:
+Case 2102:
+Case 2103: NOR
+Case 2104: XNOR
+Case 2105:
+Case 2106:
+Case 2107:
+Case 2108:
+Case 2109:
+Case 2110:
+Case 2111:
+Case 2112:
+Case 2113:
+Case 2114:
+Case 2115:
+Case 2116:
+Case 2117:
+Case 2118:
+Case 2119: NAND
+Case 2120: AND
+Case 2121:
+Case 2122:
+Case 2123:
+Case 2124:
+Case 2125:
+Case 2126: NOR
+Case 2127:
+Case 2128:
+Case 2129:
+Case 2130: XNOR
+Case 2131:
+Case 2132:
+Case 2133: XOR
+Case 2134:
+Case 2135:
+Case 2136:
+Case 2137: OR
+Case 2138:
+Case 2139:
+Case 2140: NAND
+Case 2141:
+Case 2142:
+Case 2143: AND
+Case 2144:
+Case 2145:
+Case 2146:
+Case 2147:
+Case 2148: NOR
+Case 2149:
+Case 2150:
+Case 2151:
+Case 2152:
+Case 2153: XNOR
+Case 2154: XOR
+Case 2155:
+Case 2156:
+Case 2157:
+Case 2158:
+Case 2159: OR
+Case 2160:
+Case 2161:
+Case 2162:
+Case 2163:
+Case 2164: NAND
+Case 2165: AND
+Case 2166:
+Case 2167:
+Case 2168:
+Case 2169: NOR
+Case 2170:
+Case 2171:
+Case 2172:
+Case 2173: XNOR
+Case 2174:
+Case 2175:
+Case 2176:
+Case 2177:
+Case 2178:
+Case 2179:
+Case 2180: XOR
+Case 2181:
+Case 2182:
+Case 2183:
+Case 2184: OR
+Case 2185:
+Case 2186:
+Case 2187: NAND
+Case 2188:
+Case 2189:
+Case 2190: AND
+Case 2191:
+Case 2192:
+Case 2193: NOR
+Case 2194:
+Case 2195:
+Case 2196:
+Case 2197:
+Case 2198: XNOR
+Case 2199:
+Case 2200:
+Case 2201:
+Case 2202:
+Case 2203: XOR
+Case 2204:
+Case 2205:
+Case 2206:
+Case 2207:
+Case 2208: OR
+Case 2209:
+Case 2210: AND
+Case 2211: NAND
+Case 2212: NOR, XNOR
+Case 2213:
+Case 2214:
+Case 2215:
+Case 2216:
+Case 2217:
+Case 2218:
+Case 2219:
+Case 2220:
+Case 2221:
+Case 2222:
+Case 2223:
+Case 2224:
+Case 2225:
+Case 2226:
+Case 2227:
+Case 2228:
+Case 2229:
+Case 2230:
+Case 2231:
+Case 2232:
+Case 2233:
+Case 2234:
+Case 2235:
+Case 2236: NAND
+Case 2237: AND
+Case 2238: NOR
+Case 2239: XNOR
+Case 2240:
+Case 2241:
+Case 2242:
+Case 2243:
+Case 2244:
+Case 2245:
+Case 2246:
+Case 2247:
+Case 2248:
+Case 2249:
+Case 2250:
+Case 2251:
+Case 2252:
+Case 2253:
+Case 2254:
+Case 2255:
+Case 2256:
+Case 2257:
+Case 2258:
+Case 2259:
+Case 2260:
+Case 2261:
+Case 2262:
+Case 2263: AND
+Case 2264: NAND, NOR, XNOR
+Case 2265: AND, NOR, XNOR
+Case 2266: NAND
+Case 2267:
+Case 2268:
+Case 2269: NAND, NOR
+Case 2270: AND
+Case 2271: XNOR
+Case 2272: NOR
+Case 2273: NAND
+Case 2274: AND, XNOR
+Case 2275:
+Case 2276:
+Case 2277:
+Case 2278: NOR, XNOR
+Case 2279: XOR
+Case 2280: NAND
+Case 2281: AND
+Case 2282:
+Case 2283: NOR, XNOR
+Case 2284:
+Case 2285:
+Case 2286: NAND, XOR
+Case 2287: AND
+Case 2288:
+Case 2289:
+Case 2290: XOR
+Case 2291: NAND, NOR, XNOR
+Case 2292:
+Case 2293:
+Case 2294:
+Case 2295:
+Case 2296: AND, OR
+Case 2297:
+Case 2298: NOR, XNOR
+Case 2299: NAND, XOR
+Case 2300:
+Case 2301:
+Case 2302:
+Case 2303:
+Case 2304: AND
+Case 2305: OR
+Case 2306:
+Case 2307: AND
+Case 2308: NAND, NOR, XNOR
+Case 2309:
+Case 2310:
+Case 2311:
+Case 2312:
+Case 2313:
+Case 2314:
+Case 2315:
+Case 2316:
+Case 2317: AND, NOR, XNOR
+Case 2318: NAND
+Case 2319:
+Case 2320:
+Case 2321:
+Case 2322:
+Case 2323:
+Case 2324:
+Case 2325:
+Case 2326:
+Case 2327:
+Case 2328:
+Case 2329: NAND, NOR
+Case 2330: AND
+Case 2331: XNOR
+Case 2332:
+Case 2333:
+Case 2334:
+Case 2335:
+Case 2336:
+Case 2337:
+Case 2338:
+Case 2339:
+Case 2340: NOR
+Case 2341: NAND
+Case 2342: AND, XNOR
+Case 2343:
+Case 2344:
+Case 2345:
+Case 2346:
+Case 2347:
+Case 2348:
+Case 2349:
+Case 2350:
+Case 2351:
+Case 2352:
+Case 2353:
+Case 2354: NOR
+Case 2355:
+Case 2356: NAND
+Case 2357: AND
+Case 2358: XNOR
+Case 2359:
+Case 2360:
+Case 2361:
+Case 2362:
+Case 2363: XOR
+Case 2364:
+Case 2365:
+Case 2366:
+Case 2367: NOR
+Case 2368:
+Case 2369:
+Case 2370: NAND
+Case 2371: AND, XNOR
+Case 2372:
+Case 2373:
+Case 2374:
+Case 2375:
+Case 2376:
+Case 2377:
+Case 2378: XOR
+Case 2379:
+Case 2380:
+Case 2381:
+Case 2382:
+Case 2383: NAND, NOR
+Case 2384:
+Case 2385:
+Case 2386:
+Case 2387:
+Case 2388: AND
+Case 2389: XNOR
+Case 2390: XOR
+Case 2391:
+Case 2392:
+Case 2393:
+Case 2394:
+Case 2395:
+Case 2396: OR
+Case 2397:
+Case 2398: NOR
+Case 2399: NAND
+Case 2400:
+Case 2401:
+Case 2402:
+Case 2403:
+Case 2404: AND, XNOR
+Case 2405:
+Case 2406:
+Case 2407: XOR
+Case 2408:
+Case 2409:
+Case 2410:
+Case 2411:
+Case 2412:
+Case 2413: OR
+Case 2414:
+Case 2415: AND
+Case 2416: NAND
+Case 2417:
+Case 2418:
+Case 2419:
+Case 2420:
+Case 2421:
+Case 2422:
+Case 2423:
+Case 2424: NOR, XNOR
+Case 2425:
+Case 2426:
+Case 2427:
+Case 2428:
+Case 2429:
+Case 2430:
+Case 2431:
+Case 2432:
+Case 2433: AND
+Case 2434: NAND
+Case 2435:
+Case 2436:
+Case 2437:
+Case 2438:
+Case 2439:
+Case 2440:
+Case 2441: NOR, XNOR
+Case 2442:
+Case 2443:
+Case 2444:
+Case 2445:
+Case 2446:
+Case 2447:
+Case 2448:
+Case 2449:
+Case 2450:
+Case 2451:
+Case 2452:
+Case 2453: NAND
+Case 2454: AND
+Case 2455:
+Case 2456:
+Case 2457:
+Case 2458:
+Case 2459:
+Case 2460:
+Case 2461: NOR
+Case 2462:
+Case 2463: XNOR
+Case 2464:
+Case 2465:
+Case 2466:
+Case 2467:
+Case 2468:
+Case 2469:
+Case 2470:
+Case 2471:
+Case 2472:
+Case 2473: NAND
+Case 2474: AND
+Case 2475:
+Case 2476:
+Case 2477:
+Case 2478:
+Case 2479:
+Case 2480: NOR
+Case 2481:
+Case 2482: XNOR
+Case 2483:
+Case 2484:
+Case 2485:
+Case 2486:
+Case 2487:
+Case 2488:
+Case 2489:
+Case 2490:
+Case 2491:
+Case 2492:
+Case 2493:
+Case 2494:
+Case 2495:
+Case 2496: NAND
+Case 2497: AND
+Case 2498:
+Case 2499:
+Case 2500:
+Case 2501:
+Case 2502: NOR
+Case 2503:
+Case 2504:
+Case 2505:
+Case 2506: XNOR
+Case 2507:
+Case 2508:
+Case 2509:
+Case 2510:
+Case 2511: XOR
+Case 2512:
+Case 2513:
+Case 2514:
+Case 2515:
+Case 2516:
+Case 2517:
+Case 2518: NAND
+Case 2519: AND
+Case 2520:
+Case 2521:
+Case 2522:
+Case 2523: NOR
+Case 2524:
+Case 2525:
+Case 2526:
+Case 2527: XNOR
+Case 2528:
+Case 2529:
+Case 2530:
+Case 2531:
+Case 2532:
+Case 2533:
+Case 2534: XOR
+Case 2535:
+Case 2536:
+Case 2537:
+Case 2538:
+Case 2539: NAND
+Case 2540:
+Case 2541:
+Case 2542:
+Case 2543:
+Case 2544: AND
+Case 2545:
+Case 2546:
+Case 2547: NOR
+Case 2548:
+Case 2549:
+Case 2550:
+Case 2551:
+Case 2552:
+Case 2553: XNOR
+Case 2554: XOR
+Case 2555:
+Case 2556:
+Case 2557:
+Case 2558:
+Case 2559:
+Case 2560: OR
+Case 2561:
+Case 2562:
+Case 2563: NAND
+Case 2564:
+Case 2565:
+Case 2566:
+Case 2567:
+Case 2568: AND
+Case 2569:
+Case 2570: NOR
+Case 2571:
+Case 2572:
+Case 2573:
+Case 2574:
+Case 2575:
+Case 2576: XNOR
+Case 2577:
+Case 2578:
+Case 2579: XOR
+Case 2580:
+Case 2581:
+Case 2582:
+Case 2583:
+Case 2584:
+Case 2585: OR
+Case 2586:
+Case 2587: AND
+Case 2588: NAND, NOR, XNOR
+Case 2589:
+Case 2590:
+Case 2591:
+Case 2592:
+Case 2593:
+Case 2594:
+Case 2595:
+Case 2596:
+Case 2597:
+Case 2598:
+Case 2599:
+Case 2600:
+Case 2601:
+Case 2602:
+Case 2603:
+Case 2604:
+Case 2605:
+Case 2606:
+Case 2607:
+Case 2608:
+Case 2609:
+Case 2610:
+Case 2611:
+Case 2612:
+Case 2613: AND, NOR, XNOR
+Case 2614: NAND
+Case 2615:
+Case 2616:
+Case 2617:
+Case 2618:
+Case 2619:
+Case 2620:
+Case 2621:
+Case 2622:
+Case 2623:
+Case 2624:
+Case 2625:
+Case 2626:
+Case 2627:
+Case 2628:
+Case 2629:
+Case 2630:
+Case 2631:
+Case 2632:
+Case 2633:
+Case 2634:
+Case 2635:
+Case 2636:
+Case 2637:
+Case 2638:
+Case 2639:
+Case 2640: AND, NOR, XNOR
+Case 2641: NAND
+Case 2642: NAND, NOR
+Case 2643: AND, XNOR
+Case 2644:
+Case 2645: NOR
+Case 2646: NAND
+Case 2647: AND, XNOR
+Case 2648:
+Case 2649: NAND, NOR
+Case 2650:
+Case 2651:
+Case 2652: AND, XNOR
+Case 2653: XOR
+Case 2654: NOR, XNOR
+Case 2655:
+Case 2656:
+Case 2657: NAND, XOR
+Case 2658: AND
+Case 2659:
+Case 2660: NOR
+Case 2661: XNOR
+Case 2662: NAND, XOR
+Case 2663:
+Case 2664:
+Case 2665: AND
+Case 2666:
+Case 2667: NOR, XNOR
+Case 2668: NAND, XOR
+Case 2669:
+Case 2670:
+Case 2671:
+Case 2672:
+Case 2673: AND
+Case 2674: OR
+Case 2675: NAND, NOR, XOR
+Case 2676: XNOR
+Case 2677:
+Case 2678:
+Case 2679:
+Case 2680:
+Case 2681:
+Case 2682: AND, OR
+Case 2683:
+Case 2684: AND, NOR, XNOR
+Case 2685: NAND
+Case 2686:
+Case 2687:
+Case 2688:
+Case 2689:
+Case 2690:
+Case 2691:
+Case 2692:
+Case 2693:
+Case 2694: NAND, NOR
+Case 2695: AND, XNOR
+Case 2696:
+Case 2697:
+Case 2698:
+Case 2699:
+Case 2700:
+Case 2701:
+Case 2702:
+Case 2703:
+Case 2704:
+Case 2705: NOR
+Case 2706: NAND
+Case 2707: AND, XNOR
+Case 2708:
+Case 2709:
+Case 2710:
+Case 2711:
+Case 2712:
+Case 2713:
+Case 2714:
+Case 2715:
+Case 2716:
+Case 2717: NAND, NOR
+Case 2718:
+Case 2719:
+Case 2720: AND, XNOR
+Case 2721:
+Case 2722:
+Case 2723:
+Case 2724:
+Case 2725:
+Case 2726:
+Case 2727:
+Case 2728:
+Case 2729: XOR
+Case 2730: NOR
+Case 2731:
+Case 2732:
+Case 2733: NAND
+Case 2734: AND, XNOR
+Case 2735:
+Case 2736:
+Case 2737:
+Case 2738:
+Case 2739:
+Case 2740:
+Case 2741: XOR
+Case 2742:
+Case 2743:
+Case 2744: NOR
+Case 2745:
+Case 2746: NAND
+Case 2747:
+Case 2748:
+Case 2749: AND, XNOR
+Case 2750:
+Case 2751:
+Case 2752:
+Case 2753:
+Case 2754: XOR
+Case 2755:
+Case 2756:
+Case 2757:
+Case 2758:
+Case 2759: NOR
+Case 2760: NAND
+Case 2761:
+Case 2762:
+Case 2763:
+Case 2764:
+Case 2765: AND, XNOR
+Case 2766:
+Case 2767:
+Case 2768: XOR
+Case 2769:
+Case 2770:
+Case 2771:
+Case 2772:
+Case 2773:
+Case 2774: OR
+Case 2775: NAND, NOR
+Case 2776:
+Case 2777:
+Case 2778:
+Case 2779:
+Case 2780:
+Case 2781:
+Case 2782: AND, XNOR
+Case 2783: XOR
+Case 2784:
+Case 2785:
+Case 2786:
+Case 2787:
+Case 2788:
+Case 2789:
+Case 2790: OR
+Case 2791:
+Case 2792: AND
+Case 2793: NAND
+Case 2794:
+Case 2795:
+Case 2796:
+Case 2797:
+Case 2798:
+Case 2799:
+Case 2800: NOR, XNOR
+Case 2801:
+Case 2802:
+Case 2803:
+Case 2804:
+Case 2805:
+Case 2806:
+Case 2807:
+Case 2808:
+Case 2809:
+Case 2810: NAND
+Case 2811: AND
+Case 2812:
+Case 2813:
+Case 2814:
+Case 2815:
+Case 2816:
+Case 2817:
+Case 2818: NOR
+Case 2819: XNOR
+Case 2820:
+Case 2821:
+Case 2822:
+Case 2823:
+Case 2824:
+Case 2825:
+Case 2826:
+Case 2827:
+Case 2828:
+Case 2829:
+Case 2830: NAND
+Case 2831: AND
+Case 2832:
+Case 2833:
+Case 2834:
+Case 2835:
+Case 2836:
+Case 2837: NOR
+Case 2838:
+Case 2839: XNOR
+Case 2840:
+Case 2841:
+Case 2842:
+Case 2843:
+Case 2844:
+Case 2845:
+Case 2846:
+Case 2847:
+Case 2848:
+Case 2849: NAND
+Case 2850:
+Case 2851:
+Case 2852: AND
+Case 2853:
+Case 2854:
+Case 2855:
+Case 2856:
+Case 2857: NOR
+Case 2858:
+Case 2859:
+Case 2860: XNOR
+Case 2861:
+Case 2862:
+Case 2863:
+Case 2864:
+Case 2865:
+Case 2866:
+Case 2867:
+Case 2868:
+Case 2869: XOR
+Case 2870:
+Case 2871:
+Case 2872:
+Case 2873: NAND
+Case 2874: AND
+Case 2875:
+Case 2876:
+Case 2877:
+Case 2878: NOR
+Case 2879:
+Case 2880:
+Case 2881:
+Case 2882: XNOR
+Case 2883:
+Case 2884:
+Case 2885:
+Case 2886:
+Case 2887:
+Case 2888:
+Case 2889: XOR
+Case 2890:
+Case 2891:
+Case 2892:
+Case 2893:
+Case 2894: NAND
+Case 2895:
+Case 2896:
+Case 2897: AND
+Case 2898:
+Case 2899:
+Case 2900: NOR
+Case 2901:
+Case 2902:
+Case 2903:
+Case 2904:
+Case 2905: XNOR
+Case 2906:
+Case 2907:
+Case 2908:
+Case 2909:
+Case 2910: XOR
+Case 2911:
+Case 2912:
+Case 2913:
+Case 2914:
+Case 2915:
+Case 2916: NAND
+Case 2917:
+Case 2918:
+Case 2919:
+Case 2920:
+Case 2921: AND
+Case 2922:
+Case 2923: NOR
+Case 2924:
+Case 2925:
+Case 2926:
+Case 2927:
+Case 2928:
+Case 2929: XNOR
+Case 2930:
+Case 2931:
+Case 2932: XOR
+Case 2933:
+Case 2934:
+Case 2935:
+Case 2936:
+Case 2937:
+Case 2938: OR
+Case 2939: NAND
+Case 2940:
+Case 2941:
+Case 2942:
+Case 2943:
+Case 2944:
+Case 2945:
+Case 2946: AND
+Case 2947: NOR
+Case 2948:
+Case 2949:
+Case 2950:
+Case 2951:
+Case 2952:
+Case 2953:
+Case 2954: XNOR
+Case 2955: XOR
+Case 2956:
+Case 2957:
+Case 2958:
+Case 2959:
+Case 2960:
+Case 2961:
+Case 2962: OR
+Case 2963:
+Case 2964: AND, NOR, XNOR
+Case 2965: NAND
+Case 2966:
+Case 2967:
+Case 2968:
+Case 2969:
+Case 2970:
+Case 2971:
+Case 2972:
+Case 2973:
+Case 2974:
+Case 2975:
+Case 2976:
+Case 2977:
+Case 2978:
+Case 2979:
+Case 2980:
+Case 2981:
+Case 2982:
+Case 2983:
+Case 2984:
+Case 2985:
+Case 2986:
+Case 2987:
+Case 2988:
+Case 2989:
+Case 2990: NAND, NOR
+Case 2991: AND, XNOR
+Case 2992:
+Case 2993:
+Case 2994:
+Case 2995:
+Case 2996:
+Case 2997:
+Case 2998:
+Case 2999:
+Case 3000:
+Case 3001:
+Case 3002:
+Case 3003:
+Case 3004:
+Case 3005:
+Case 3006:
+Case 3007:
+Case 3008:
+Case 3009:
+Case 3010:
+Case 3011:
+Case 3012:
+Case 3013:
+Case 3014:
+Case 3015:
+Case 3016:
+Case 3017: AND
+Case 3018: NAND
+Case 3019: AND
+Case 3020: NAND
+Case 3021:
+Case 3022: AND
+Case 3023: NAND
+Case 3024:
+Case 3025:
+Case 3026: AND
+Case 3027: NAND
+Case 3028:
+Case 3029:
+Case 3030: NOR, XNOR
+Case 3031: AND
+Case 3032: NAND
+Case 3033:
+Case 3034: NOR, XNOR
+Case 3035:
+Case 3036:
+Case 3037: AND
+Case 3038: NAND
+Case 3039: NOR, XNOR
+Case 3040:
+Case 3041:
+Case 3042:
+Case 3043:
+Case 3044: AND
+Case 3045: NAND, NOR, XNOR
+Case 3046:
+Case 3047:
+Case 3048:
+Case 3049:
+Case 3050:
+Case 3051:
+Case 3052: AND, NOR, XNOR
+Case 3053: NAND
+Case 3054:
+Case 3055:
+Case 3056:
+Case 3057:
+Case 3058:
+Case 3059:
+Case 3060:
+Case 3061: XOR
+Case 3062: XNOR
+Case 3063:
+Case 3064:
+Case 3065:
+Case 3066:
+Case 3067:
+Case 3068: NAND, NOR
+Case 3069: AND, OR
+Case 3070:
+Case 3071: XNOR
+Case 3072: XOR
+Case 3073:
+Case 3074:
+Case 3075:
+Case 3076:
+Case 3077: NOR
+Case 3078: NAND
+Case 3079: AND
+Case 3080: OR
+Case 3081:
+Case 3082:
+Case 3083: XNOR
+Case 3084: XOR
+Case 3085:
+Case 3086:
+Case 3087: NOR
+Case 3088:
+Case 3089: NAND
+Case 3090: AND
+Case 3091:
+Case 3092: OR
+Case 3093:
+Case 3094: XNOR
+Case 3095:
+Case 3096:
+Case 3097: XOR
+Case 3098: NOR
+Case 3099:
+Case 3100:
+Case 3101: NAND
+Case 3102: AND
+Case 3103:
+Case 3104:
+Case 3105: OR
+Case 3106:
+Case 3107:
+Case 3108:
+Case 3109:
+Case 3110: NOR, XNOR
+Case 3111: XOR
+Case 3112:
+Case 3113:
+Case 3114: NAND
+Case 3115: AND
+Case 3116:
+Case 3117:
+Case 3118:
+Case 3119: OR
+Case 3120:
+Case 3121:
+Case 3122:
+Case 3123: NOR, XNOR
+Case 3124:
+Case 3125:
+Case 3126: XOR
+Case 3127:
+Case 3128: NAND
+Case 3129: AND
+Case 3130:
+Case 3131:
+Case 3132:
+Case 3133:
+Case 3134: OR
+Case 3135:
+Case 3136:
+Case 3137: NOR, XNOR
+Case 3138:
+Case 3139:
+Case 3140:
+Case 3141:
+Case 3142: XOR
+Case 3143: NAND
+Case 3144: AND
+Case 3145:
+Case 3146:
+Case 3147:
+Case 3148:
+Case 3149:
+Case 3150: OR
+Case 3151:
+Case 3152: NOR, XNOR
+Case 3153:
+Case 3154:
+Case 3155:
+Case 3156:
+Case 3157:
+Case 3158:
+Case 3159: NAND, XOR
+Case 3160: AND
+Case 3161:
+Case 3162:
+Case 3163:
+Case 3164:
+Case 3165:
+Case 3166:
+Case 3167: OR
+Case 3168:
+Case 3169: AND
+Case 3170: NAND
+Case 3171:
+Case 3172:
+Case 3173:
+Case 3174:
+Case 3175:
+Case 3176: NOR, XNOR
+Case 3177:
+Case 3178:
+Case 3179:
+Case 3180:
+Case 3181:
+Case 3182:
+Case 3183:
+Case 3184:
+Case 3185:
+Case 3186:
+Case 3187: AND
+Case 3188: NAND
+Case 3189:
+Case 3190:
+Case 3191:
+Case 3192:
+Case 3193: NOR, XNOR
+Case 3194:
+Case 3195:
+Case 3196:
+Case 3197:
+Case 3198:
+Case 3199:
+Case 3200:
+Case 3201:
+Case 3202:
+Case 3203:
+Case 3204:
+Case 3205:
+Case 3206: AND
+Case 3207: NAND
+Case 3208:
+Case 3209:
+Case 3210:
+Case 3211: NOR, XNOR
+Case 3212:
+Case 3213:
+Case 3214:
+Case 3215:
+Case 3216:
+Case 3217:
+Case 3218:
+Case 3219:
+Case 3220:
+Case 3221:
+Case 3222:
+Case 3223:
+Case 3224:
+Case 3225:
+Case 3226: AND
+Case 3227: NAND
+Case 3228:
+Case 3229:
+Case 3230: NOR, XNOR
+Case 3231:
+Case 3232:
+Case 3233:
+Case 3234:
+Case 3235:
+Case 3236:
+Case 3237:
+Case 3238:
+Case 3239:
+Case 3240:
+Case 3241:
+Case 3242:
+Case 3243:
+Case 3244:
+Case 3245:
+Case 3246:
+Case 3247: AND
+Case 3248: NAND
+Case 3249:
+Case 3250: NOR, XNOR
+Case 3251:
+Case 3252:
+Case 3253:
+Case 3254:
+Case 3255:
+Case 3256:
+Case 3257:
+Case 3258:
+Case 3259:
+Case 3260:
+Case 3261:
+Case 3262:
+Case 3263:
+Case 3264:
+Case 3265:
+Case 3266:
+Case 3267:
+Case 3268:
+Case 3269: AND
+Case 3270: NAND
+Case 3271: NOR, XNOR
+Case 3272:
+Case 3273:
+Case 3274:
+Case 3275:
+Case 3276:
+Case 3277:
+Case 3278:
+Case 3279:
+Case 3280:
+Case 3281:
+Case 3282:
+Case 3283:
+Case 3284:
+Case 3285:
+Case 3286:
+Case 3287:
+Case 3288:
+Case 3289:
+Case 3290:
+Case 3291:
+Case 3292: AND
+Case 3293: NAND, NOR, XNOR
+Case 3294:
+Case 3295:
+Case 3296:
+Case 3297:
+Case 3298:
+Case 3299:
+Case 3300:
+Case 3301:
+Case 3302:
+Case 3303:
+Case 3304:
+Case 3305:
+Case 3306:
+Case 3307:
+Case 3308:
+Case 3309:
+Case 3310:
+Case 3311:
+Case 3312:
+Case 3313:
+Case 3314:
+Case 3315:
+Case 3316: AND, NOR, XNOR
+Case 3317: NAND
+Case 3318:
+Case 3319:
+Case 3320:
+Case 3321:
+Case 3322:
+Case 3323:
+Case 3324:
+Case 3325:
+Case 3326:
+Case 3327:
+Case 3328:
+Case 3329:
+Case 3330:
+Case 3331:
+Case 3332:
+Case 3333:
+Case 3334:
+Case 3335:
+Case 3336:
+Case 3337:
+Case 3338:
+Case 3339:
+Case 3340:
+Case 3341:
+Case 3342:
+Case 3343:
+Case 3344:
+Case 3345:
+Case 3346:
+Case 3347:
+Case 3348: NAND, NOR
+Case 3349: AND
+Case 3350:
+Case 3351:
+Case 3352:
+Case 3353:
+Case 3354:
+Case 3355:
+Case 3356: XNOR
+Case 3357: XOR
+Case 3358:
+Case 3359:
+Case 3360:
+Case 3361:
+Case 3362:
+Case 3363:
+Case 3364:
+Case 3365: OR
+Case 3366:
+Case 3367:
+Case 3368:
+Case 3369:
+Case 3370:
+Case 3371:
+Case 3372:
+Case 3373: NOR
+Case 3374: NAND
+Case 3375: AND
+Case 3376:
+Case 3377:
+Case 3378:
+Case 3379:
+Case 3380:
+Case 3381: XNOR
+Case 3382:
+Case 3383:
+Case 3384: XOR
+Case 3385:
+Case 3386:
+Case 3387:
+Case 3388:
+Case 3389:
+Case 3390:
+Case 3391:
+Case 3392: OR
+Case 3393:
+Case 3394: AND
+Case 3395: NAND
+Case 3396: NAND
+Case 3397: AND
+Case 3398:
+Case 3399: AND
+Case 3400: NAND
+Case 3401:
+Case 3402:
+Case 3403: NAND
+Case 3404: AND
+Case 3405:
+Case 3406:
+Case 3407: NOR
+Case 3408: AND
+Case 3409: NAND
+Case 3410: NOR, XNOR
+Case 3411:
+Case 3412:
+Case 3413:
+Case 3414: NAND
+Case 3415: AND
+Case 3416: NOR
+Case 3417: XNOR
+Case 3418:
+Case 3419:
+Case 3420:
+Case 3421: AND, NOR, XNOR
+Case 3422: NAND
+Case 3423:
+Case 3424:
+Case 3425:
+Case 3426:
+Case 3427:
+Case 3428:
+Case 3429: NAND, NOR
+Case 3430: AND, XNOR
+Case 3431:
+Case 3432:
+Case 3433:
+Case 3434:
+Case 3435:
+Case 3436:
+Case 3437:
+Case 3438: XNOR
+Case 3439: XOR
+Case 3440:
+Case 3441:
+Case 3442:
+Case 3443:
+Case 3444: NOR
+Case 3445: NAND
+Case 3446: AND
+Case 3447: OR
+Case 3448: XOR
+Case 3449: XNOR
+Case 3450:
+Case 3451:
+Case 3452:
+Case 3453:
+Case 3454: NAND, NOR
+Case 3455:
+Case 3456:
+Case 3457: AND, OR
+Case 3458:
+Case 3459: XNOR
+Case 3460:
+Case 3461:
+Case 3462: XOR
+Case 3463: NOR
+Case 3464:
+Case 3465:
+Case 3466: NAND
+Case 3467: AND
+Case 3468:
+Case 3469:
+Case 3470: OR
+Case 3471:
+Case 3472: XNOR
+Case 3473: XOR
+Case 3474:
+Case 3475: NOR
+Case 3476:
+Case 3477: NAND
+Case 3478:
+Case 3479:
+Case 3480: AND
+Case 3481:
+Case 3482: OR
+Case 3483:
+Case 3484:
+Case 3485:
+Case 3486: NOR, XNOR
+Case 3487:
+Case 3488:
+Case 3489: XOR
+Case 3490:
+Case 3491: NAND
+Case 3492: AND
+Case 3493:
+Case 3494:
+Case 3495:
+Case 3496:
+Case 3497: OR
+Case 3498:
+Case 3499:
+Case 3500: NOR
+Case 3501: XNOR
+Case 3502: XOR
+Case 3503:
+Case 3504: NAND
+Case 3505:
+Case 3506:
+Case 3507: AND
+Case 3508:
+Case 3509:
+Case 3510:
+Case 3511: OR
+Case 3512:
+Case 3513: NOR, XNOR
+Case 3514:
+Case 3515:
+Case 3516:
+Case 3517:
+Case 3518:
+Case 3519:
+Case 3520: NAND, XOR
+Case 3521: AND
+Case 3522:
+Case 3523:
+Case 3524:
+Case 3525:
+Case 3526:
+Case 3527:
+Case 3528: OR
+Case 3529: NOR
+Case 3530: XNOR
+Case 3531:
+Case 3532:
+Case 3533:
+Case 3534:
+Case 3535: NAND, XOR
+Case 3536:
+Case 3537:
+Case 3538: AND
+Case 3539:
+Case 3540:
+Case 3541:
+Case 3542:
+Case 3543:
+Case 3544: OR
+Case 3545:
+Case 3546: AND
+Case 3547: NAND
+Case 3548:
+Case 3549:
+Case 3550:
+Case 3551:
+Case 3552: NOR, XNOR
+Case 3553:
+Case 3554:
+Case 3555:
+Case 3556:
+Case 3557:
+Case 3558:
+Case 3559:
+Case 3560:
+Case 3561:
+Case 3562:
+Case 3563:
+Case 3564: NAND
+Case 3565: AND
+Case 3566:
+Case 3567:
+Case 3568:
+Case 3569:
+Case 3570: NOR
+Case 3571: XNOR
+Case 3572:
+Case 3573:
+Case 3574:
+Case 3575:
+Case 3576:
+Case 3577:
+Case 3578:
+Case 3579:
+Case 3580:
+Case 3581:
+Case 3582:
+Case 3583: AND
+Case 3584: NAND
+Case 3585:
+Case 3586:
+Case 3587: NOR, XNOR
+Case 3588:
+Case 3589:
+Case 3590:
+Case 3591:
+Case 3592:
+Case 3593:
+Case 3594:
+Case 3595:
+Case 3596:
+Case 3597:
+Case 3598:
+Case 3599:
+Case 3600:
+Case 3601:
+Case 3602:
+Case 3603: NAND
+Case 3604: AND
+Case 3605:
+Case 3606:
+Case 3607: NOR
+Case 3608: XNOR
+Case 3609:
+Case 3610:
+Case 3611:
+Case 3612:
+Case 3613:
+Case 3614:
+Case 3615:
+Case 3616:
+Case 3617:
+Case 3618:
+Case 3619:
+Case 3620:
+Case 3621:
+Case 3622:
+Case 3623:
+Case 3624: AND
+Case 3625: NAND
+Case 3626: NOR, XNOR
+Case 3627:
+Case 3628:
+Case 3629:
+Case 3630:
+Case 3631:
+Case 3632:
+Case 3633:
+Case 3634:
+Case 3635:
+Case 3636:
+Case 3637:
+Case 3638:
+Case 3639:
+Case 3640:
+Case 3641:
+Case 3642:
+Case 3643:
+Case 3644:
+Case 3645:
+Case 3646: NAND
+Case 3647: AND
+Case 3648: NOR
+Case 3649: XNOR
+Case 3650:
+Case 3651:
+Case 3652:
+Case 3653:
+Case 3654:
+Case 3655:
+Case 3656:
+Case 3657:
+Case 3658:
+Case 3659:
+Case 3660:
+Case 3661:
+Case 3662:
+Case 3663:
+Case 3664:
+Case 3665:
+Case 3666:
+Case 3667:
+Case 3668:
+Case 3669: AND, NOR, XNOR
+Case 3670: NAND
+Case 3671:
+Case 3672:
+Case 3673:
+Case 3674:
+Case 3675:
+Case 3676:
+Case 3677:
+Case 3678:
+Case 3679:
+Case 3680:
+Case 3681:
+Case 3682:
+Case 3683:
+Case 3684:
+Case 3685:
+Case 3686:
+Case 3687:
+Case 3688:
+Case 3689:
+Case 3690:
+Case 3691:
+Case 3692:
+Case 3693: NAND, NOR
+Case 3694: AND, XNOR
+Case 3695:
+Case 3696:
+Case 3697:
+Case 3698:
+Case 3699:
+Case 3700:
+Case 3701:
+Case 3702:
+Case 3703:
+Case 3704:
+Case 3705:
+Case 3706:
+Case 3707:
+Case 3708:
+Case 3709:
+Case 3710:
+Case 3711:
+Case 3712:
+Case 3713:
+Case 3714:
+Case 3715:
+Case 3716:
+Case 3717:
+Case 3718:
+Case 3719:
+Case 3720:
+Case 3721:
+Case 3722:
+Case 3723:
+Case 3724: NOR
+Case 3725: NAND
+Case 3726: AND
+Case 3727:
+Case 3728:
+Case 3729:
+Case 3730:
+Case 3731:
+Case 3732: XNOR
+Case 3733:
+Case 3734:
+Case 3735: XOR
+Case 3736:
+Case 3737:
+Case 3738:
+Case 3739:
+Case 3740:
+Case 3741:
+Case 3742:
+Case 3743: OR
+Case 3744:
+Case 3745:
+Case 3746:
+Case 3747:
+Case 3748:
+Case 3749:
+Case 3750: NAND, NOR
+Case 3751:
+Case 3752:
+Case 3753: AND
+Case 3754:
+Case 3755:
+Case 3756:
+Case 3757:
+Case 3758:
+Case 3759: XNOR
+Case 3760: XOR
+Case 3761:
+Case 3762:
+Case 3763:
+Case 3764:
+Case 3765:
+Case 3766:
+Case 3767:
+Case 3768:
+Case 3769: OR
+Case 3770:
+Case 3771: AND
+Case 3772: NAND
+Case 3773: AND
+Case 3774: NAND
+Case 3775:
+Case 3776:
+Case 3777: NAND
+Case 3778: AND
+Case 3779:
+Case 3780:
+Case 3781: NAND
+Case 3782: AND
+Case 3783:
+Case 3784: NOR
+Case 3785: AND
+Case 3786: NAND, NOR, XNOR
+Case 3787:
+Case 3788:
+Case 3789:
+Case 3790:
+Case 3791: AND, NOR, XNOR
+Case 3792: NAND
+Case 3793:
+Case 3794:
+Case 3795:
+Case 3796:
+Case 3797:
+Case 3798:
+Case 3799: NAND, NOR
+Case 3800: AND
+Case 3801: XNOR
+Case 3802:
+Case 3803:
+Case 3804:
+Case 3805:
+Case 3806: NOR
+Case 3807: NAND
+Case 3808: AND, XNOR
+Case 3809:
+Case 3810:
+Case 3811:
+Case 3812:
+Case 3813:
+Case 3814:
+Case 3815:
+Case 3816: XNOR
+Case 3817: XOR
+Case 3818:
+Case 3819:
+Case 3820: NOR
+Case 3821:
+Case 3822: NAND
+Case 3823: AND
+Case 3824:
+Case 3825: XNOR
+Case 3826:
+Case 3827:
+Case 3828: XOR
+Case 3829: NOR
+Case 3830:
+Case 3831:
+Case 3832: NAND
+Case 3833: AND
+Case 3834:
+Case 3835:
+Case 3836: XOR
+Case 3837: XNOR
+Case 3838:
+Case 3839:
+Case 3840:
+Case 3841: NAND, NOR
+Case 3842:
+Case 3843:
+Case 3844:
+Case 3845:
+Case 3846: AND, OR
+Case 3847:
+Case 3848: XNOR
+Case 3849: XOR
+Case 3850:
+Case 3851:
+Case 3852: NOR
+Case 3853: NAND
+Case 3854:
+Case 3855:
+Case 3856:
+Case 3857:
+Case 3858: AND
+Case 3859: OR
+Case 3860:
+Case 3861:
+Case 3862: NOR, XNOR
+Case 3863:
+Case 3864:
+Case 3865:
+Case 3866:
+Case 3867: XOR
+Case 3868: NAND
+Case 3869: AND
+Case 3870:
+Case 3871:
+Case 3872:
+Case 3873:
+Case 3874:
+Case 3875: NOR, XNOR
+Case 3876:
+Case 3877:
+Case 3878:
+Case 3879:
+Case 3880:
+Case 3881:
+Case 3882: NAND, XOR
+Case 3883: AND
+Case 3884:
+Case 3885:
+Case 3886:
+Case 3887:
+Case 3888:
+Case 3889:
+Case 3890:
+Case 3891: NOR
+Case 3892:
+Case 3893: XNOR
+Case 3894: XOR
+Case 3895: NAND
+Case 3896:
+Case 3897:
+Case 3898:
+Case 3899:
+Case 3900: AND
+Case 3901:
+Case 3902:
+Case 3903:
+Case 3904: OR
+Case 3905:
+Case 3906: NOR
+Case 3907:
+Case 3908: XNOR
+Case 3909:
+Case 3910:
+Case 3911: NAND, XOR
+Case 3912:
+Case 3913:
+Case 3914:
+Case 3915:
+Case 3916: AND
+Case 3917:
+Case 3918:
+Case 3919:
+Case 3920:
+Case 3921: OR
+Case 3922:
+Case 3923: AND
+Case 3924: NAND
+Case 3925:
+Case 3926:
+Case 3927:
+Case 3928: NOR, XNOR
+Case 3929:
+Case 3930:
+Case 3931:
+Case 3932:
+Case 3933:
+Case 3934:
+Case 3935:
+Case 3936:
+Case 3937:
+Case 3938:
+Case 3939:
+Case 3940:
+Case 3941: AND
+Case 3942: NAND
+Case 3943:
+Case 3944:
+Case 3945: NOR, XNOR
+Case 3946:
+Case 3947:
+Case 3948:
+Case 3949:
+Case 3950:
+Case 3951:
+Case 3952:
+Case 3953:
+Case 3954:
+Case 3955:
+Case 3956:
+Case 3957:
+Case 3958:
+Case 3959:
+Case 3960:
+Case 3961: NAND
+Case 3962: AND
+Case 3963:
+Case 3964:
+Case 3965: NOR
+Case 3966:
+Case 3967: XNOR
+Case 3968:
+Case 3969:
+Case 3970:
+Case 3971:
+Case 3972:
+Case 3973:
+Case 3974:
+Case 3975:
+Case 3976:
+Case 3977:
+Case 3978:
+Case 3979:
+Case 3980:
+Case 3981: NAND
+Case 3982: AND
+Case 3983:
+Case 3984: NOR
+Case 3985:
+Case 3986: XNOR
+Case 3987:
+Case 3988:
+Case 3989:
+Case 3990:
+Case 3991:
+Case 3992:
+Case 3993:
+Case 3994:
+Case 3995:
+Case 3996:
+Case 3997:
+Case 3998:
+Case 3999:
+Case 4000:
+Case 4001: AND
+Case 4002: NAND, NOR, XNOR
+Case 4003:
+Case 4004:
+Case 4005:
+Case 4006:
+Case 4007:
+Case 4008:
+Case 4009:
+Case 4010:
+Case 4011:
+Case 4012:
+Case 4013:
+Case 4014:
+Case 4015:
+Case 4016:
+Case 4017:
+Case 4018:
+Case 4019:
+Case 4020:
+Case 4021:
+Case 4022:
+Case 4023: AND, NOR, XNOR
+Case 4024: NAND
+Case 4025:
+Case 4026:
+Case 4027:
+Case 4028:
+Case 4029:
+Case 4030:
+Case 4031:
+Case 4032:
+Case 4033:
+Case 4034:
+Case 4035:
+Case 4036:
+Case 4037:
+Case 4038:
+Case 4039:
+Case 4040:
+Case 4041:
+Case 4042:
+Case 4043:
+Case 4044:
+Case 4045:
+Case 4046:
+Case 4047: NAND, NOR
+Case 4048: AND
+Case 4049: XNOR
+Case 4050:
+Case 4051:
+Case 4052:
+Case 4053:
+Case 4054:
+Case 4055:
+Case 4056:
+Case 4057:
+Case 4058:
+Case 4059:
+Case 4060:
+Case 4061:
+Case 4062:
+Case 4063:
+Case 4064:
+Case 4065:
+Case 4066:
+Case 4067:
+Case 4068:
+Case 4069:
+Case 4070: NOR
+Case 4071: NAND
+Case 4072: AND, XNOR
+Case 4073:
+Case 4074:
+Case 4075:
+Case 4076:
+Case 4077:
+Case 4078:
+Case 4079:
+Case 4080:
+Case 4081:
+Case 4082:
+Case 4083:
+Case 4084:
+Case 4085:
+Case 4086:
+Case 4087:
+Case 4088:
+Case 4089:
+Case 4090:
+Case 4091:
+Case 4092:
+Case 4093:
+Case 4094:
+Case 4095:
+Case 4096:
+Case 4097:
+Case 4098:
+Case 4099:
+Case 4100: NOR
+Case 4101:
+Case 4102: NAND
+Case 4103: AND
+Case 4104:
+Case 4105:
+Case 4106:
+Case 4107:
+Case 4108: XNOR
+Case 4109:
+Case 4110:
+Case 4111:
+Case 4112:
+Case 4113: XOR
+Case 4114:
+Case 4115:
+Case 4116:
+Case 4117:
+Case 4118:
+Case 4119:
+Case 4120:
+Case 4121:
+Case 4122:
+Case 4123:
+Case 4124:
+Case 4125: NOR
+Case 4126:
+Case 4127:
+Case 4128: NAND
+Case 4129: AND
+Case 4130:
+Case 4131:
+Case 4132:
+Case 4133: XNOR
+Case 4134:
+Case 4135:
+Case 4136:
+Case 4137:
+Case 4138:
+Case 4139:
+Case 4140: XOR
+Case 4141:
+Case 4142:
+Case 4143:
+Case 4144:
+Case 4145:
+Case 4146:
+Case 4147:
+Case 4148: AND
+Case 4149: NAND
+Case 4150: NAND
+Case 4151: AND
+Case 4152:
+Case 4153:
+Case 4154: NAND
+Case 4155: AND
+Case 4156:
+Case 4157: NAND
+Case 4158:
+Case 4159:
+Case 4160: AND
+Case 4161: NOR
+Case 4162: AND, NOR, XNOR
+Case 4163: NAND
+Case 4164:
+Case 4165:
+Case 4166:
+Case 4167:
+Case 4168: NAND, NOR
+Case 4169: AND, XNOR
+Case 4170:
+Case 4171:
+Case 4172:
+Case 4173:
+Case 4174:
+Case 4175: NOR
+Case 4176: NAND
+Case 4177: AND, XNOR
+Case 4178:
+Case 4179:
+Case 4180:
+Case 4181:
+Case 4182:
+Case 4183: NAND, NOR
+Case 4184:
+Case 4185:
+Case 4186: AND, XNOR
+Case 4187:
+Case 4188:
+Case 4189:
+Case 4190:
+Case 4191:
+Case 4192: XNOR
+Case 4193:
+Case 4194:
+Case 4195: XOR
+Case 4196: NOR
+Case 4197:
+Case 4198:
+Case 4199: NAND
+Case 4200: AND
+Case 4201:
+Case 4202:
+Case 4203: XNOR
+Case 4204: XOR
+Case 4205:
+Case 4206: NOR
+Case 4207:
+Case 4208: NAND
+Case 4209:
+Case 4210:
+Case 4211: AND
+Case 4212:
+Case 4213: XNOR
+Case 4214: XOR
+Case 4215:
+Case 4216:
+Case 4217: NOR
+Case 4218: NAND
+Case 4219:
+Case 4220:
+Case 4221:
+Case 4222:
+Case 4223: AND
+Case 4224: OR
+Case 4225: XOR
+Case 4226: XNOR
+Case 4227:
+Case 4228:
+Case 4229: NAND, NOR
+Case 4230:
+Case 4231:
+Case 4232:
+Case 4233:
+Case 4234:
+Case 4235:
+Case 4236: AND, OR
+Case 4237:
+Case 4238: NOR, XNOR
+Case 4239:
+Case 4240:
+Case 4241:
+Case 4242:
+Case 4243:
+Case 4244:
+Case 4245: NAND, XOR
+Case 4246: AND
+Case 4247:
+Case 4248:
+Case 4249:
+Case 4250:
+Case 4251:
+Case 4252: NOR
+Case 4253: XNOR
+Case 4254:
+Case 4255:
+Case 4256:
+Case 4257:
+Case 4258: NAND, XOR
+Case 4259:
+Case 4260:
+Case 4261: AND
+Case 4262:
+Case 4263:
+Case 4264:
+Case 4265:
+Case 4266:
+Case 4267: NOR
+Case 4268:
+Case 4269: XNOR
+Case 4270:
+Case 4271:
+Case 4272: NAND, XOR
+Case 4273:
+Case 4274:
+Case 4275:
+Case 4276:
+Case 4277: AND
+Case 4278:
+Case 4279:
+Case 4280:
+Case 4281:
+Case 4282: OR
+Case 4283: NOR
+Case 4284:
+Case 4285:
+Case 4286: XNOR
+Case 4287: NAND, XOR
+Case 4288:
+Case 4289:
+Case 4290:
+Case 4291:
+Case 4292:
+Case 4293:
+Case 4294: AND
+Case 4295:
+Case 4296:
+Case 4297:
+Case 4298: OR
+Case 4299:
+Case 4300: AND
+Case 4301: NAND
+Case 4302:
+Case 4303:
+Case 4304: NOR, XNOR
+Case 4305:
+Case 4306:
+Case 4307:
+Case 4308:
+Case 4309:
+Case 4310:
+Case 4311:
+Case 4312:
+Case 4313:
+Case 4314:
+Case 4315:
+Case 4316:
+Case 4317:
+Case 4318: NAND
+Case 4319: AND
+Case 4320:
+Case 4321:
+Case 4322: NOR
+Case 4323: XNOR
+Case 4324:
+Case 4325:
+Case 4326:
+Case 4327:
+Case 4328:
+Case 4329:
+Case 4330:
+Case 4331:
+Case 4332:
+Case 4333:
+Case 4334:
+Case 4335:
+Case 4336:
+Case 4337:
+Case 4338: NAND
+Case 4339: AND
+Case 4340:
+Case 4341: NOR
+Case 4342:
+Case 4343: XNOR
+Case 4344:
+Case 4345:
+Case 4346:
+Case 4347:
+Case 4348:
+Case 4349:
+Case 4350:
+Case 4351:
+Case 4352:
+Case 4353:
+Case 4354:
+Case 4355:
+Case 4356:
+Case 4357: NAND
+Case 4358:
+Case 4359:
+Case 4360: AND
+Case 4361: NOR
+Case 4362:
+Case 4363:
+Case 4364: XNOR
+Case 4365:
+Case 4366:
+Case 4367:
+Case 4368:
+Case 4369:
+Case 4370:
+Case 4371:
+Case 4372:
+Case 4373:
+Case 4374:
+Case 4375:
+Case 4376:
+Case 4377:
+Case 4378: AND, NOR, XNOR
+Case 4379: NAND
+Case 4380:
+Case 4381:
+Case 4382:
+Case 4383:
+Case 4384:
+Case 4385:
+Case 4386:
+Case 4387:
+Case 4388:
+Case 4389:
+Case 4390:
+Case 4391:
+Case 4392:
+Case 4393:
+Case 4394:
+Case 4395:
+Case 4396:
+Case 4397:
+Case 4398:
+Case 4399:
+Case 4400: NAND, NOR
+Case 4401: AND, XNOR
+Case 4402:
+Case 4403:
+Case 4404:
+Case 4405:
+Case 4406:
+Case 4407:
+Case 4408:
+Case 4409:
+Case 4410:
+Case 4411:
+Case 4412:
+Case 4413:
+Case 4414:
+Case 4415:
+Case 4416:
+Case 4417:
+Case 4418:
+Case 4419:
+Case 4420:
+Case 4421:
+Case 4422:
+Case 4423: NOR
+Case 4424: NAND
+Case 4425: AND, XNOR
+Case 4426:
+Case 4427:
+Case 4428:
+Case 4429:
+Case 4430:
+Case 4431:
+Case 4432:
+Case 4433:
+Case 4434:
+Case 4435:
+Case 4436:
+Case 4437:
+Case 4438:
+Case 4439:
+Case 4440:
+Case 4441:
+Case 4442:
+Case 4443:
+Case 4444:
+Case 4445:
+Case 4446:
+Case 4447: NAND, NOR
+Case 4448:
+Case 4449:
+Case 4450: AND, XNOR
+Case 4451:
+Case 4452:
+Case 4453:
+Case 4454:
+Case 4455:
+Case 4456:
+Case 4457:
+Case 4458:
+Case 4459:
+Case 4460:
+Case 4461:
+Case 4462:
+Case 4463:
+Case 4464:
+Case 4465:
+Case 4466:
+Case 4467:
+Case 4468:
+Case 4469:
+Case 4470:
+Case 4471:
+Case 4472:
+Case 4473:
+Case 4474:
+Case 4475:
+Case 4476: NOR
+Case 4477:
+Case 4478:
+Case 4479: NAND
+Case 4480: AND
+Case 4481:
+Case 4482:
+Case 4483:
+Case 4484: XNOR
+Case 4485:
+Case 4486:
+Case 4487:
+Case 4488:
+Case 4489:
+Case 4490:
+Case 4491: XOR
+Case 4492:
+Case 4493:
+Case 4494:
+Case 4495:
+Case 4496:
+Case 4497:
+Case 4498:
+Case 4499:
+Case 4500:
+Case 4501:
+Case 4502: NOR
+Case 4503:
+Case 4504: NAND
+Case 4505:
+Case 4506:
+Case 4507: AND
+Case 4508:
+Case 4509:
+Case 4510:
+Case 4511: XNOR
+Case 4512:
+Case 4513:
+Case 4514:
+Case 4515:
+Case 4516: XOR
+Case 4517:
+Case 4518:
+Case 4519:
+Case 4520:
+Case 4521:
+Case 4522:
+Case 4523:
+Case 4524:
+Case 4525: AND
+Case 4526: NAND
+Case 4527: AND
+Case 4528: NAND
+Case 4529: NOR, XNOR
+Case 4530: AND
+Case 4531: NAND, NOR, XNOR
+Case 4532:
+Case 4533:
+Case 4534: AND, NOR, XNOR
+Case 4535: NAND
+Case 4536:
+Case 4537:
+Case 4538:
+Case 4539:
+Case 4540:
+Case 4541:
+Case 4542: NAND, NOR
+Case 4543: AND
+Case 4544:
+Case 4545:
+Case 4546:
+Case 4547: NOR
+Case 4548: NAND
+Case 4549: AND
+Case 4550:
+Case 4551: XNOR
+Case 4552:
+Case 4553: NOR
+Case 4554:
+Case 4555: NAND
+Case 4556: AND
+Case 4557: XNOR
+Case 4558:
+Case 4559:
+Case 4560: NOR
+Case 4561:
+Case 4562:
+Case 4563: NAND
+Case 4564: AND, XNOR
+Case 4565:
+Case 4566:
+Case 4567:
+Case 4568:
+Case 4569:
+Case 4570:
+Case 4571:
+Case 4572: NOR, XNOR
+Case 4573: XOR
+Case 4574:
+Case 4575:
+Case 4576: NAND
+Case 4577: AND
+Case 4578:
+Case 4579:
+Case 4580:
+Case 4581: NOR, XNOR
+Case 4582:
+Case 4583:
+Case 4584: XOR
+Case 4585:
+Case 4586: NAND
+Case 4587: AND
+Case 4588:
+Case 4589:
+Case 4590:
+Case 4591: NOR, XNOR
+Case 4592:
+Case 4593:
+Case 4594:
+Case 4595:
+Case 4596: XOR
+Case 4597: NAND
+Case 4598: AND
+Case 4599:
+Case 4600:
+Case 4601:
+Case 4602: NOR, XNOR
+Case 4603:
+Case 4604:
+Case 4605:
+Case 4606:
+Case 4607:
+Case 4608:
+Case 4609: NAND, XOR
+Case 4610: AND
+Case 4611:
+Case 4612:
+Case 4613:
+Case 4614:
+Case 4615: XOR
+Case 4616: XNOR
+Case 4617:
+Case 4618: NAND, NOR
+Case 4619:
+Case 4620:
+Case 4621:
+Case 4622:
+Case 4623:
+Case 4624:
+Case 4625:
+Case 4626:
+Case 4627: AND, OR
+Case 4628:
+Case 4629: XNOR
+Case 4630: XOR
+Case 4631: NOR
+Case 4632: NAND
+Case 4633:
+Case 4634:
+Case 4635:
+Case 4636:
+Case 4637:
+Case 4638:
+Case 4639:
+Case 4640:
+Case 4641: AND
+Case 4642: OR
+Case 4643:
+Case 4644:
+Case 4645: NOR, XNOR
+Case 4646: XOR
+Case 4647: NAND
+Case 4648:
+Case 4649:
+Case 4650:
+Case 4651:
+Case 4652:
+Case 4653:
+Case 4654:
+Case 4655:
+Case 4656: AND
+Case 4657:
+Case 4658: OR
+Case 4659:
+Case 4660: NOR, XNOR
+Case 4661:
+Case 4662:
+Case 4663: NAND, XOR
+Case 4664:
+Case 4665:
+Case 4666:
+Case 4667:
+Case 4668:
+Case 4669:
+Case 4670:
+Case 4671:
+Case 4672: AND
+Case 4673:
+Case 4674:
+Case 4675: OR
+Case 4676:
+Case 4677: AND
+Case 4678: NAND
+Case 4679:
+Case 4680: NOR, XNOR
+Case 4681:
+Case 4682:
+Case 4683:
+Case 4684:
+Case 4685:
+Case 4686:
+Case 4687:
+Case 4688:
+Case 4689:
+Case 4690:
+Case 4691:
+Case 4692:
+Case 4693:
+Case 4694:
+Case 4695: AND
+Case 4696: NAND
+Case 4697: NOR, XNOR
+Case 4698:
+Case 4699:
+Case 4700:
+Case 4701:
+Case 4702:
+Case 4703:
+Case 4704:
+Case 4705:
+Case 4706:
+Case 4707:
+Case 4708:
+Case 4709:
+Case 4710:
+Case 4711:
+Case 4712:
+Case 4713:
+Case 4714: AND
+Case 4715: NAND, NOR, XNOR
+Case 4716:
+Case 4717:
+Case 4718:
+Case 4719:
+Case 4720:
+Case 4721:
+Case 4722:
+Case 4723:
+Case 4724:
+Case 4725:
+Case 4726:
+Case 4727:
+Case 4728:
+Case 4729:
+Case 4730:
+Case 4731:
+Case 4732:
+Case 4733:
+Case 4734: AND, NOR, XNOR
+Case 4735: NAND
+Case 4736:
+Case 4737:
+Case 4738:
+Case 4739:
+Case 4740:
+Case 4741:
+Case 4742:
+Case 4743:
+Case 4744:
+Case 4745:
+Case 4746:
+Case 4747:
+Case 4748:
+Case 4749:
+Case 4750:
+Case 4751:
+Case 4752:
+Case 4753:
+Case 4754:
+Case 4755:
+Case 4756:
+Case 4757:
+Case 4758: NAND, NOR
+Case 4759: AND
+Case 4760:
+Case 4761:
+Case 4762: XNOR
+Case 4763:
+Case 4764:
+Case 4765:
+Case 4766:
+Case 4767:
+Case 4768:
+Case 4769:
+Case 4770:
+Case 4771:
+Case 4772:
+Case 4773:
+Case 4774:
+Case 4775:
+Case 4776:
+Case 4777:
+Case 4778:
+Case 4779: NOR
+Case 4780: NAND
+Case 4781: AND
+Case 4782:
+Case 4783: XNOR
+Case 4784:
+Case 4785:
+Case 4786:
+Case 4787:
+Case 4788:
+Case 4789:
+Case 4790:
+Case 4791:
+Case 4792:
+Case 4793:
+Case 4794:
+Case 4795:
+Case 4796:
+Case 4797:
+Case 4798:
+Case 4799:
+Case 4800:
+Case 4801: NOR
+Case 4802:
+Case 4803: NAND
+Case 4804: AND
+Case 4805: XNOR
+Case 4806:
+Case 4807:
+Case 4808:
+Case 4809:
+Case 4810:
+Case 4811:
+Case 4812:
+Case 4813:
+Case 4814:
+Case 4815:
+Case 4816:
+Case 4817:
+Case 4818:
+Case 4819:
+Case 4820:
+Case 4821:
+Case 4822:
+Case 4823:
+Case 4824: NOR
+Case 4825:
+Case 4826:
+Case 4827: NAND
+Case 4828: AND, XNOR
+Case 4829:
+Case 4830:
+Case 4831:
+Case 4832:
+Case 4833:
+Case 4834:
+Case 4835:
+Case 4836:
+Case 4837:
+Case 4838:
+Case 4839:
+Case 4840:
+Case 4841:
+Case 4842:
+Case 4843:
+Case 4844:
+Case 4845:
+Case 4846:
+Case 4847:
+Case 4848:
+Case 4849:
+Case 4850:
+Case 4851:
+Case 4852: NOR
+Case 4853:
+Case 4854:
+Case 4855:
+Case 4856: NAND
+Case 4857: AND
+Case 4858:
+Case 4859:
+Case 4860: XNOR
+Case 4861:
+Case 4862:
+Case 4863:
+Case 4864:
+Case 4865:
+Case 4866:
+Case 4867:
+Case 4868:
+Case 4869: XOR
+Case 4870:
+Case 4871:
+Case 4872:
+Case 4873:
+Case 4874:
+Case 4875:
+Case 4876:
+Case 4877: NOR
+Case 4878:
+Case 4879:
+Case 4880:
+Case 4881:
+Case 4882: NAND
+Case 4883: AND
+Case 4884:
+Case 4885: XNOR
+Case 4886:
+Case 4887:
+Case 4888:
+Case 4889:
+Case 4890:
+Case 4891:
+Case 4892:
+Case 4893:
+Case 4894:
+Case 4895:
+Case 4896: XOR
+Case 4897:
+Case 4898:
+Case 4899:
+Case 4900:
+Case 4901:
+Case 4902: AND
+Case 4903: NAND
+Case 4904: NAND
+Case 4905: AND
+Case 4906: NOR
+Case 4907: AND, NOR, XNOR
+Case 4908: NAND
+Case 4909:
+Case 4910:
+Case 4911: NAND, NOR
+Case 4912: AND, XNOR
+Case 4913:
+Case 4914:
+Case 4915:
+Case 4916:
+Case 4917:
+Case 4918: NOR
+Case 4919: NAND
+Case 4920: AND
+Case 4921:
+Case 4922:
+Case 4923:
+Case 4924: NAND, NOR
+Case 4925:
+Case 4926:
+Case 4927: AND
+Case 4928:
+Case 4929: NOR
+Case 4930:
+Case 4931:
+Case 4932: NAND
+Case 4933: AND, XNOR
+Case 4934:
+Case 4935:
+Case 4936:
+Case 4937: NOR
+Case 4938:
+Case 4939: NAND
+Case 4940:
+Case 4941:
+Case 4942: AND, XNOR
+Case 4943:
+Case 4944:
+Case 4945:
+Case 4946:
+Case 4947:
+Case 4948: NOR, XNOR
+Case 4949:
+Case 4950:
+Case 4951: XOR
+Case 4952:
+Case 4953: NAND
+Case 4954: AND
+Case 4955:
+Case 4956:
+Case 4957:
+Case 4958: NOR
+Case 4959: XNOR
+Case 4960: XOR
+Case 4961:
+Case 4962: NAND
+Case 4963:
+Case 4964:
+Case 4965: AND
+Case 4966:
+Case 4967: NOR, XNOR
+Case 4968:
+Case 4969:
+Case 4970:
+Case 4971:
+Case 4972:
+Case 4973:
+Case 4974: NAND, XOR
+Case 4975: AND
+Case 4976:
+Case 4977:
+Case 4978:
+Case 4979: NOR
+Case 4980: XNOR
+Case 4981:
+Case 4982:
+Case 4983:
+Case 4984:
+Case 4985: NAND, XOR
+Case 4986:
+Case 4987:
+Case 4988: AND
+Case 4989:
+Case 4990:
+Case 4991:
+Case 4992: XNOR
+Case 4993: XOR
+Case 4994: NOR
+Case 4995: NAND
+Case 4996:
+Case 4997:
+Case 4998:
+Case 4999:
+Case 5000:
+Case 5001:
+Case 5002:
+Case 5003:
+Case 5004: AND
+Case 5005: OR
+Case 5006: XOR
+Case 5007: XNOR
+Case 5008: NAND, NOR
+Case 5009:
+Case 5010:
+Case 5011:
+Case 5012:
+Case 5013:
+Case 5014:
+Case 5015:
+Case 5016:
+Case 5017:
+Case 5018:
+Case 5019: AND, OR
+Case 5020:
+Case 5021: NOR, XNOR
+Case 5022:
+Case 5023:
+Case 5024: NAND, XOR
+Case 5025:
+Case 5026:
+Case 5027:
+Case 5028:
+Case 5029:
+Case 5030:
+Case 5031:
+Case 5032:
+Case 5033: AND
+Case 5034:
+Case 5035:
+Case 5036: OR
+Case 5037: NOR
+Case 5038: XNOR
+Case 5039: NAND, XOR
+Case 5040:
+Case 5041:
+Case 5042:
+Case 5043:
+Case 5044:
+Case 5045:
+Case 5046:
+Case 5047:
+Case 5048:
+Case 5049:
+Case 5050: AND
+Case 5051:
+Case 5052: OR
+Case 5053:
+Case 5054: AND
+Case 5055: NAND
+Case 5056: NOR, XNOR
+Case 5057:
+Case 5058:
+Case 5059:
+Case 5060:
+Case 5061:
+Case 5062:
+Case 5063:
+Case 5064:
+Case 5065:
+Case 5066:
+Case 5067:
+Case 5068:
+Case 5069:
+Case 5070:
+Case 5071:
+Case 5072: NAND
+Case 5073: AND
+Case 5074: NOR
+Case 5075: XNOR
+Case 5076:
+Case 5077:
+Case 5078:
+Case 5079:
+Case 5080:
+Case 5081:
+Case 5082:
+Case 5083:
+Case 5084:
+Case 5085:
+Case 5086:
+Case 5087:
+Case 5088:
+Case 5089:
+Case 5090:
+Case 5091: AND, NOR, XNOR
+Case 5092: NAND
+Case 5093:
+Case 5094:
+Case 5095:
+Case 5096:
+Case 5097:
+Case 5098:
+Case 5099:
+Case 5100:
+Case 5101:
+Case 5102:
+Case 5103:
+Case 5104:
+Case 5105:
+Case 5106:
+Case 5107:
+Case 5108:
+Case 5109:
+Case 5110:
+Case 5111: NAND, NOR
+Case 5112: AND, XNOR
+Case 5113:
+Case 5114:
+Case 5115:
+Case 5116:
+Case 5117:
+Case 5118:
+Case 5119:
+Case 5120:
+Case 5121:
+Case 5122:
+Case 5123:
+Case 5124:
+Case 5125:
+Case 5126:
+Case 5127:
+Case 5128:
+Case 5129:
+Case 5130:
+Case 5131:
+Case 5132:
+Case 5133:
+Case 5134: NOR
+Case 5135: NAND
+Case 5136: AND
+Case 5137:
+Case 5138: XNOR
+Case 5139:
+Case 5140:
+Case 5141:
+Case 5142:
+Case 5143:
+Case 5144:
+Case 5145:
+Case 5146:
+Case 5147:
+Case 5148:
+Case 5149:
+Case 5150:
+Case 5151:
+Case 5152:
+Case 5153:
+Case 5154:
+Case 5155:
+Case 5156: NAND, NOR
+Case 5157:
+Case 5158:
+Case 5159: AND
+Case 5160:
+Case 5161: XNOR
+Case 5162:
+Case 5163:
+Case 5164:
+Case 5165:
+Case 5166:
+Case 5167:
+Case 5168:
+Case 5169:
+Case 5170:
+Case 5171:
+Case 5172:
+Case 5173:
+Case 5174:
+Case 5175:
+Case 5176:
+Case 5177: NOR
+Case 5178:
+Case 5179:
+Case 5180: NAND
+Case 5181: AND, XNOR
+Case 5182:
+Case 5183:
+Case 5184:
+Case 5185:
+Case 5186:
+Case 5187:
+Case 5188:
+Case 5189:
+Case 5190:
+Case 5191:
+Case 5192:
+Case 5193:
+Case 5194:
+Case 5195:
+Case 5196:
+Case 5197:
+Case 5198:
+Case 5199:
+Case 5200:
+Case 5201: NOR
+Case 5202:
+Case 5203: NAND
+Case 5204:
+Case 5205:
+Case 5206: AND, XNOR
+Case 5207:
+Case 5208:
+Case 5209:
+Case 5210:
+Case 5211:
+Case 5212:
+Case 5213:
+Case 5214:
+Case 5215:
+Case 5216:
+Case 5217:
+Case 5218:
+Case 5219:
+Case 5220:
+Case 5221:
+Case 5222:
+Case 5223:
+Case 5224:
+Case 5225:
+Case 5226:
+Case 5227:
+Case 5228: NOR
+Case 5229:
+Case 5230:
+Case 5231:
+Case 5232:
+Case 5233: NAND
+Case 5234: AND
+Case 5235:
+Case 5236: XNOR
+Case 5237:
+Case 5238:
+Case 5239:
+Case 5240:
+Case 5241:
+Case 5242:
+Case 5243:
+Case 5244:
+Case 5245:
+Case 5246:
+Case 5247: XOR
+Case 5248:
+Case 5249:
+Case 5250:
+Case 5251:
+Case 5252:
+Case 5253:
+Case 5254: NOR
+Case 5255:
+Case 5256:
+Case 5257:
+Case 5258: NAND
+Case 5259:
+Case 5260:
+Case 5261: AND
+Case 5262:
+Case 5263: XNOR
+Case 5264:
+Case 5265:
+Case 5266:
+Case 5267:
+Case 5268:
+Case 5269:
+Case 5270:
+Case 5271:
+Case 5272: XOR
+Case 5273:
+Case 5274:
+Case 5275:
+Case 5276:
+Case 5277:
+Case 5278:
+Case 5279: AND
+Case 5280: NAND, NOR, XNOR
+Case 5281: AND, NOR, XNOR
+Case 5282: NAND
+Case 5283:
+Case 5284:
+Case 5285: NAND, NOR
+Case 5286: AND
+Case 5287: XNOR
+Case 5288: NOR
+Case 5289: NAND
+Case 5290: AND, XNOR
+Case 5291:
+Case 5292:
+Case 5293:
+Case 5294: NOR
+Case 5295:
+Case 5296: NAND
+Case 5297: AND
+Case 5298: XNOR
+Case 5299: NOR
+Case 5300:
+Case 5301:
+Case 5302: NAND
+Case 5303: AND, XNOR
+Case 5304:
+Case 5305:
+Case 5306:
+Case 5307: NAND, NOR
+Case 5308:
+Case 5309:
+Case 5310:
+Case 5311:
+Case 5312: AND
+Case 5313: XNOR
+Case 5314: NOR
+Case 5315: NAND
+Case 5316:
+Case 5317:
+Case 5318:
+Case 5319:
+Case 5320: AND, XNOR
+Case 5321:
+Case 5322:
+Case 5323:
+Case 5324: NOR, XNOR
+Case 5325:
+Case 5326:
+Case 5327:
+Case 5328:
+Case 5329: XOR
+Case 5330: NAND
+Case 5331: AND
+Case 5332:
+Case 5333: NOR, XNOR
+Case 5334:
+Case 5335:
+Case 5336:
+Case 5337:
+Case 5338:
+Case 5339:
+Case 5340: NAND, XOR
+Case 5341: AND
+Case 5342:
+Case 5343:
+Case 5344:
+Case 5345: NOR
+Case 5346:
+Case 5347: XNOR
+Case 5348: XOR
+Case 5349: NAND
+Case 5350:
+Case 5351:
+Case 5352:
+Case 5353:
+Case 5354: AND
+Case 5355:
+Case 5356: NOR
+Case 5357:
+Case 5358: XNOR
+Case 5359:
+Case 5360:
+Case 5361: NAND, XOR
+Case 5362:
+Case 5363:
+Case 5364:
+Case 5365:
+Case 5366: AND
+Case 5367:
+Case 5368:
+Case 5369:
+Case 5370: NOR, XNOR
+Case 5371: XOR
+Case 5372: NAND
+Case 5373:
+Case 5374:
+Case 5375:
+Case 5376:
+Case 5377:
+Case 5378:
+Case 5379:
+Case 5380:
+Case 5381: AND
+Case 5382:
+Case 5383: NOR, XNOR
+Case 5384:
+Case 5385:
+Case 5386: NAND, XOR
+Case 5387:
+Case 5388:
+Case 5389:
+Case 5390:
+Case 5391:
+Case 5392:
+Case 5393:
+Case 5394:
+Case 5395: AND
+Case 5396:
+Case 5397:
+Case 5398: XOR
+Case 5399: NAND, NOR, XNOR
+Case 5400:
+Case 5401:
+Case 5402:
+Case 5403:
+Case 5404:
+Case 5405:
+Case 5406:
+Case 5407:
+Case 5408:
+Case 5409:
+Case 5410:
+Case 5411:
+Case 5412: AND, OR
+Case 5413:
+Case 5414: NOR, XNOR
+Case 5415: NAND, XOR
+Case 5416:
+Case 5417:
+Case 5418:
+Case 5419:
+Case 5420:
+Case 5421:
+Case 5422:
+Case 5423:
+Case 5424:
+Case 5425:
+Case 5426:
+Case 5427:
+Case 5428: AND
+Case 5429: OR
+Case 5430:
+Case 5431: AND
+Case 5432: NAND, NOR, XNOR
+Case 5433:
+Case 5434:
+Case 5435:
+Case 5436:
+Case 5437:
+Case 5438:
+Case 5439:
+Case 5440:
+Case 5441:
+Case 5442:
+Case 5443:
+Case 5444:
+Case 5445:
+Case 5446:
+Case 5447:
+Case 5448:
+Case 5449: AND, NOR, XNOR
+Case 5450: NAND
+Case 5451:
+Case 5452:
+Case 5453:
+Case 5454:
+Case 5455:
+Case 5456:
+Case 5457:
+Case 5458:
+Case 5459:
+Case 5460:
+Case 5461:
+Case 5462:
+Case 5463:
+Case 5464:
+Case 5465:
+Case 5466:
+Case 5467:
+Case 5468:
+Case 5469: NAND, NOR
+Case 5470: AND
+Case 5471: XNOR
+Case 5472:
+Case 5473:
+Case 5474:
+Case 5475:
+Case 5476:
+Case 5477:
+Case 5478:
+Case 5479:
+Case 5480:
+Case 5481:
+Case 5482:
+Case 5483:
+Case 5484:
+Case 5485:
+Case 5486:
+Case 5487:
+Case 5488: NOR
+Case 5489: NAND
+Case 5490: AND, XNOR
+Case 5491:
+Case 5492:
+Case 5493:
+Case 5494:
+Case 5495:
+Case 5496:
+Case 5497:
+Case 5498:
+Case 5499:
+Case 5500:
+Case 5501:
+Case 5502:
+Case 5503:
+Case 5504:
+Case 5505:
+Case 5506:
+Case 5507:
+Case 5508:
+Case 5509:
+Case 5510: NOR
+Case 5511:
+Case 5512: NAND
+Case 5513: AND
+Case 5514: XNOR
+Case 5515:
+Case 5516:
+Case 5517:
+Case 5518:
+Case 5519:
+Case 5520:
+Case 5521:
+Case 5522:
+Case 5523:
+Case 5524:
+Case 5525:
+Case 5526:
+Case 5527:
+Case 5528:
+Case 5529:
+Case 5530:
+Case 5531: NOR
+Case 5532:
+Case 5533:
+Case 5534: NAND
+Case 5535: AND, XNOR
+Case 5536:
+Case 5537:
+Case 5538:
+Case 5539:
+Case 5540:
+Case 5541:
+Case 5542:
+Case 5543:
+Case 5544:
+Case 5545:
+Case 5546:
+Case 5547:
+Case 5548:
+Case 5549:
+Case 5550:
+Case 5551:
+Case 5552:
+Case 5553:
+Case 5554:
+Case 5555: NAND, NOR
+Case 5556:
+Case 5557:
+Case 5558:
+Case 5559:
+Case 5560: AND
+Case 5561: XNOR
+Case 5562:
+Case 5563:
+Case 5564:
+Case 5565:
+Case 5566:
+Case 5567:
+Case 5568:
+Case 5569:
+Case 5570:
+Case 5571:
+Case 5572:
+Case 5573:
+Case 5574:
+Case 5575:
+Case 5576:
+Case 5577:
+Case 5578: NOR
+Case 5579: NAND
+Case 5580:
+Case 5581:
+Case 5582:
+Case 5583:
+Case 5584: AND, XNOR
+Case 5585:
+Case 5586:
+Case 5587:
+Case 5588:
+Case 5589:
+Case 5590:
+Case 5591:
+Case 5592:
+Case 5593:
+Case 5594:
+Case 5595:
+Case 5596:
+Case 5597:
+Case 5598:
+Case 5599:
+Case 5600:
+Case 5601:
+Case 5602:
+Case 5603:
+Case 5604: NOR
+Case 5605:
+Case 5606:
+Case 5607:
+Case 5608:
+Case 5609:
+Case 5610: NAND
+Case 5611: AND
+Case 5612: XNOR
+Case 5613:
+Case 5614:
+Case 5615:
+Case 5616:
+Case 5617:
+Case 5618:
+Case 5619:
+Case 5620:
+Case 5621:
+Case 5622:
+Case 5623:
+Case 5624:
+Case 5625: XOR
+Case 5626:
+Case 5627:
+Case 5628:
+Case 5629: NOR
+Case 5630:
+Case 5631:
+Case 5632:
+Case 5633:
+Case 5634:
+Case 5635:
+Case 5636: NAND
+Case 5637: AND, XNOR
+Case 5638:
+Case 5639:
+Case 5640:
+Case 5641:
+Case 5642:
+Case 5643:
+Case 5644:
+Case 5645:
+Case 5646:
+Case 5647:
+Case 5648:
+Case 5649:
+Case 5650:
+Case 5651:
+Case 5652: XOR
+Case 5653:
+Case 5654:
+Case 5655:
+Case 5656: AND, NOR, XNOR
+Case 5657: NAND
+Case 5658: NAND, NOR
+Case 5659: AND, XNOR
+Case 5660:
+Case 5661: NOR
+Case 5662: NAND
+Case 5663: AND, XNOR
+Case 5664:
+Case 5665: NAND, NOR
+Case 5666:
+Case 5667:
+Case 5668: AND, XNOR
+Case 5669:
+Case 5670: NOR
+Case 5671:
+Case 5672:
+Case 5673: NAND
+Case 5674: AND, XNOR
+Case 5675:
+Case 5676: NOR
+Case 5677:
+Case 5678: NAND
+Case 5679:
+Case 5680:
+Case 5681: AND, XNOR
+Case 5682:
+Case 5683: NOR
+Case 5684: NAND
+Case 5685:
+Case 5686:
+Case 5687:
+Case 5688:
+Case 5689: AND, XNOR
+Case 5690:
+Case 5691: NAND, NOR
+Case 5692:
+Case 5693:
+Case 5694:
+Case 5695:
+Case 5696:
+Case 5697:
+Case 5698: AND, XNOR
+Case 5699: XOR
+Case 5700: NOR, XNOR
+Case 5701:
+Case 5702:
+Case 5703:
+Case 5704:
+Case 5705:
+Case 5706:
+Case 5707: NAND, XOR
+Case 5708: AND
+Case 5709:
+Case 5710: NOR
+Case 5711: XNOR
+Case 5712:
+Case 5713:
+Case 5714:
+Case 5715:
+Case 5716: NAND, XOR
+Case 5717:
+Case 5718:
+Case 5719: AND
+Case 5720:
+Case 5721: NOR
+Case 5722:
+Case 5723: XNOR
+Case 5724:
+Case 5725:
+Case 5726: NAND, XOR
+Case 5727:
+Case 5728:
+Case 5729:
+Case 5730:
+Case 5731: AND
+Case 5732:
+Case 5733: NOR
+Case 5734:
+Case 5735:
+Case 5736: XNOR
+Case 5737: NAND, XOR
+Case 5738:
+Case 5739:
+Case 5740:
+Case 5741:
+Case 5742:
+Case 5743:
+Case 5744: AND
+Case 5745:
+Case 5746: NOR, XNOR
+Case 5747:
+Case 5748:
+Case 5749: NAND, XOR
+Case 5750:
+Case 5751:
+Case 5752:
+Case 5753:
+Case 5754:
+Case 5755:
+Case 5756:
+Case 5757:
+Case 5758: AND
+Case 5759:
+Case 5760: NOR
+Case 5761: XNOR
+Case 5762: NAND, XOR
+Case 5763:
+Case 5764:
+Case 5765:
+Case 5766:
+Case 5767:
+Case 5768:
+Case 5769:
+Case 5770:
+Case 5771:
+Case 5772:
+Case 5773: AND
+Case 5774:
+Case 5775: NOR, XNOR
+Case 5776: NAND, XOR
+Case 5777:
+Case 5778:
+Case 5779:
+Case 5780:
+Case 5781:
+Case 5782:
+Case 5783:
+Case 5784:
+Case 5785:
+Case 5786:
+Case 5787:
+Case 5788:
+Case 5789: AND
+Case 5790: OR
+Case 5791: NAND, NOR, XOR
+Case 5792: XNOR
+Case 5793:
+Case 5794:
+Case 5795:
+Case 5796:
+Case 5797:
+Case 5798:
+Case 5799:
+Case 5800:
+Case 5801:
+Case 5802:
+Case 5803:
+Case 5804:
+Case 5805:
+Case 5806: AND, OR
+Case 5807:
+Case 5808: AND, NOR, XNOR
+Case 5809: NAND
+Case 5810:
+Case 5811:
+Case 5812:
+Case 5813:
+Case 5814:
+Case 5815:
+Case 5816:
+Case 5817:
+Case 5818:
+Case 5819:
+Case 5820:
+Case 5821:
+Case 5822:
+Case 5823:
+Case 5824:
+Case 5825:
+Case 5826: NAND, NOR
+Case 5827: AND, XNOR
+Case 5828:
+Case 5829:
+Case 5830:
+Case 5831:
+Case 5832:
+Case 5833:
+Case 5834:
+Case 5835:
+Case 5836:
+Case 5837:
+Case 5838:
+Case 5839:
+Case 5840:
+Case 5841:
+Case 5842:
+Case 5843:
+Case 5844:
+Case 5845: NOR
+Case 5846: NAND
+Case 5847: AND, XNOR
+Case 5848:
+Case 5849:
+Case 5850:
+Case 5851:
+Case 5852:
+Case 5853:
+Case 5854:
+Case 5855:
+Case 5856:
+Case 5857:
+Case 5858:
+Case 5859:
+Case 5860:
+Case 5861:
+Case 5862:
+Case 5863:
+Case 5864:
+Case 5865: NAND, NOR
+Case 5866:
+Case 5867:
+Case 5868: AND, XNOR
+Case 5869:
+Case 5870:
+Case 5871:
+Case 5872:
+Case 5873:
+Case 5874:
+Case 5875:
+Case 5876:
+Case 5877:
+Case 5878:
+Case 5879:
+Case 5880:
+Case 5881:
+Case 5882:
+Case 5883:
+Case 5884:
+Case 5885:
+Case 5886: NOR
+Case 5887:
+Case 5888:
+Case 5889: NAND
+Case 5890: AND, XNOR
+Case 5891:
+Case 5892:
+Case 5893:
+Case 5894:
+Case 5895:
+Case 5896:
+Case 5897:
+Case 5898:
+Case 5899:
+Case 5900:
+Case 5901:
+Case 5902:
+Case 5903:
+Case 5904:
+Case 5905:
+Case 5906:
+Case 5907:
+Case 5908: NOR
+Case 5909:
+Case 5910: NAND
+Case 5911:
+Case 5912:
+Case 5913: AND, XNOR
+Case 5914:
+Case 5915:
+Case 5916:
+Case 5917:
+Case 5918:
+Case 5919:
+Case 5920:
+Case 5921:
+Case 5922:
+Case 5923:
+Case 5924:
+Case 5925:
+Case 5926:
+Case 5927:
+Case 5928:
+Case 5929:
+Case 5930:
+Case 5931: NOR
+Case 5932: NAND
+Case 5933:
+Case 5934:
+Case 5935:
+Case 5936:
+Case 5937: AND, XNOR
+Case 5938:
+Case 5939:
+Case 5940:
+Case 5941:
+Case 5942:
+Case 5943:
+Case 5944:
+Case 5945:
+Case 5946:
+Case 5947:
+Case 5948:
+Case 5949:
+Case 5950:
+Case 5951:
+Case 5952:
+Case 5953:
+Case 5954:
+Case 5955: NAND, NOR
+Case 5956:
+Case 5957:
+Case 5958:
+Case 5959:
+Case 5960:
+Case 5961:
+Case 5962: AND, XNOR
+Case 5963:
+Case 5964:
+Case 5965:
+Case 5966:
+Case 5967:
+Case 5968:
+Case 5969:
+Case 5970:
+Case 5971:
+Case 5972:
+Case 5973:
+Case 5974:
+Case 5975:
+Case 5976:
+Case 5977:
+Case 5978:
+Case 5979: XOR
+Case 5980: NOR
+Case 5981:
+Case 5982:
+Case 5983:
+Case 5984:
+Case 5985:
+Case 5986:
+Case 5987: NAND
+Case 5988: AND, XNOR
+Case 5989:
+Case 5990:
+Case 5991:
+Case 5992:
+Case 5993:
+Case 5994:
+Case 5995:
+Case 5996:
+Case 5997:
+Case 5998:
+Case 5999:
+Case 6000:
+Case 6001:
+Case 6002:
+Case 6003: XOR
+Case 6004:
+Case 6005:
+Case 6006: NOR
+Case 6007:
+Case 6008:
+Case 6009:
+Case 6010:
+Case 6011:
+Case 6012: NAND
+Case 6013:
+Case 6014:
+Case 6015: AND, XNOR
+Case 6016:
+Case 6017:
+Case 6018:
+Case 6019:
+Case 6020:
+Case 6021:
+Case 6022:
+Case 6023:
+Case 6024:
+Case 6025:
+Case 6026:
+Case 6027:
+Case 6028: XOR
+Case 6029:
+Case 6030:
+Case 6031:
+Case 6032:
+Case 6033: AND
+Case 6034: NAND
+Case 6035: AND
+Case 6036: NAND
+Case 6037:
+Case 6038: AND
+Case 6039: NAND
+Case 6040:
+Case 6041:
+Case 6042: AND
+Case 6043: NAND
+Case 6044:
+Case 6045:
+Case 6046:
+Case 6047: AND
+Case 6048: NAND
+Case 6049:
+Case 6050:
+Case 6051:
+Case 6052:
+Case 6053: AND
+Case 6054: NAND
+Case 6055:
+Case 6056:
+Case 6057:
+Case 6058:
+Case 6059:
+Case 6060: AND
+Case 6061: NAND
+Case 6062:
+Case 6063:
+Case 6064:
+Case 6065:
+Case 6066:
+Case 6067:
+Case 6068: AND
+Case 6069: NAND
+Case 6070:
+Case 6071:
+Case 6072:
+Case 6073:
+Case 6074:
+Case 6075:
+Case 6076: NOR, XNOR
+Case 6077: AND
+Case 6078: NAND
+Case 6079:
+Case 6080:
+Case 6081:
+Case 6082:
+Case 6083:
+Case 6084: NOR, XNOR
+Case 6085:
+Case 6086:
+Case 6087: AND
+Case 6088: NAND
+Case 6089:
+Case 6090:
+Case 6091:
+Case 6092:
+Case 6093: NOR, XNOR
+Case 6094:
+Case 6095:
+Case 6096:
+Case 6097:
+Case 6098: AND
+Case 6099: NAND
+Case 6100:
+Case 6101:
+Case 6102:
+Case 6103: NOR, XNOR
+Case 6104:
+Case 6105:
+Case 6106:
+Case 6107:
+Case 6108:
+Case 6109:
+Case 6110: AND
+Case 6111: NAND
+Case 6112:
+Case 6113:
+Case 6114: NOR, XNOR
+Case 6115:
+Case 6116:
+Case 6117:
+Case 6118:
+Case 6119:
+Case 6120:
+Case 6121:
+Case 6122:
+Case 6123: AND
+Case 6124: NAND
+Case 6125:
+Case 6126: NOR, XNOR
+Case 6127:
+Case 6128:
+Case 6129:
+Case 6130:
+Case 6131:
+Case 6132:
+Case 6133:
+Case 6134:
+Case 6135:
+Case 6136:
+Case 6137: AND
+Case 6138: NAND
+Case 6139: NOR, XNOR
+Case 6140:
+Case 6141:
+Case 6142:
+Case 6143:
+Case 6144:
+Case 6145:
+Case 6146:
+Case 6147:
+Case 6148:
+Case 6149:
+Case 6150:
+Case 6151:
+Case 6152: AND
+Case 6153: NAND, NOR, XNOR
+Case 6154:
+Case 6155:
+Case 6156:
+Case 6157:
+Case 6158:
+Case 6159:
+Case 6160:
+Case 6161:
+Case 6162:
+Case 6163:
+Case 6164:
+Case 6165:
+Case 6166:
+Case 6167:
+Case 6168: AND, NOR, XNOR
+Case 6169: NAND
+Case 6170:
+Case 6171:
+Case 6172:
+Case 6173:
+Case 6174:
+Case 6175:
+Case 6176:
+Case 6177:
+Case 6178:
+Case 6179:
+Case 6180:
+Case 6181:
+Case 6182:
+Case 6183:
+Case 6184:
+Case 6185: XOR
+Case 6186: XNOR
+Case 6187:
+Case 6188:
+Case 6189:
+Case 6190:
+Case 6191:
+Case 6192:
+Case 6193:
+Case 6194:
+Case 6195:
+Case 6196:
+Case 6197:
+Case 6198:
+Case 6199:
+Case 6200: NAND, NOR
+Case 6201: AND, OR
+Case 6202:
+Case 6203: XNOR
+Case 6204: XOR
+Case 6205:
+Case 6206:
+Case 6207:
+Case 6208:
+Case 6209:
+Case 6210:
+Case 6211:
+Case 6212:
+Case 6213:
+Case 6214:
+Case 6215:
+Case 6216:
+Case 6217: NOR
+Case 6218: NAND
+Case 6219: AND
+Case 6220: OR
+Case 6221:
+Case 6222:
+Case 6223: XNOR
+Case 6224: XOR
+Case 6225:
+Case 6226:
+Case 6227:
+Case 6228:
+Case 6229:
+Case 6230:
+Case 6231:
+Case 6232:
+Case 6233:
+Case 6234:
+Case 6235: NOR
+Case 6236:
+Case 6237: NAND
+Case 6238: AND
+Case 6239:
+Case 6240: OR
+Case 6241:
+Case 6242: XNOR
+Case 6243:
+Case 6244:
+Case 6245: XOR
+Case 6246:
+Case 6247:
+Case 6248:
+Case 6249:
+Case 6250:
+Case 6251:
+Case 6252:
+Case 6253:
+Case 6254: NOR
+Case 6255:
+Case 6256:
+Case 6257: NAND
+Case 6258: AND
+Case 6259:
+Case 6260:
+Case 6261: OR
+Case 6262:
+Case 6263:
+Case 6264:
+Case 6265:
+Case 6266: XNOR
+Case 6267: XOR
+Case 6268:
+Case 6269:
+Case 6270:
+Case 6271:
+Case 6272:
+Case 6273:
+Case 6274: NOR
+Case 6275:
+Case 6276:
+Case 6277:
+Case 6278: NAND
+Case 6279: AND
+Case 6280:
+Case 6281:
+Case 6282:
+Case 6283: OR
+Case 6284:
+Case 6285:
+Case 6286:
+Case 6287: XNOR
+Case 6288:
+Case 6289:
+Case 6290: XOR
+Case 6291:
+Case 6292:
+Case 6293:
+Case 6294:
+Case 6295: NOR
+Case 6296:
+Case 6297:
+Case 6298:
+Case 6299:
+Case 6300: NAND
+Case 6301: AND
+Case 6302:
+Case 6303:
+Case 6304:
+Case 6305:
+Case 6306: OR
+Case 6307:
+Case 6308:
+Case 6309: XNOR
+Case 6310:
+Case 6311:
+Case 6312:
+Case 6313:
+Case 6314: XOR
+Case 6315:
+Case 6316:
+Case 6317: NOR
+Case 6318:
+Case 6319:
+Case 6320:
+Case 6321:
+Case 6322:
+Case 6323: NAND
+Case 6324: AND
+Case 6325:
+Case 6326:
+Case 6327:
+Case 6328:
+Case 6329:
+Case 6330: OR
+Case 6331:
+Case 6332: XNOR
+Case 6333:
+Case 6334:
+Case 6335:
+Case 6336:
+Case 6337:
+Case 6338:
+Case 6339: XOR
+Case 6340: NOR
+Case 6341:
+Case 6342:
+Case 6343:
+Case 6344:
+Case 6345:
+Case 6346:
+Case 6347: NAND
+Case 6348: AND
+Case 6349:
+Case 6350:
+Case 6351:
+Case 6352:
+Case 6353:
+Case 6354:
+Case 6355: OR
+Case 6356:
+Case 6357:
+Case 6358:
+Case 6359:
+Case 6360:
+Case 6361:
+Case 6362:
+Case 6363:
+Case 6364: NOR, XNOR
+Case 6365: XOR
+Case 6366:
+Case 6367:
+Case 6368:
+Case 6369:
+Case 6370:
+Case 6371:
+Case 6372: NAND
+Case 6373: AND
+Case 6374:
+Case 6375:
+Case 6376:
+Case 6377:
+Case 6378:
+Case 6379:
+Case 6380:
+Case 6381: OR
+Case 6382:
+Case 6383:
+Case 6384:
+Case 6385:
+Case 6386:
+Case 6387:
+Case 6388:
+Case 6389: NOR, XNOR
+Case 6390:
+Case 6391:
+Case 6392: XOR
+Case 6393:
+Case 6394:
+Case 6395:
+Case 6396:
+Case 6397:
+Case 6398: NAND
+Case 6399: AND
+Case 6400:
+Case 6401:
+Case 6402:
+Case 6403:
+Case 6404:
+Case 6405:
+Case 6406:
+Case 6407:
+Case 6408: OR
+Case 6409:
+Case 6410: AND
+Case 6411: NAND
+Case 6412: NAND
+Case 6413: AND
+Case 6414:
+Case 6415: AND
+Case 6416: NAND
+Case 6417:
+Case 6418:
+Case 6419: NAND
+Case 6420: AND
+Case 6421:
+Case 6422:
+Case 6423:
+Case 6424: AND
+Case 6425: NAND
+Case 6426:
+Case 6427:
+Case 6428:
+Case 6429:
+Case 6430: NAND
+Case 6431: AND
+Case 6432:
+Case 6433:
+Case 6434:
+Case 6435:
+Case 6436:
+Case 6437: AND
+Case 6438: NAND
+Case 6439:
+Case 6440:
+Case 6441:
+Case 6442:
+Case 6443:
+Case 6444:
+Case 6445: NAND
+Case 6446: AND
+Case 6447:
+Case 6448:
+Case 6449:
+Case 6450:
+Case 6451:
+Case 6452:
+Case 6453: NOR
+Case 6454: AND
+Case 6455: NAND
+Case 6456:
+Case 6457:
+Case 6458:
+Case 6459:
+Case 6460: NOR, XNOR
+Case 6461:
+Case 6462:
+Case 6463:
+Case 6464: NAND
+Case 6465: AND
+Case 6466:
+Case 6467:
+Case 6468:
+Case 6469:
+Case 6470: NOR
+Case 6471: XNOR
+Case 6472:
+Case 6473:
+Case 6474:
+Case 6475: AND
+Case 6476: NAND
+Case 6477:
+Case 6478:
+Case 6479: NOR, XNOR
+Case 6480:
+Case 6481:
+Case 6482:
+Case 6483:
+Case 6484:
+Case 6485:
+Case 6486:
+Case 6487: NAND
+Case 6488: AND
+Case 6489:
+Case 6490:
+Case 6491: NOR
+Case 6492: XNOR
+Case 6493:
+Case 6494:
+Case 6495:
+Case 6496:
+Case 6497:
+Case 6498:
+Case 6499:
+Case 6500: AND
+Case 6501: NAND
+Case 6502: NOR, XNOR
+Case 6503:
+Case 6504:
+Case 6505:
+Case 6506:
+Case 6507:
+Case 6508:
+Case 6509:
+Case 6510:
+Case 6511:
+Case 6512:
+Case 6513:
+Case 6514: NAND
+Case 6515: AND
+Case 6516: NOR
+Case 6517: XNOR
+Case 6518:
+Case 6519:
+Case 6520:
+Case 6521:
+Case 6522:
+Case 6523:
+Case 6524:
+Case 6525:
+Case 6526:
+Case 6527:
+Case 6528:
+Case 6529: AND, NOR, XNOR
+Case 6530: NAND
+Case 6531:
+Case 6532:
+Case 6533:
+Case 6534:
+Case 6535:
+Case 6536:
+Case 6537:
+Case 6538:
+Case 6539:
+Case 6540:
+Case 6541:
+Case 6542:
+Case 6543:
+Case 6544:
+Case 6545: NAND, NOR
+Case 6546: AND, XNOR
+Case 6547:
+Case 6548:
+Case 6549:
+Case 6550:
+Case 6551:
+Case 6552:
+Case 6553:
+Case 6554:
+Case 6555:
+Case 6556:
+Case 6557:
+Case 6558:
+Case 6559:
+Case 6560:
+Case 6561:
+Case 6562: XNOR
+Case 6563: XOR
+Case 6564:
+Case 6565:
+Case 6566:
+Case 6567:
+Case 6568:
+Case 6569:
+Case 6570:
+Case 6571:
+Case 6572:
+Case 6573:
+Case 6574:
+Case 6575:
+Case 6576: NOR
+Case 6577: NAND
+Case 6578: AND
+Case 6579: OR
+Case 6580: XOR
+Case 6581: XNOR
+Case 6582:
+Case 6583:
+Case 6584:
+Case 6585:
+Case 6586:
+Case 6587:
+Case 6588:
+Case 6589:
+Case 6590:
+Case 6591:
+Case 6592:
+Case 6593:
+Case 6594: NAND, NOR
+Case 6595:
+Case 6596:
+Case 6597: AND, OR
+Case 6598:
+Case 6599: XNOR
+Case 6600:
+Case 6601:
+Case 6602: XOR
+Case 6603:
+Case 6604:
+Case 6605:
+Case 6606:
+Case 6607:
+Case 6608:
+Case 6609:
+Case 6610:
+Case 6611: NOR
+Case 6612:
+Case 6613:
+Case 6614: NAND
+Case 6615: AND
+Case 6616:
+Case 6617:
+Case 6618: OR
+Case 6619:
+Case 6620: XNOR
+Case 6621: XOR
+Case 6622:
+Case 6623:
+Case 6624:
+Case 6625:
+Case 6626:
+Case 6627:
+Case 6628:
+Case 6629:
+Case 6630:
+Case 6631: NOR
+Case 6632:
+Case 6633: NAND
+Case 6634:
+Case 6635:
+Case 6636: AND
+Case 6637:
+Case 6638: OR
+Case 6639:
+Case 6640:
+Case 6641:
+Case 6642: XNOR
+Case 6643:
+Case 6644:
+Case 6645: XOR
+Case 6646:
+Case 6647:
+Case 6648:
+Case 6649:
+Case 6650: NOR
+Case 6651:
+Case 6652:
+Case 6653:
+Case 6654:
+Case 6655: NAND
+Case 6656: AND
+Case 6657:
+Case 6658:
+Case 6659:
+Case 6660:
+Case 6661: OR
+Case 6662:
+Case 6663:
+Case 6664:
+Case 6665: XNOR
+Case 6666: XOR
+Case 6667:
+Case 6668:
+Case 6669:
+Case 6670:
+Case 6671:
+Case 6672: NOR
+Case 6673:
+Case 6674:
+Case 6675:
+Case 6676: NAND
+Case 6677:
+Case 6678:
+Case 6679: AND
+Case 6680:
+Case 6681:
+Case 6682:
+Case 6683: OR
+Case 6684:
+Case 6685: XNOR
+Case 6686:
+Case 6687:
+Case 6688:
+Case 6689:
+Case 6690:
+Case 6691:
+Case 6692: XOR
+Case 6693: NOR
+Case 6694:
+Case 6695:
+Case 6696:
+Case 6697:
+Case 6698:
+Case 6699:
+Case 6700: NAND
+Case 6701: AND
+Case 6702:
+Case 6703:
+Case 6704:
+Case 6705:
+Case 6706:
+Case 6707:
+Case 6708: OR
+Case 6709:
+Case 6710: XNOR
+Case 6711:
+Case 6712:
+Case 6713:
+Case 6714:
+Case 6715: XOR
+Case 6716:
+Case 6717: NOR
+Case 6718:
+Case 6719:
+Case 6720:
+Case 6721:
+Case 6722:
+Case 6723: NAND
+Case 6724:
+Case 6725:
+Case 6726: AND
+Case 6727:
+Case 6728:
+Case 6729:
+Case 6730:
+Case 6731:
+Case 6732: OR
+Case 6733:
+Case 6734:
+Case 6735:
+Case 6736:
+Case 6737:
+Case 6738:
+Case 6739:
+Case 6740: NOR, XNOR
+Case 6741:
+Case 6742:
+Case 6743: XOR
+Case 6744:
+Case 6745:
+Case 6746:
+Case 6747:
+Case 6748:
+Case 6749: NAND
+Case 6750: AND
+Case 6751:
+Case 6752:
+Case 6753:
+Case 6754:
+Case 6755:
+Case 6756:
+Case 6757:
+Case 6758:
+Case 6759: OR
+Case 6760:
+Case 6761:
+Case 6762:
+Case 6763:
+Case 6764:
+Case 6765:
+Case 6766: NOR
+Case 6767: XNOR
+Case 6768: XOR
+Case 6769:
+Case 6770:
+Case 6771:
+Case 6772:
+Case 6773:
+Case 6774: NAND
+Case 6775:
+Case 6776:
+Case 6777: AND
+Case 6778:
+Case 6779:
+Case 6780:
+Case 6781:
+Case 6782:
+Case 6783:
+Case 6784:
+Case 6785: OR
+Case 6786:
+Case 6787: AND
+Case 6788: NAND
+Case 6789: AND
+Case 6790: NAND
+Case 6791:
+Case 6792:
+Case 6793: NAND
+Case 6794: AND
+Case 6795:
+Case 6796:
+Case 6797: NAND
+Case 6798: AND
+Case 6799:
+Case 6800:
+Case 6801: AND
+Case 6802: NAND
+Case 6803:
+Case 6804:
+Case 6805:
+Case 6806:
+Case 6807: AND
+Case 6808: NAND
+Case 6809:
+Case 6810:
+Case 6811:
+Case 6812:
+Case 6813:
+Case 6814:
+Case 6815: NAND
+Case 6816: AND
+Case 6817:
+Case 6818:
+Case 6819:
+Case 6820:
+Case 6821:
+Case 6822:
+Case 6823: NAND
+Case 6824: AND
+Case 6825:
+Case 6826:
+Case 6827:
+Case 6828:
+Case 6829:
+Case 6830: NOR
+Case 6831: AND
+Case 6832: NAND
+Case 6833:
+Case 6834:
+Case 6835:
+Case 6836: NOR, XNOR
+Case 6837:
+Case 6838:
+Case 6839:
+Case 6840:
+Case 6841: AND
+Case 6842: NAND
+Case 6843:
+Case 6844:
+Case 6845: NOR, XNOR
+Case 6846:
+Case 6847:
+Case 6848:
+Case 6849:
+Case 6850:
+Case 6851:
+Case 6852:
+Case 6853: NAND
+Case 6854: AND
+Case 6855:
+Case 6856:
+Case 6857: NOR
+Case 6858:
+Case 6859: XNOR
+Case 6860:
+Case 6861:
+Case 6862:
+Case 6863:
+Case 6864:
+Case 6865: NAND
+Case 6866: AND
+Case 6867:
+Case 6868: NOR
+Case 6869:
+Case 6870: XNOR
+Case 6871:
+Case 6872:
+Case 6873:
+Case 6874:
+Case 6875:
+Case 6876:
+Case 6877: AND
+Case 6878: NAND, NOR, XNOR
+Case 6879:
+Case 6880:
+Case 6881:
+Case 6882:
+Case 6883:
+Case 6884:
+Case 6885:
+Case 6886:
+Case 6887:
+Case 6888:
+Case 6889:
+Case 6890:
+Case 6891: AND, NOR, XNOR
+Case 6892: NAND
+Case 6893:
+Case 6894:
+Case 6895:
+Case 6896:
+Case 6897:
+Case 6898:
+Case 6899:
+Case 6900:
+Case 6901:
+Case 6902:
+Case 6903:
+Case 6904:
+Case 6905:
+Case 6906:
+Case 6907: NAND, NOR
+Case 6908: AND
+Case 6909: XNOR
+Case 6910:
+Case 6911:
+Case 6912:
+Case 6913:
+Case 6914:
+Case 6915:
+Case 6916:
+Case 6917:
+Case 6918:
+Case 6919:
+Case 6920:
+Case 6921:
+Case 6922: NOR
+Case 6923: NAND
+Case 6924: AND, XNOR
+Case 6925:
+Case 6926:
+Case 6927:
+Case 6928:
+Case 6929:
+Case 6930:
+Case 6931:
+Case 6932:
+Case 6933:
+Case 6934:
+Case 6935:
+Case 6936:
+Case 6937:
+Case 6938:
+Case 6939:
+Case 6940: XNOR
+Case 6941: XOR
+Case 6942:
+Case 6943:
+Case 6944:
+Case 6945:
+Case 6946:
+Case 6947:
+Case 6948:
+Case 6949:
+Case 6950:
+Case 6951:
+Case 6952: NOR
+Case 6953:
+Case 6954: NAND
+Case 6955: AND
+Case 6956:
+Case 6957: XNOR
+Case 6958:
+Case 6959:
+Case 6960: XOR
+Case 6961:
+Case 6962:
+Case 6963:
+Case 6964:
+Case 6965:
+Case 6966:
+Case 6967:
+Case 6968:
+Case 6969: NOR
+Case 6970:
+Case 6971:
+Case 6972: NAND
+Case 6973: AND
+Case 6974:
+Case 6975:
+Case 6976: XOR
+Case 6977: XNOR
+Case 6978:
+Case 6979:
+Case 6980:
+Case 6981:
+Case 6982:
+Case 6983:
+Case 6984:
+Case 6985:
+Case 6986:
+Case 6987:
+Case 6988:
+Case 6989: NAND, NOR
+Case 6990:
+Case 6991:
+Case 6992:
+Case 6993:
+Case 6994: AND, OR
+Case 6995:
+Case 6996: XNOR
+Case 6997: XOR
+Case 6998:
+Case 6999:
+Case 7000:
+Case 7001:
+Case 7002:
+Case 7003:
+Case 7004:
+Case 7005:
+Case 7006:
+Case 7007:
+Case 7008: NOR
+Case 7009: NAND
+Case 7010:
+Case 7011:
+Case 7012:
+Case 7013:
+Case 7014: AND
+Case 7015: OR
+Case 7016:
+Case 7017:
+Case 7018: XNOR
+Case 7019:
+Case 7020:
+Case 7021:
+Case 7022:
+Case 7023: XOR
+Case 7024:
+Case 7025:
+Case 7026: NOR
+Case 7027:
+Case 7028:
+Case 7029:
+Case 7030:
+Case 7031:
+Case 7032: NAND
+Case 7033: AND
+Case 7034:
+Case 7035:
+Case 7036:
+Case 7037:
+Case 7038:
+Case 7039: XNOR
+Case 7040:
+Case 7041:
+Case 7042:
+Case 7043:
+Case 7044:
+Case 7045:
+Case 7046: XOR
+Case 7047: NOR
+Case 7048:
+Case 7049:
+Case 7050:
+Case 7051:
+Case 7052:
+Case 7053:
+Case 7054: NAND
+Case 7055: AND
+Case 7056:
+Case 7057:
+Case 7058:
+Case 7059:
+Case 7060:
+Case 7061:
+Case 7062:
+Case 7063:
+Case 7064:
+Case 7065: XNOR
+Case 7066: XOR
+Case 7067:
+Case 7068:
+Case 7069:
+Case 7070:
+Case 7071: NOR
+Case 7072:
+Case 7073:
+Case 7074:
+Case 7075: NAND
+Case 7076:
+Case 7077:
+Case 7078:
+Case 7079:
+Case 7080: AND
+Case 7081:
+Case 7082:
+Case 7083:
+Case 7084: OR
+Case 7085:
+Case 7086:
+Case 7087:
+Case 7088: XNOR
+Case 7089:
+Case 7090:
+Case 7091: XOR
+Case 7092:
+Case 7093:
+Case 7094: NOR
+Case 7095:
+Case 7096:
+Case 7097:
+Case 7098:
+Case 7099: NAND
+Case 7100:
+Case 7101:
+Case 7102:
+Case 7103:
+Case 7104: AND
+Case 7105:
+Case 7106:
+Case 7107:
+Case 7108:
+Case 7109: OR
+Case 7110:
+Case 7111:
+Case 7112:
+Case 7113:
+Case 7114:
+Case 7115:
+Case 7116: NOR, XNOR
+Case 7117:
+Case 7118:
+Case 7119:
+Case 7120:
+Case 7121: XOR
+Case 7122:
+Case 7123:
+Case 7124:
+Case 7125:
+Case 7126: NAND
+Case 7127: AND
+Case 7128:
+Case 7129:
+Case 7130:
+Case 7131:
+Case 7132:
+Case 7133:
+Case 7134:
+Case 7135:
+Case 7136:
+Case 7137:
+Case 7138:
+Case 7139:
+Case 7140:
+Case 7141: NOR, XNOR
+Case 7142:
+Case 7143:
+Case 7144:
+Case 7145:
+Case 7146:
+Case 7147:
+Case 7148: XOR
+Case 7149:
+Case 7150:
+Case 7151:
+Case 7152: NAND
+Case 7153: AND
+Case 7154:
+Case 7155:
+Case 7156:
+Case 7157:
+Case 7158:
+Case 7159:
+Case 7160:
+Case 7161:
+Case 7162:
+Case 7163:
+Case 7164: AND
+Case 7165: NAND
+Case 7166: NAND
+Case 7167: AND
+Case 7168:
+Case 7169:
+Case 7170: NAND
+Case 7171: AND
+Case 7172:
+Case 7173: NAND
+Case 7174:
+Case 7175:
+Case 7176: AND
+Case 7177:
+Case 7178: AND
+Case 7179: NAND
+Case 7180:
+Case 7181:
+Case 7182:
+Case 7183:
+Case 7184: NAND
+Case 7185: AND
+Case 7186:
+Case 7187:
+Case 7188:
+Case 7189:
+Case 7190:
+Case 7191:
+Case 7192: NAND
+Case 7193: AND
+Case 7194:
+Case 7195:
+Case 7196:
+Case 7197:
+Case 7198:
+Case 7199: NAND
+Case 7200:
+Case 7201:
+Case 7202: AND
+Case 7203:
+Case 7204:
+Case 7205:
+Case 7206:
+Case 7207: NOR
+Case 7208: AND
+Case 7209: NAND
+Case 7210:
+Case 7211:
+Case 7212: NOR, XNOR
+Case 7213:
+Case 7214:
+Case 7215:
+Case 7216:
+Case 7217:
+Case 7218: NAND
+Case 7219: AND
+Case 7220:
+Case 7221:
+Case 7222: NOR
+Case 7223: XNOR
+Case 7224:
+Case 7225:
+Case 7226:
+Case 7227:
+Case 7228:
+Case 7229:
+Case 7230: NAND
+Case 7231: AND
+Case 7232:
+Case 7233: NOR
+Case 7234:
+Case 7235: XNOR
+Case 7236:
+Case 7237:
+Case 7238:
+Case 7239:
+Case 7240:
+Case 7241: NAND
+Case 7242:
+Case 7243:
+Case 7244: AND
+Case 7245: NOR
+Case 7246:
+Case 7247:
+Case 7248: XNOR
+Case 7249:
+Case 7250:
+Case 7251:
+Case 7252:
+Case 7253:
+Case 7254: AND, NOR, XNOR
+Case 7255: NAND
+Case 7256:
+Case 7257:
+Case 7258:
+Case 7259:
+Case 7260:
+Case 7261:
+Case 7262:
+Case 7263:
+Case 7264:
+Case 7265:
+Case 7266:
+Case 7267:
+Case 7268: NAND, NOR
+Case 7269: AND, XNOR
+Case 7270:
+Case 7271:
+Case 7272:
+Case 7273:
+Case 7274:
+Case 7275:
+Case 7276:
+Case 7277:
+Case 7278:
+Case 7279:
+Case 7280:
+Case 7281:
+Case 7282:
+Case 7283: NOR
+Case 7284: NAND
+Case 7285: AND, XNOR
+Case 7286:
+Case 7287:
+Case 7288:
+Case 7289:
+Case 7290:
+Case 7291:
+Case 7292:
+Case 7293:
+Case 7294:
+Case 7295:
+Case 7296:
+Case 7297:
+Case 7298:
+Case 7299: NAND, NOR
+Case 7300:
+Case 7301:
+Case 7302: AND, XNOR
+Case 7303:
+Case 7304:
+Case 7305:
+Case 7306:
+Case 7307:
+Case 7308:
+Case 7309:
+Case 7310:
+Case 7311:
+Case 7312:
+Case 7313:
+Case 7314:
+Case 7315:
+Case 7316: XNOR
+Case 7317:
+Case 7318:
+Case 7319: XOR
+Case 7320:
+Case 7321:
+Case 7322:
+Case 7323:
+Case 7324:
+Case 7325:
+Case 7326:
+Case 7327:
+Case 7328: NOR
+Case 7329:
+Case 7330:
+Case 7331: NAND
+Case 7332: AND
+Case 7333:
+Case 7334:
+Case 7335: XNOR
+Case 7336: XOR
+Case 7337:
+Case 7338:
+Case 7339:
+Case 7340:
+Case 7341:
+Case 7342:
+Case 7343:
+Case 7344:
+Case 7345:
+Case 7346: NOR
+Case 7347:
+Case 7348: NAND
+Case 7349:
+Case 7350:
+Case 7351: AND
+Case 7352:
+Case 7353: XNOR
+Case 7354: XOR
+Case 7355:
+Case 7356:
+Case 7357:
+Case 7358:
+Case 7359:
+Case 7360:
+Case 7361:
+Case 7362:
+Case 7363:
+Case 7364:
+Case 7365: NOR
+Case 7366: NAND
+Case 7367:
+Case 7368:
+Case 7369:
+Case 7370:
+Case 7371: AND
+Case 7372: OR
+Case 7373: XOR
+Case 7374: XNOR
+Case 7375:
+Case 7376:
+Case 7377:
+Case 7378:
+Case 7379:
+Case 7380:
+Case 7381:
+Case 7382:
+Case 7383:
+Case 7384:
+Case 7385: NAND, NOR
+Case 7386:
+Case 7387:
+Case 7388:
+Case 7389:
+Case 7390:
+Case 7391:
+Case 7392: AND, OR
+Case 7393:
+Case 7394: XNOR
+Case 7395:
+Case 7396:
+Case 7397:
+Case 7398:
+Case 7399:
+Case 7400:
+Case 7401: XOR
+Case 7402: NOR
+Case 7403:
+Case 7404:
+Case 7405:
+Case 7406:
+Case 7407:
+Case 7408:
+Case 7409: NAND
+Case 7410: AND
+Case 7411:
+Case 7412:
+Case 7413:
+Case 7414:
+Case 7415:
+Case 7416:
+Case 7417: XNOR
+Case 7418:
+Case 7419:
+Case 7420:
+Case 7421:
+Case 7422: XOR
+Case 7423:
+Case 7424: NOR
+Case 7425:
+Case 7426:
+Case 7427:
+Case 7428:
+Case 7429:
+Case 7430: NAND
+Case 7431:
+Case 7432:
+Case 7433: AND
+Case 7434:
+Case 7435:
+Case 7436:
+Case 7437:
+Case 7438:
+Case 7439:
+Case 7440:
+Case 7441: XNOR
+Case 7442:
+Case 7443:
+Case 7444: XOR
+Case 7445:
+Case 7446:
+Case 7447: NOR
+Case 7448:
+Case 7449:
+Case 7450:
+Case 7451:
+Case 7452: NAND
+Case 7453:
+Case 7454:
+Case 7455:
+Case 7456:
+Case 7457: AND
+Case 7458:
+Case 7459:
+Case 7460:
+Case 7461:
+Case 7462: OR
+Case 7463:
+Case 7464:
+Case 7465:
+Case 7466: XNOR
+Case 7467: XOR
+Case 7468:
+Case 7469:
+Case 7470:
+Case 7471: NOR
+Case 7472:
+Case 7473:
+Case 7474:
+Case 7475: NAND
+Case 7476:
+Case 7477:
+Case 7478:
+Case 7479:
+Case 7480:
+Case 7481:
+Case 7482: AND
+Case 7483:
+Case 7484:
+Case 7485:
+Case 7486: OR
+Case 7487:
+Case 7488:
+Case 7489:
+Case 7490:
+Case 7491:
+Case 7492: NOR, XNOR
+Case 7493:
+Case 7494:
+Case 7495:
+Case 7496:
+Case 7497:
+Case 7498:
+Case 7499: XOR
+Case 7500:
+Case 7501:
+Case 7502:
+Case 7503: NAND
+Case 7504: AND
+Case 7505:
+Case 7506:
+Case 7507:
+Case 7508:
+Case 7509:
+Case 7510:
+Case 7511:
+Case 7512:
+Case 7513:
+Case 7514:
+Case 7515:
+Case 7516:
+Case 7517:
+Case 7518: NOR
+Case 7519: XNOR
+Case 7520:
+Case 7521:
+Case 7522:
+Case 7523:
+Case 7524: XOR
+Case 7525:
+Case 7526:
+Case 7527:
+Case 7528: NAND
+Case 7529:
+Case 7530:
+Case 7531: AND
+Case 7532:
+Case 7533:
+Case 7534:
+Case 7535:
+Case 7536:
+Case 7537:
+Case 7538:
+Case 7539:
+Case 7540:
+Case 7541: AND
+Case 7542: NAND
+Case 7543: AND
+Case 7544: NAND
+Case 7545:
+Case 7546: AND
+Case 7547: NAND
+Case 7548:
+Case 7549:
+Case 7550: AND
+Case 7551: NAND
+Case 7552:
+Case 7553:
+Case 7554:
+Case 7555:
+Case 7556:
+Case 7557:
+Case 7558: NAND
+Case 7559: AND
+Case 7560:
+Case 7561:
+Case 7562:
+Case 7563:
+Case 7564: NAND
+Case 7565: AND
+Case 7566:
+Case 7567:
+Case 7568:
+Case 7569:
+Case 7570:
+Case 7571: NAND
+Case 7572: AND
+Case 7573:
+Case 7574:
+Case 7575:
+Case 7576:
+Case 7577:
+Case 7578:
+Case 7579: NAND
+Case 7580: AND
+Case 7581:
+Case 7582:
+Case 7583:
+Case 7584: NOR
+Case 7585: AND
+Case 7586: NAND
+Case 7587:
+Case 7588: NOR, XNOR
+Case 7589:
+Case 7590:
+Case 7591:
+Case 7592:
+Case 7593:
+Case 7594:
+Case 7595: AND
+Case 7596: NAND
+Case 7597: NOR, XNOR
+Case 7598:
+Case 7599:
+Case 7600:
+Case 7601:
+Case 7602:
+Case 7603:
+Case 7604:
+Case 7605:
+Case 7606: AND
+Case 7607: NAND, NOR, XNOR
+Case 7608:
+Case 7609:
+Case 7610:
+Case 7611:
+Case 7612:
+Case 7613:
+Case 7614:
+Case 7615:
+Case 7616:
+Case 7617:
+Case 7618: AND, NOR, XNOR
+Case 7619: NAND
+Case 7620:
+Case 7621:
+Case 7622:
+Case 7623:
+Case 7624:
+Case 7625:
+Case 7626:
+Case 7627:
+Case 7628:
+Case 7629:
+Case 7630:
+Case 7631:
+Case 7632:
+Case 7633:
+Case 7634: NAND, NOR
+Case 7635: AND
+Case 7636:
+Case 7637:
+Case 7638: XNOR
+Case 7639:
+Case 7640:
+Case 7641:
+Case 7642:
+Case 7643:
+Case 7644:
+Case 7645:
+Case 7646:
+Case 7647: NOR
+Case 7648: NAND
+Case 7649: AND
+Case 7650:
+Case 7651: XNOR
+Case 7652:
+Case 7653:
+Case 7654:
+Case 7655:
+Case 7656:
+Case 7657:
+Case 7658:
+Case 7659:
+Case 7660:
+Case 7661: NOR
+Case 7662:
+Case 7663: NAND
+Case 7664: AND
+Case 7665: XNOR
+Case 7666:
+Case 7667:
+Case 7668:
+Case 7669:
+Case 7670:
+Case 7671:
+Case 7672:
+Case 7673:
+Case 7674:
+Case 7675:
+Case 7676: NOR
+Case 7677:
+Case 7678:
+Case 7679: NAND
+Case 7680: AND, XNOR
+Case 7681:
+Case 7682:
+Case 7683:
+Case 7684:
+Case 7685:
+Case 7686:
+Case 7687:
+Case 7688:
+Case 7689:
+Case 7690:
+Case 7691:
+Case 7692:
+Case 7693:
+Case 7694:
+Case 7695:
+Case 7696: XNOR
+Case 7697: XOR
+Case 7698:
+Case 7699:
+Case 7700:
+Case 7701:
+Case 7702:
+Case 7703:
+Case 7704: NOR
+Case 7705:
+Case 7706:
+Case 7707:
+Case 7708: NAND
+Case 7709: AND
+Case 7710:
+Case 7711:
+Case 7712:
+Case 7713: XNOR
+Case 7714:
+Case 7715:
+Case 7716: XOR
+Case 7717:
+Case 7718:
+Case 7719:
+Case 7720:
+Case 7721: NOR
+Case 7722:
+Case 7723:
+Case 7724:
+Case 7725:
+Case 7726: NAND
+Case 7727: AND
+Case 7728:
+Case 7729:
+Case 7730:
+Case 7731: XNOR
+Case 7732:
+Case 7733:
+Case 7734:
+Case 7735:
+Case 7736: XOR
+Case 7737:
+Case 7738:
+Case 7739: NOR
+Case 7740:
+Case 7741:
+Case 7742:
+Case 7743:
+Case 7744:
+Case 7745: NAND
+Case 7746: AND
+Case 7747:
+Case 7748:
+Case 7749:
+Case 7750: XNOR
+Case 7751:
+Case 7752:
+Case 7753:
+Case 7754:
+Case 7755:
+Case 7756:
+Case 7757: XOR
+Case 7758: NOR
+Case 7759:
+Case 7760:
+Case 7761:
+Case 7762:
+Case 7763:
+Case 7764:
+Case 7765: NAND
+Case 7766: AND
+Case 7767:
+Case 7768:
+Case 7769:
+Case 7770:
+Case 7771: XOR
+Case 7772: XNOR
+Case 7773:
+Case 7774:
+Case 7775:
+Case 7776:
+Case 7777:
+Case 7778:
+Case 7779:
+Case 7780:
+Case 7781:
+Case 7782: NAND, NOR
+Case 7783:
+Case 7784:
+Case 7785:
+Case 7786:
+Case 7787:
+Case 7788:
+Case 7789:
+Case 7790:
+Case 7791: AND, OR
+Case 7792:
+Case 7793: XNOR
+Case 7794: XOR
+Case 7795:
+Case 7796:
+Case 7797:
+Case 7798:
+Case 7799:
+Case 7800:
+Case 7801:
+Case 7802:
+Case 7803: NOR
+Case 7804: NAND
+Case 7805:
+Case 7806:
+Case 7807:
+Case 7808:
+Case 7809:
+Case 7810:
+Case 7811:
+Case 7812:
+Case 7813: AND
+Case 7814: OR
+Case 7815:
+Case 7816:
+Case 7817: XNOR
+Case 7818: XOR
+Case 7819:
+Case 7820:
+Case 7821:
+Case 7822:
+Case 7823:
+Case 7824:
+Case 7825: NOR
+Case 7826:
+Case 7827: NAND
+Case 7828:
+Case 7829:
+Case 7830:
+Case 7831:
+Case 7832:
+Case 7833:
+Case 7834:
+Case 7835:
+Case 7836: AND
+Case 7837:
+Case 7838: OR
+Case 7839:
+Case 7840: XNOR
+Case 7841:
+Case 7842:
+Case 7843: XOR
+Case 7844:
+Case 7845:
+Case 7846:
+Case 7847:
+Case 7848: NOR
+Case 7849:
+Case 7850:
+Case 7851: NAND
+Case 7852:
+Case 7853:
+Case 7854:
+Case 7855:
+Case 7856:
+Case 7857:
+Case 7858:
+Case 7859:
+Case 7860: AND
+Case 7861:
+Case 7862:
+Case 7863: OR
+Case 7864:
+Case 7865:
+Case 7866:
+Case 7867:
+Case 7868: NOR, XNOR
+Case 7869:
+Case 7870:
+Case 7871:
+Case 7872:
+Case 7873:
+Case 7874:
+Case 7875:
+Case 7876:
+Case 7877: XOR
+Case 7878:
+Case 7879:
+Case 7880: NAND
+Case 7881: AND
+Case 7882:
+Case 7883:
+Case 7884:
+Case 7885:
+Case 7886:
+Case 7887:
+Case 7888:
+Case 7889:
+Case 7890:
+Case 7891:
+Case 7892:
+Case 7893: NOR, XNOR
+Case 7894:
+Case 7895:
+Case 7896:
+Case 7897:
+Case 7898:
+Case 7899:
+Case 7900:
+Case 7901:
+Case 7902:
+Case 7903:
+Case 7904: XOR
+Case 7905:
+Case 7906: NAND
+Case 7907: AND
+Case 7908:
+Case 7909:
+Case 7910:
+Case 7911:
+Case 7912:
+Case 7913:
+Case 7914:
+Case 7915:
+Case 7916:
+Case 7917:
+Case 7918: AND
+Case 7919: NAND
+Case 7920: NAND
+Case 7921: AND
+Case 7922:
+Case 7923: AND
+Case 7924: NAND
+Case 7925:
+Case 7926:
+Case 7927: NAND
+Case 7928: AND
+Case 7929:
+Case 7930:
+Case 7931:
+Case 7932:
+Case 7933:
+Case 7934:
+Case 7935: NAND
+Case 7936: AND
+Case 7937:
+Case 7938:
+Case 7939:
+Case 7940: NAND
+Case 7941:
+Case 7942:
+Case 7943: AND
+Case 7944:
+Case 7945:
+Case 7946:
+Case 7947:
+Case 7948: NAND
+Case 7949: AND
+Case 7950:
+Case 7951:
+Case 7952:
+Case 7953:
+Case 7954:
+Case 7955: NAND
+Case 7956:
+Case 7957:
+Case 7958: AND
+Case 7959:
+Case 7960:
+Case 7961: NOR
+Case 7962: AND
+Case 7963: NAND
+Case 7964: NOR, XNOR
+Case 7965:
+Case 7966:
+Case 7967:
+Case 7968:
+Case 7969:
+Case 7970:
+Case 7971:
+Case 7972: NAND
+Case 7973: AND
+Case 7974: NOR
+Case 7975: XNOR
+Case 7976:
+Case 7977:
+Case 7978:
+Case 7979:
+Case 7980:
+Case 7981:
+Case 7982:
+Case 7983: AND, NOR, XNOR
+Case 7984: NAND
+Case 7985:
+Case 7986:
+Case 7987:
+Case 7988:
+Case 7989:
+Case 7990:
+Case 7991:
+Case 7992:
+Case 7993:
+Case 7994:
+Case 7995: NAND, NOR
+Case 7996: AND, XNOR
+Case 7997:
+Case 7998:
+Case 7999:
+Case 8000:
+Case 8001:
+Case 8002:
+Case 8003:
+Case 8004:
+Case 8005:
+Case 8006:
+Case 8007:
+Case 8008:
+Case 8009:
+Case 8010: NOR
+Case 8011: NAND
+Case 8012: AND
+Case 8013:
+Case 8014: XNOR
+Case 8015:
+Case 8016:
+Case 8017:
+Case 8018:
+Case 8019:
+Case 8020:
+Case 8021:
+Case 8022:
+Case 8023:
+Case 8024: NAND, NOR
+Case 8025:
+Case 8026:
+Case 8027: AND
+Case 8028:
+Case 8029: XNOR
+Case 8030:
+Case 8031:
+Case 8032:
+Case 8033:
+Case 8034:
+Case 8035:
+Case 8036:
+Case 8037: NOR
+Case 8038:
+Case 8039:
+Case 8040: NAND
+Case 8041: AND, XNOR
+Case 8042:
+Case 8043:
+Case 8044:
+Case 8045:
+Case 8046:
+Case 8047:
+Case 8048:
+Case 8049:
+Case 8050:
+Case 8051:
+Case 8052:
+Case 8053: NOR
+Case 8054:
+Case 8055: NAND
+Case 8056:
+Case 8057:
+Case 8058: AND, XNOR
+Case 8059:
+Case 8060:
+Case 8061:
+Case 8062:
+Case 8063:
+Case 8064:
+Case 8065:
+Case 8066:
+Case 8067:
+Case 8068:
+Case 8069:
+Case 8070:
+Case 8071:
+Case 8072: XNOR
+Case 8073:
+Case 8074:
+Case 8075: XOR
+Case 8076:
+Case 8077:
+Case 8078:
+Case 8079:
+Case 8080: NOR
+Case 8081:
+Case 8082:
+Case 8083:
+Case 8084:
+Case 8085: NAND
+Case 8086: AND
+Case 8087:
+Case 8088:
+Case 8089:
+Case 8090:
+Case 8091: XNOR
+Case 8092: XOR
+Case 8093:
+Case 8094:
+Case 8095:
+Case 8096:
+Case 8097:
+Case 8098: NOR
+Case 8099:
+Case 8100:
+Case 8101:
+Case 8102: NAND
+Case 8103:
+Case 8104:
+Case 8105: AND
+Case 8106:
+Case 8107: XNOR
+Case 8108:
+Case 8109:
+Case 8110:
+Case 8111:
+Case 8112:
+Case 8113:
+Case 8114: XOR
+Case 8115: NOR
+Case 8116:
+Case 8117:
+Case 8118:
+Case 8119:
+Case 8120:
+Case 8121:
+Case 8122: NAND
+Case 8123: AND
+Case 8124:
+Case 8125:
+Case 8126:
+Case 8127:
+Case 8128: XNOR
+Case 8129:
+Case 8130:
+Case 8131:
+Case 8132:
+Case 8133: XOR
+Case 8134:
+Case 8135: NOR
+Case 8136:
+Case 8137:
+Case 8138:
+Case 8139:
+Case 8140:
+Case 8141: NAND
+Case 8142:
+Case 8143:
+Case 8144: AND
+Case 8145:
+Case 8146:
+Case 8147:
+Case 8148: XNOR
+Case 8149: XOR
+Case 8150:
+Case 8151:
+Case 8152:
+Case 8153:
+Case 8154:
+Case 8155:
+Case 8156:
+Case 8157:
+Case 8158: NOR
+Case 8159: NAND
+Case 8160:
+Case 8161:
+Case 8162:
+Case 8163:
+Case 8164:
+Case 8165:
+Case 8166:
+Case 8167:
+Case 8168: AND
+Case 8169: OR
+Case 8170: XOR
+Case 8171: XNOR
+Case 8172:
+Case 8173:
+Case 8174:
+Case 8175:
+Case 8176:
+Case 8177:
+Case 8178:
+Case 8179:
+Case 8180: NAND, NOR
+Case 8181:
+Case 8182:
+Case 8183:
+Case 8184:
+Case 8185:
+Case 8186:
+Case 8187:
+Case 8188:
+Case 8189:
+Case 8190:
+Case 8191: AND, OR
+Case 8192:
+Case 8193: XNOR
+Case 8194:
+Case 8195:
+Case 8196: XOR
+Case 8197:
+Case 8198:
+Case 8199:
+Case 8200:
+Case 8201: NOR
+Case 8202:
+Case 8203:
+Case 8204: NAND
+Case 8205:
+Case 8206:
+Case 8207:
+Case 8208:
+Case 8209:
+Case 8210:
+Case 8211:
+Case 8212:
+Case 8213: AND
+Case 8214:
+Case 8215:
+Case 8216: OR
+Case 8217:
+Case 8218: XNOR
+Case 8219: XOR
+Case 8220:
+Case 8221:
+Case 8222:
+Case 8223:
+Case 8224:
+Case 8225: NOR
+Case 8226:
+Case 8227: NAND
+Case 8228:
+Case 8229:
+Case 8230:
+Case 8231:
+Case 8232:
+Case 8233:
+Case 8234:
+Case 8235:
+Case 8236:
+Case 8237:
+Case 8238: AND
+Case 8239:
+Case 8240: OR
+Case 8241:
+Case 8242:
+Case 8243:
+Case 8244: NOR, XNOR
+Case 8245:
+Case 8246:
+Case 8247:
+Case 8248:
+Case 8249:
+Case 8250:
+Case 8251:
+Case 8252:
+Case 8253:
+Case 8254:
+Case 8255: XOR
+Case 8256:
+Case 8257: NAND
+Case 8258: AND
+Case 8259:
+Case 8260:
+Case 8261:
+Case 8262:
+Case 8263:
+Case 8264:
+Case 8265:
+Case 8266:
+Case 8267:
+Case 8268:
+Case 8269:
+Case 8270: NOR
+Case 8271: XNOR
+Case 8272:
+Case 8273:
+Case 8274:
+Case 8275:
+Case 8276:
+Case 8277:
+Case 8278:
+Case 8279:
+Case 8280: XOR
+Case 8281:
+Case 8282: NAND
+Case 8283:
+Case 8284:
+Case 8285: AND
+Case 8286:
+Case 8287:
+Case 8288:
+Case 8289:
+Case 8290:
+Case 8291:
+Case 8292:
+Case 8293:
+Case 8294:
+Case 8295: AND
+Case 8296: NAND
+Case 8297: AND
+Case 8298: NAND
+Case 8299:
+Case 8300:
+Case 8301: NAND
+Case 8302: AND
+Case 8303:
+Case 8304:
+Case 8305: NAND
+Case 8306: AND
+Case 8307:
+Case 8308:
+Case 8309:
+Case 8310:
+Case 8311:
+Case 8312: NAND
+Case 8313: AND
+Case 8314:
+Case 8315:
+Case 8316:
+Case 8317:
+Case 8318: NAND
+Case 8319: AND
+Case 8320:
+Case 8321:
+Case 8322:
+Case 8323: NAND
+Case 8324:
+Case 8325:
+Case 8326:
+Case 8327:
+Case 8328: AND
+Case 8329:
+Case 8330:
+Case 8331: NAND
+Case 8332:
+Case 8333:
+Case 8334:
+Case 8335:
+Case 8336: AND
+Case 8337:
+Case 8338: NOR
+Case 8339: AND
+Case 8340: NAND, NOR, XNOR
+Case 8341:
+Case 8342:
+Case 8343:
+Case 8344:
+Case 8345:
+Case 8346:
+Case 8347:
+Case 8348:
+Case 8349: AND, NOR, XNOR
+Case 8350: NAND
+Case 8351:
+Case 8352:
+Case 8353:
+Case 8354:
+Case 8355:
+Case 8356:
+Case 8357:
+Case 8358:
+Case 8359:
+Case 8360:
+Case 8361: NAND, NOR
+Case 8362: AND
+Case 8363: XNOR
+Case 8364:
+Case 8365:
+Case 8366:
+Case 8367:
+Case 8368:
+Case 8369:
+Case 8370:
+Case 8371:
+Case 8372: NOR
+Case 8373: NAND
+Case 8374: AND, XNOR
+Case 8375:
+Case 8376:
+Case 8377:
+Case 8378:
+Case 8379:
+Case 8380:
+Case 8381:
+Case 8382:
+Case 8383:
+Case 8384:
+Case 8385:
+Case 8386: NOR
+Case 8387:
+Case 8388: NAND
+Case 8389: AND
+Case 8390: XNOR
+Case 8391:
+Case 8392:
+Case 8393:
+Case 8394:
+Case 8395:
+Case 8396:
+Case 8397:
+Case 8398:
+Case 8399: NOR
+Case 8400:
+Case 8401:
+Case 8402: NAND
+Case 8403: AND, XNOR
+Case 8404:
+Case 8405:
+Case 8406:
+Case 8407:
+Case 8408:
+Case 8409:
+Case 8410:
+Case 8411:
+Case 8412:
+Case 8413:
+Case 8414:
+Case 8415: NAND, NOR
+Case 8416:
+Case 8417:
+Case 8418:
+Case 8419:
+Case 8420: AND
+Case 8421: XNOR
+Case 8422:
+Case 8423:
+Case 8424:
+Case 8425:
+Case 8426:
+Case 8427:
+Case 8428:
+Case 8429:
+Case 8430: NOR
+Case 8431: NAND
+Case 8432:
+Case 8433:
+Case 8434:
+Case 8435:
+Case 8436: AND, XNOR
+Case 8437:
+Case 8438:
+Case 8439:
+Case 8440:
+Case 8441:
+Case 8442:
+Case 8443:
+Case 8444:
+Case 8445:
+Case 8446:
+Case 8447:
+Case 8448: XNOR
+Case 8449:
+Case 8450:
+Case 8451:
+Case 8452:
+Case 8453: XOR
+Case 8454:
+Case 8455:
+Case 8456: NOR
+Case 8457:
+Case 8458:
+Case 8459:
+Case 8460:
+Case 8461:
+Case 8462: NAND
+Case 8463: AND
+Case 8464:
+Case 8465: XNOR
+Case 8466:
+Case 8467:
+Case 8468:
+Case 8469:
+Case 8470:
+Case 8471:
+Case 8472: XOR
+Case 8473: NOR
+Case 8474:
+Case 8475:
+Case 8476:
+Case 8477:
+Case 8478:
+Case 8479:
+Case 8480: NAND
+Case 8481: AND
+Case 8482:
+Case 8483:
+Case 8484:
+Case 8485:
+Case 8486:
+Case 8487: XNOR
+Case 8488: XOR
+Case 8489:
+Case 8490:
+Case 8491:
+Case 8492:
+Case 8493: NOR
+Case 8494:
+Case 8495:
+Case 8496:
+Case 8497: NAND
+Case 8498:
+Case 8499:
+Case 8500:
+Case 8501:
+Case 8502: AND
+Case 8503:
+Case 8504:
+Case 8505:
+Case 8506: XNOR
+Case 8507:
+Case 8508:
+Case 8509: XOR
+Case 8510:
+Case 8511:
+Case 8512: NOR
+Case 8513:
+Case 8514:
+Case 8515:
+Case 8516:
+Case 8517: NAND
+Case 8518:
+Case 8519:
+Case 8520:
+Case 8521:
+Case 8522: AND
+Case 8523:
+Case 8524:
+Case 8525:
+Case 8526: XNOR
+Case 8527: XOR
+Case 8528:
+Case 8529:
+Case 8530:
+Case 8531:
+Case 8532:
+Case 8533:
+Case 8534: NOR
+Case 8535:
+Case 8536: NAND
+Case 8537:
+Case 8538:
+Case 8539:
+Case 8540:
+Case 8541:
+Case 8542:
+Case 8543:
+Case 8544:
+Case 8545: AND
+Case 8546:
+Case 8547: XNOR
+Case 8548:
+Case 8549:
+Case 8550: XOR
+Case 8551:
+Case 8552:
+Case 8553:
+Case 8554:
+Case 8555: NOR
+Case 8556:
+Case 8557:
+Case 8558: NAND
+Case 8559:
+Case 8560:
+Case 8561:
+Case 8562:
+Case 8563:
+Case 8564:
+Case 8565:
+Case 8566:
+Case 8567: AND
+Case 8568:
+Case 8569:
+Case 8570: XOR
+Case 8571: XNOR
+Case 8572:
+Case 8573:
+Case 8574:
+Case 8575:
+Case 8576:
+Case 8577:
+Case 8578:
+Case 8579: NAND, NOR
+Case 8580:
+Case 8581:
+Case 8582:
+Case 8583:
+Case 8584:
+Case 8585:
+Case 8586:
+Case 8587:
+Case 8588:
+Case 8589:
+Case 8590:
+Case 8591:
+Case 8592: AND, OR
+Case 8593:
+Case 8594: XNOR
+Case 8595: XOR
+Case 8596:
+Case 8597:
+Case 8598:
+Case 8599:
+Case 8600:
+Case 8601:
+Case 8602: NOR
+Case 8603: NAND
+Case 8604:
+Case 8605:
+Case 8606:
+Case 8607:
+Case 8608:
+Case 8609:
+Case 8610:
+Case 8611:
+Case 8612:
+Case 8613:
+Case 8614:
+Case 8615:
+Case 8616: AND
+Case 8617: OR
+Case 8618:
+Case 8619:
+Case 8620: NOR, XNOR
+Case 8621:
+Case 8622:
+Case 8623:
+Case 8624:
+Case 8625:
+Case 8626:
+Case 8627:
+Case 8628:
+Case 8629:
+Case 8630:
+Case 8631:
+Case 8632:
+Case 8633: XOR
+Case 8634: NAND
+Case 8635: AND
+Case 8636:
+Case 8637:
+Case 8638:
+Case 8639:
+Case 8640:
+Case 8641:
+Case 8642:
+Case 8643:
+Case 8644:
+Case 8645: NOR, XNOR
+Case 8646:
+Case 8647:
+Case 8648:
+Case 8649:
+Case 8650:
+Case 8651:
+Case 8652:
+Case 8653:
+Case 8654:
+Case 8655:
+Case 8656:
+Case 8657:
+Case 8658:
+Case 8659:
+Case 8660: NAND, XOR
+Case 8661: AND
+Case 8662:
+Case 8663:
+Case 8664:
+Case 8665:
+Case 8666:
+Case 8667:
+Case 8668:
+Case 8669:
+Case 8670:
+Case 8671:
+Case 8672: AND
+Case 8673: NAND
+Case 8674: NAND
+Case 8675: AND
+Case 8676:
+Case 8677:
+Case 8678: NAND
+Case 8679: AND
+Case 8680:
+Case 8681: NAND
+Case 8682:
+Case 8683:
+Case 8684: AND
+Case 8685:
+Case 8686:
+Case 8687:
+Case 8688:
+Case 8689: NAND
+Case 8690: AND
+Case 8691:
+Case 8692:
+Case 8693:
+Case 8694: NAND
+Case 8695:
+Case 8696:
+Case 8697: AND
+Case 8698:
+Case 8699:
+Case 8700: NAND
+Case 8701:
+Case 8702:
+Case 8703:
+Case 8704:
+Case 8705: AND
+Case 8706:
+Case 8707: NAND
+Case 8708:
+Case 8709:
+Case 8710:
+Case 8711:
+Case 8712:
+Case 8713:
+Case 8714: AND
+Case 8715: NOR
+Case 8716: AND, NOR, XNOR
+Case 8717: NAND
+Case 8718:
+Case 8719:
+Case 8720:
+Case 8721:
+Case 8722:
+Case 8723:
+Case 8724:
+Case 8725:
+Case 8726: NAND, NOR
+Case 8727: AND, XNOR
+Case 8728:
+Case 8729:
+Case 8730:
+Case 8731:
+Case 8732:
+Case 8733:
+Case 8734:
+Case 8735:
+Case 8736:
+Case 8737: NOR
+Case 8738: NAND
+Case 8739: AND, XNOR
+Case 8740:
+Case 8741:
+Case 8742:
+Case 8743:
+Case 8744:
+Case 8745:
+Case 8746:
+Case 8747:
+Case 8748:
+Case 8749: NAND, NOR
+Case 8750:
+Case 8751:
+Case 8752: AND, XNOR
+Case 8753:
+Case 8754:
+Case 8755:
+Case 8756:
+Case 8757:
+Case 8758:
+Case 8759:
+Case 8760:
+Case 8761:
+Case 8762: NOR
+Case 8763:
+Case 8764:
+Case 8765: NAND
+Case 8766: AND, XNOR
+Case 8767:
+Case 8768:
+Case 8769:
+Case 8770:
+Case 8771:
+Case 8772:
+Case 8773:
+Case 8774:
+Case 8775:
+Case 8776: NOR
+Case 8777:
+Case 8778: NAND
+Case 8779:
+Case 8780:
+Case 8781: AND, XNOR
+Case 8782:
+Case 8783:
+Case 8784:
+Case 8785:
+Case 8786:
+Case 8787:
+Case 8788:
+Case 8789:
+Case 8790:
+Case 8791: NOR
+Case 8792: NAND
+Case 8793:
+Case 8794:
+Case 8795:
+Case 8796:
+Case 8797: AND, XNOR
+Case 8798:
+Case 8799:
+Case 8800:
+Case 8801:
+Case 8802:
+Case 8803:
+Case 8804:
+Case 8805:
+Case 8806:
+Case 8807: NAND, NOR
+Case 8808:
+Case 8809:
+Case 8810:
+Case 8811:
+Case 8812:
+Case 8813:
+Case 8814: AND, XNOR
+Case 8815:
+Case 8816:
+Case 8817:
+Case 8818:
+Case 8819:
+Case 8820:
+Case 8821:
+Case 8822:
+Case 8823:
+Case 8824: XNOR
+Case 8825:
+Case 8826:
+Case 8827:
+Case 8828:
+Case 8829:
+Case 8830:
+Case 8831: XOR
+Case 8832: NOR
+Case 8833:
+Case 8834:
+Case 8835:
+Case 8836:
+Case 8837:
+Case 8838:
+Case 8839: NAND
+Case 8840: AND
+Case 8841:
+Case 8842:
+Case 8843: XNOR
+Case 8844:
+Case 8845:
+Case 8846:
+Case 8847:
+Case 8848: XOR
+Case 8849:
+Case 8850: NOR
+Case 8851:
+Case 8852:
+Case 8853:
+Case 8854:
+Case 8855:
+Case 8856: NAND
+Case 8857:
+Case 8858:
+Case 8859: AND
+Case 8860:
+Case 8861:
+Case 8862:
+Case 8863: XNOR
+Case 8864:
+Case 8865:
+Case 8866: XOR
+Case 8867:
+Case 8868:
+Case 8869: NOR
+Case 8870:
+Case 8871:
+Case 8872:
+Case 8873:
+Case 8874: NAND
+Case 8875:
+Case 8876:
+Case 8877:
+Case 8878:
+Case 8879: AND
+Case 8880:
+Case 8881:
+Case 8882:
+Case 8883:
+Case 8884: XNOR
+Case 8885: XOR
+Case 8886:
+Case 8887:
+Case 8888:
+Case 8889: NOR
+Case 8890:
+Case 8891:
+Case 8892:
+Case 8893: NAND
+Case 8894:
+Case 8895:
+Case 8896:
+Case 8897:
+Case 8898:
+Case 8899:
+Case 8900: AND
+Case 8901:
+Case 8902: XNOR
+Case 8903:
+Case 8904:
+Case 8905: XOR
+Case 8906:
+Case 8907:
+Case 8908:
+Case 8909:
+Case 8910: NOR
+Case 8911:
+Case 8912:
+Case 8913: NAND
+Case 8914:
+Case 8915:
+Case 8916:
+Case 8917:
+Case 8918:
+Case 8919:
+Case 8920:
+Case 8921:
+Case 8922: AND
+Case 8923:
+Case 8924:
+Case 8925: XNOR
+Case 8926: XOR
+Case 8927:
+Case 8928:
+Case 8929:
+Case 8930:
+Case 8931:
+Case 8932: NOR
+Case 8933:
+Case 8934: NAND
+Case 8935:
+Case 8936:
+Case 8937:
+Case 8938:
+Case 8939:
+Case 8940:
+Case 8941:
+Case 8942:
+Case 8943:
+Case 8944:
+Case 8945: AND
+Case 8946:
+Case 8947: XNOR
+Case 8948: XOR
+Case 8949:
+Case 8950:
+Case 8951:
+Case 8952:
+Case 8953:
+Case 8954:
+Case 8955: NOR
+Case 8956: NAND
+Case 8957:
+Case 8958:
+Case 8959:
+Case 8960:
+Case 8961:
+Case 8962:
+Case 8963:
+Case 8964:
+Case 8965:
+Case 8966:
+Case 8967:
+Case 8968:
+Case 8969: AND
+Case 8970: OR
+Case 8971: XOR
+Case 8972: XNOR
+Case 8973:
+Case 8974:
+Case 8975:
+Case 8976:
+Case 8977:
+Case 8978:
+Case 8979: NAND, NOR
+Case 8980:
+Case 8981:
+Case 8982:
+Case 8983:
+Case 8984:
+Case 8985:
+Case 8986:
+Case 8987:
+Case 8988:
+Case 8989:
+Case 8990:
+Case 8991:
+Case 8992:
+Case 8993:
+Case 8994: AND, OR
+Case 8995:
+Case 8996: NOR, XNOR
+Case 8997:
+Case 8998:
+Case 8999:
+Case 9000:
+Case 9001:
+Case 9002:
+Case 9003:
+Case 9004:
+Case 9005:
+Case 9006:
+Case 9007:
+Case 9008:
+Case 9009:
+Case 9010:
+Case 9011: NAND, XOR
+Case 9012: AND
+Case 9013:
+Case 9014:
+Case 9015:
+Case 9016:
+Case 9017:
+Case 9018:
+Case 9019:
+Case 9020:
+Case 9021:
+Case 9022: NOR
+Case 9023: XNOR
+Case 9024:
+Case 9025:
+Case 9026:
+Case 9027:
+Case 9028:
+Case 9029:
+Case 9030:
+Case 9031:
+Case 9032:
+Case 9033:
+Case 9034:
+Case 9035:
+Case 9036: NAND, XOR
+Case 9037:
+Case 9038:
+Case 9039: AND
+Case 9040:
+Case 9041:
+Case 9042:
+Case 9043:
+Case 9044:
+Case 9045:
+Case 9046:
+Case 9047:
+Case 9048:
+Case 9049: AND
+Case 9050: NAND
+Case 9051: AND
+Case 9052: NAND
+Case 9053:
+Case 9054: AND
+Case 9055: NAND
+Case 9056:
+Case 9057:
+Case 9058: AND
+Case 9059: NAND
+Case 9060:
+Case 9061:
+Case 9062: NOR, XNOR
+Case 9063: AND
+Case 9064: NAND
+Case 9065:
+Case 9066: NOR, XNOR
+Case 9067:
+Case 9068:
+Case 9069: AND
+Case 9070: NAND
+Case 9071: NOR, XNOR
+Case 9072:
+Case 9073:
+Case 9074:
+Case 9075:
+Case 9076: AND
+Case 9077: NAND, NOR, XNOR
+Case 9078:
+Case 9079:
+Case 9080:
+Case 9081:
+Case 9082:
+Case 9083:
+Case 9084: AND, NOR, XNOR
+Case 9085: NAND
+Case 9086:
+Case 9087:
+Case 9088:
+Case 9089:
+Case 9090:
+Case 9091:
+Case 9092:
+Case 9093:
+Case 9094:
+Case 9095:
+Case 9096:
+Case 9097:
+Case 9098:
+Case 9099:
+Case 9100: NAND, NOR
+Case 9101: AND
+Case 9102:
+Case 9103:
+Case 9104:
+Case 9105:
+Case 9106:
+Case 9107:
+Case 9108:
+Case 9109: NOR
+Case 9110: NAND
+Case 9111: AND
+Case 9112:
+Case 9113:
+Case 9114:
+Case 9115:
+Case 9116:
+Case 9117:
+Case 9118:
+Case 9119: NOR
+Case 9120:
+Case 9121: NAND
+Case 9122: AND
+Case 9123:
+Case 9124:
+Case 9125:
+Case 9126:
+Case 9127:
+Case 9128:
+Case 9129:
+Case 9130: NOR
+Case 9131:
+Case 9132:
+Case 9133: NAND
+Case 9134: AND
+Case 9135:
+Case 9136:
+Case 9137:
+Case 9138: XNOR
+Case 9139:
+Case 9140:
+Case 9141:
+Case 9142: NOR
+Case 9143:
+Case 9144:
+Case 9145:
+Case 9146: NAND
+Case 9147: AND
+Case 9148:
+Case 9149:
+Case 9150: XNOR
+Case 9151:
+Case 9152:
+Case 9153:
+Case 9154:
+Case 9155: NOR
+Case 9156:
+Case 9157:
+Case 9158:
+Case 9159:
+Case 9160: NAND
+Case 9161: AND
+Case 9162:
+Case 9163: XNOR
+Case 9164:
+Case 9165:
+Case 9166:
+Case 9167:
+Case 9168:
+Case 9169: NOR
+Case 9170:
+Case 9171:
+Case 9172:
+Case 9173:
+Case 9174:
+Case 9175: NAND
+Case 9176: AND
+Case 9177: XNOR
+Case 9178:
+Case 9179:
+Case 9180:
+Case 9181:
+Case 9182:
+Case 9183:
+Case 9184: NOR
+Case 9185:
+Case 9186:
+Case 9187:
+Case 9188:
+Case 9189:
+Case 9190:
+Case 9191: NAND
+Case 9192: AND, XNOR
+Case 9193:
+Case 9194:
+Case 9195:
+Case 9196:
+Case 9197:
+Case 9198:
+Case 9199:
+Case 9200:
+Case 9201:
+Case 9202:
+Case 9203:
+Case 9204:
+Case 9205:
+Case 9206:
+Case 9207:
+Case 9208: NOR, XNOR
+Case 9209: XOR
+Case 9210:
+Case 9211:
+Case 9212:
+Case 9213:
+Case 9214:
+Case 9215:
+Case 9216: NAND
+Case 9217: AND
+Case 9218:
+Case 9219:
+Case 9220:
+Case 9221:
+Case 9222:
+Case 9223:
+Case 9224:
+Case 9225: NOR, XNOR
+Case 9226:
+Case 9227:
+Case 9228: XOR
+Case 9229:
+Case 9230:
+Case 9231:
+Case 9232:
+Case 9233:
+Case 9234: NAND
+Case 9235: AND
+Case 9236:
+Case 9237:
+Case 9238:
+Case 9239:
+Case 9240:
+Case 9241:
+Case 9242:
+Case 9243: NOR, XNOR
+Case 9244:
+Case 9245:
+Case 9246:
+Case 9247:
+Case 9248: XOR
+Case 9249:
+Case 9250:
+Case 9251:
+Case 9252:
+Case 9253: NAND
+Case 9254: AND
+Case 9255:
+Case 9256:
+Case 9257:
+Case 9258:
+Case 9259:
+Case 9260:
+Case 9261:
+Case 9262: NOR, XNOR
+Case 9263:
+Case 9264:
+Case 9265:
+Case 9266:
+Case 9267:
+Case 9268:
+Case 9269: XOR
+Case 9270:
+Case 9271:
+Case 9272:
+Case 9273: NAND
+Case 9274: AND
+Case 9275:
+Case 9276:
+Case 9277:
+Case 9278:
+Case 9279:
+Case 9280:
+Case 9281:
+Case 9282: NOR, XNOR
+Case 9283:
+Case 9284:
+Case 9285:
+Case 9286:
+Case 9287:
+Case 9288:
+Case 9289:
+Case 9290:
+Case 9291: XOR
+Case 9292:
+Case 9293:
+Case 9294: NAND
+Case 9295: AND
+Case 9296:
+Case 9297:
+Case 9298:
+Case 9299:
+Case 9300:
+Case 9301:
+Case 9302:
+Case 9303: NOR, XNOR
+Case 9304:
+Case 9305:
+Case 9306:
+Case 9307:
+Case 9308:
+Case 9309:
+Case 9310:
+Case 9311:
+Case 9312:
+Case 9313:
+Case 9314: XOR
+Case 9315:
+Case 9316: NAND
+Case 9317: AND
+Case 9318:
+Case 9319:
+Case 9320:
+Case 9321:
+Case 9322:
+Case 9323:
+Case 9324:
+Case 9325: NOR, XNOR
+Case 9326:
+Case 9327:
+Case 9328:
+Case 9329:
+Case 9330:
+Case 9331:
+Case 9332:
+Case 9333:
+Case 9334:
+Case 9335:
+Case 9336:
+Case 9337:
+Case 9338: XOR
+Case 9339: NAND
+Case 9340: AND
+Case 9341:
+Case 9342:
+Case 9343:
+Case 9344:
+Case 9345:
+Case 9346:
+Case 9347:
+Case 9348: NOR, XNOR
+Case 9349:
+Case 9350:
+Case 9351:
+Case 9352:
+Case 9353:
+Case 9354:
+Case 9355:
+Case 9356:
+Case 9357:
+Case 9358:
+Case 9359:
+Case 9360:
+Case 9361:
+Case 9362:
+Case 9363: NAND, XOR
+Case 9364: AND
+Case 9365:
+Case 9366:
+Case 9367:
+Case 9368:
+Case 9369:
+Case 9370:
+Case 9371:
+Case 9372:
+Case 9373: XOR
+Case 9374: XNOR
+Case 9375:
+Case 9376:
+Case 9377:
+Case 9378:
+Case 9379:
+Case 9380: NAND, NOR
+Case 9381:
+Case 9382:
+Case 9383:
+Case 9384:
+Case 9385:
+Case 9386:
+Case 9387:
+Case 9388:
+Case 9389:
+Case 9390:
+Case 9391:
+Case 9392:
+Case 9393:
+Case 9394:
+Case 9395:
+Case 9396:
+Case 9397: AND, OR
+Case 9398:
+Case 9399: XNOR
+Case 9400: XOR
+Case 9401:
+Case 9402:
+Case 9403:
+Case 9404:
+Case 9405: NOR
+Case 9406: NAND
+Case 9407:
+Case 9408:
+Case 9409:
+Case 9410:
+Case 9411:
+Case 9412:
+Case 9413:
+Case 9414:
+Case 9415:
+Case 9416:
+Case 9417:
+Case 9418:
+Case 9419:
+Case 9420:
+Case 9421:
+Case 9422:
+Case 9423: AND
+Case 9424: OR
+Case 9425:
+Case 9426: AND
+Case 9427: NAND
+Case 9428: NAND
+Case 9429: AND
+Case 9430:
+Case 9431: AND
+Case 9432: NAND
+Case 9433:
+Case 9434:
+Case 9435: NAND
+Case 9436: AND
+Case 9437:
+Case 9438:
+Case 9439: NOR
+Case 9440: AND
+Case 9441: NAND
+Case 9442: NOR, XNOR
+Case 9443:
+Case 9444:
+Case 9445:
+Case 9446: NAND
+Case 9447: AND
+Case 9448: NOR
+Case 9449: XNOR
+Case 9450:
+Case 9451:
+Case 9452:
+Case 9453: AND, NOR, XNOR
+Case 9454: NAND
+Case 9455:
+Case 9456:
+Case 9457:
+Case 9458:
+Case 9459:
+Case 9460:
+Case 9461: NAND, NOR
+Case 9462: AND, XNOR
+Case 9463:
+Case 9464:
+Case 9465:
+Case 9466:
+Case 9467:
+Case 9468:
+Case 9469:
+Case 9470:
+Case 9471:
+Case 9472:
+Case 9473:
+Case 9474:
+Case 9475:
+Case 9476: NOR
+Case 9477: NAND
+Case 9478: AND
+Case 9479:
+Case 9480:
+Case 9481:
+Case 9482:
+Case 9483:
+Case 9484:
+Case 9485:
+Case 9486: NAND, NOR
+Case 9487:
+Case 9488:
+Case 9489: AND
+Case 9490:
+Case 9491:
+Case 9492:
+Case 9493:
+Case 9494:
+Case 9495: NOR
+Case 9496:
+Case 9497:
+Case 9498: NAND
+Case 9499: AND
+Case 9500:
+Case 9501:
+Case 9502:
+Case 9503:
+Case 9504:
+Case 9505:
+Case 9506:
+Case 9507: NOR
+Case 9508:
+Case 9509: NAND
+Case 9510:
+Case 9511:
+Case 9512: AND
+Case 9513:
+Case 9514:
+Case 9515:
+Case 9516:
+Case 9517:
+Case 9518: NOR
+Case 9519:
+Case 9520:
+Case 9521:
+Case 9522:
+Case 9523: NAND
+Case 9524: AND
+Case 9525:
+Case 9526: XNOR
+Case 9527:
+Case 9528:
+Case 9529:
+Case 9530:
+Case 9531:
+Case 9532: NOR
+Case 9533:
+Case 9534:
+Case 9535:
+Case 9536: NAND
+Case 9537:
+Case 9538:
+Case 9539: AND
+Case 9540:
+Case 9541: XNOR
+Case 9542:
+Case 9543:
+Case 9544:
+Case 9545: NOR
+Case 9546:
+Case 9547:
+Case 9548:
+Case 9549:
+Case 9550:
+Case 9551:
+Case 9552: NAND
+Case 9553: AND, XNOR
+Case 9554:
+Case 9555:
+Case 9556:
+Case 9557:
+Case 9558:
+Case 9559:
+Case 9560:
+Case 9561: NOR
+Case 9562:
+Case 9563:
+Case 9564:
+Case 9565:
+Case 9566:
+Case 9567: NAND
+Case 9568:
+Case 9569:
+Case 9570: AND, XNOR
+Case 9571:
+Case 9572:
+Case 9573:
+Case 9574:
+Case 9575:
+Case 9576:
+Case 9577:
+Case 9578:
+Case 9579:
+Case 9580:
+Case 9581:
+Case 9582:
+Case 9583:
+Case 9584: NOR, XNOR
+Case 9585:
+Case 9586:
+Case 9587: XOR
+Case 9588:
+Case 9589:
+Case 9590:
+Case 9591:
+Case 9592:
+Case 9593: NAND
+Case 9594: AND
+Case 9595:
+Case 9596:
+Case 9597:
+Case 9598:
+Case 9599:
+Case 9600:
+Case 9601:
+Case 9602: NOR
+Case 9603: XNOR
+Case 9604: XOR
+Case 9605:
+Case 9606:
+Case 9607:
+Case 9608:
+Case 9609:
+Case 9610: NAND
+Case 9611:
+Case 9612:
+Case 9613: AND
+Case 9614:
+Case 9615:
+Case 9616:
+Case 9617:
+Case 9618:
+Case 9619: NOR, XNOR
+Case 9620:
+Case 9621:
+Case 9622:
+Case 9623:
+Case 9624:
+Case 9625:
+Case 9626: XOR
+Case 9627:
+Case 9628:
+Case 9629:
+Case 9630: NAND
+Case 9631: AND
+Case 9632:
+Case 9633:
+Case 9634:
+Case 9635:
+Case 9636:
+Case 9637:
+Case 9638:
+Case 9639: NOR
+Case 9640: XNOR
+Case 9641:
+Case 9642:
+Case 9643:
+Case 9644:
+Case 9645: XOR
+Case 9646:
+Case 9647:
+Case 9648:
+Case 9649: NAND
+Case 9650:
+Case 9651:
+Case 9652: AND
+Case 9653:
+Case 9654:
+Case 9655:
+Case 9656:
+Case 9657:
+Case 9658: NOR, XNOR
+Case 9659:
+Case 9660:
+Case 9661:
+Case 9662:
+Case 9663:
+Case 9664:
+Case 9665:
+Case 9666:
+Case 9667:
+Case 9668:
+Case 9669: XOR
+Case 9670:
+Case 9671: NAND
+Case 9672: AND
+Case 9673:
+Case 9674:
+Case 9675:
+Case 9676:
+Case 9677:
+Case 9678:
+Case 9679:
+Case 9680: NOR
+Case 9681: XNOR
+Case 9682:
+Case 9683:
+Case 9684:
+Case 9685:
+Case 9686:
+Case 9687:
+Case 9688:
+Case 9689:
+Case 9690: XOR
+Case 9691:
+Case 9692: NAND
+Case 9693:
+Case 9694:
+Case 9695: AND
+Case 9696:
+Case 9697:
+Case 9698:
+Case 9699:
+Case 9700:
+Case 9701: NOR, XNOR
+Case 9702:
+Case 9703:
+Case 9704:
+Case 9705:
+Case 9706:
+Case 9707:
+Case 9708:
+Case 9709:
+Case 9710:
+Case 9711:
+Case 9712:
+Case 9713:
+Case 9714:
+Case 9715:
+Case 9716: NAND, XOR
+Case 9717: AND
+Case 9718:
+Case 9719:
+Case 9720:
+Case 9721:
+Case 9722:
+Case 9723:
+Case 9724:
+Case 9725: NOR
+Case 9726: XNOR
+Case 9727:
+Case 9728:
+Case 9729:
+Case 9730:
+Case 9731:
+Case 9732:
+Case 9733:
+Case 9734:
+Case 9735:
+Case 9736:
+Case 9737:
+Case 9738:
+Case 9739: NAND, XOR
+Case 9740:
+Case 9741:
+Case 9742: AND
+Case 9743:
+Case 9744:
+Case 9745:
+Case 9746:
+Case 9747:
+Case 9748:
+Case 9749:
+Case 9750: XNOR
+Case 9751: XOR
+Case 9752:
+Case 9753:
+Case 9754:
+Case 9755:
+Case 9756: NOR
+Case 9757: NAND
+Case 9758:
+Case 9759:
+Case 9760:
+Case 9761:
+Case 9762:
+Case 9763:
+Case 9764:
+Case 9765:
+Case 9766:
+Case 9767:
+Case 9768:
+Case 9769:
+Case 9770:
+Case 9771:
+Case 9772:
+Case 9773:
+Case 9774: AND
+Case 9775: OR
+Case 9776: XOR
+Case 9777: XNOR
+Case 9778:
+Case 9779:
+Case 9780:
+Case 9781:
+Case 9782: NAND, NOR
+Case 9783:
+Case 9784:
+Case 9785:
+Case 9786:
+Case 9787:
+Case 9788:
+Case 9789:
+Case 9790:
+Case 9791:
+Case 9792:
+Case 9793:
+Case 9794:
+Case 9795:
+Case 9796:
+Case 9797:
+Case 9798:
+Case 9799:
+Case 9800:
+Case 9801: AND, OR
+Case 9802:
+Case 9803: AND, NOR, XNOR
+Case 9804: NAND, NOR
+Case 9805: NOR
+Case 9806: NAND, NOR, XOR
+Case 9807: AND, OR
+Case 9808: OR, XOR
+Case 9809: OR
+Case 9810: OR

@@ -2,7 +2,7 @@
 * @Author: Enamul Hassan
 * @Date:   2014-06-03 19:43:57
 * @Last Modified by:   Enamul
-* @Last Modified time: 2015-03-24 22:11:33
+* @Last Modified time: 2015-04-04 06:00:20
 * @Verdict: Not Solved
 * @File Path: H:\Dropbox\Code\lightoj\test2.cpp
 */
@@ -18,7 +18,7 @@
 #define cntbit(mask) __builtin_popcount(mask)
 #define unify(a) stable_sort(a.begin(),a.end());a.resize(distance(a.begin(),unique(all(a))));
 #define fread freopen("input.txt","r",stdin)
-#define fwrite freopen("output.txt","w",stdout)
+#define fwrite freopen("input.txt","w",stdout)
 #define inf (1e18)
 #define chng(a,b) a^=b^=a^=b;
 #define clr(abc,z) memset(abc,z,sizeof(abc))
@@ -33,19 +33,43 @@ ll bigmod(ll sonkha,ll ghat,ll vag_const){ll vag_shesh=1;while(ghat>0){if(ghat%2
 ll inverse_mod(ll bivajok, ll vag_const){return bigmod(bivajok,vag_const-2, vag_const);}
 using namespace std;
 
+int days[12]={31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30 ,31};
+string months[12]={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November" ,"December"};
 int main(){
 	#ifdef ENAM
 //    	fread;
-//	fwrite;
+	fwrite;
 #endif // ENAM
-    int t, n, m, cas=1;
+    ll t, n, m, cas=1;
     _
 //    clock_t begin, end;
 //    double time_spent;
 //    begin = clock();
+   
+    srand(time(NULL));
 
+   	t = 100000;
+	cout<<t<<"\n";
+	for (int count = 0; count < t; ++count)
+	{
+		n = rand()%12;
+		cout<<months[n]<<" ";
+		n = (rand()%days[n])+1;
+		cout<<n<<", ";
+		do {n = (rand()*(ll)rand())%2000000000LL;}
+		while(n<2000);
+		m = n;
+		cout<<n<<"\n";
 
-	
+		n = rand()%12;
+		cout<<months[n]<<" ";
+		n = (rand()%days[n])+1;
+		cout<<n<<", ";
+		do {n = (rand()*(ll)rand())%2000000000LL;}
+		while(n<2000||n<m);
+		cout<<n<<"\n";
+
+	}
 
 
 //    end = clock();

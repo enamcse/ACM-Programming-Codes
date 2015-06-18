@@ -1,4 +1,4 @@
-//Verdict: NOT SOLVED
+//Verdict: SOLVED
 #include <bits/stdc++.h>
 #define sz 50005
 #define pb(a) push_back(a)

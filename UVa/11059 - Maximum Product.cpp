@@ -1,3 +1,4 @@
+//Verdict: SOLVED
 //#include <bits/stdc++.h>
 //#define _ ios_base::sync_with_stdio(0);cin.tie(0);
 #include <iostream>
@@ -34,82 +35,40 @@
 #define mod 1000000007
 using namespace std;
 
-vector<int>v[20];
-vector<int>zero;
-int neg[2][20];
-bool flag[20];
+int S[30],n;
+ll mx,now;
 
 
 int main()
 {
     #ifdef ENAM
-    	fread;
-//	fwrite;
+//    	fread;
+	fwrite;
     #endif // ENAM
-    int t, n, m, cas=1, cnt, ind;
-    ll mx, ans;
+    int cas=1;
+
     while(~scanf("%d", &n))
     {
-        if(n==1)
+        for (int i = 0; i < n; ++i)
         {
-            scanf("%d", ind);
-            printf("Case #%d: The maximum product is %d.\n\n",cas++, ind);
+            scanf("%d", &S[i]);
         }
-        for (int i = 0; i<20; i++)
-            v[i].clear();
-        clr(neg,-1);
-        clr(flag, false);
-        ans=0;
-        mx = -(2e18);
-        cnt=0;ind=0;
+        mx = 0;
+
         for (int i = 0; i<n; i++)
         {
-            scanf("%d", &m);
-            if(m==0) {cnt++,ind=0; continue;}
-            v[cnt].pb(m);
-            if(m<0)
+            now = S[i];
+            mx =max(now,mx);
+            for (int j = i+1; j<n; j++)
             {
-                if(neg[0][cnt]==-1) neg[0][cnt]=ind;
-                neg[1][cnt]=ind;
-                flag[cnt]^=1;
+                now*=S[j];
+                mx =max(now,mx);
             }
-            ind++;
-        }
-        cnt++;
-        for (int i = 0; i<cnt; i++)
-        {
-            m = v[i].size();
-            if(flag[i])
-            {
-                ans = -(2e18);
-                for (int j = 0; j<neg[1][i]; j++)
-                {
-                    if(ans==-(2e18)) ans = v[i][j];
-                    else ans *= v[i][j];
-                }
-                mx = max(mx,ans);
-                ans = -(2e18);
-                cout<<ans<<endl;
-                for (int j = neg[0][i]+1; j<m; j++)
-                {
-                    if(ans==-(2e18)) ans = v[i][j];
-                    else ans *= v[i][j];
-                }
-                mx = max(mx,ans);
-            }
-            else
-            {
-                ans = -(2e18);
-                for (int j = 0; j<m; j++)
-                {
-                    if(ans==-(2e18)) ans = v[i][j];
-                    else ans *= v[i][j];
-                }
-                mx = max(mx,ans);
-            }
+
         }
 
-        printf("Case #%d: The maximum product is %lld.\n\n",cas++, ans);
+
+        printf("Case #%d: The maximum product is %lld.\n\n",cas++,mx);
     }
 
     return 0;

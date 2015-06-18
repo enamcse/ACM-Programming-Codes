@@ -1,7 +1,7 @@
 /**
 * H:\Dropbox\Code\Codeforces\499B.cpp
 * Created on: 2014-12-24-23.37.01, Wednesday
-* Verdict: Not Solved
+* Verdict: Solved
 * Author: Enamul Hassan
 **/
 

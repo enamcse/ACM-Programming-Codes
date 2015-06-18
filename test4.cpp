@@ -1,104 +1,102 @@
-//Verdict: NOT SOLVED
-//#include <bits/stdc++.h>
-//#define _ ios_base::sync_with_stdio(0);cin.tie(0);
-#include <iostream>
-#include <cstdio>
-#include <cstring>
-#include <cmath>
-#include <cstdlib>
-#include <queue>
-#include <vector>
-#include <algorithm>
-#include <cctype>
-#include <fstream>
-#include <map>
-#include <list>
-#include <set>
-#include <string>
-#include <stack>
-#include <bitset>
+#include<stdio.h>
+#include<string.h>
+#include<string>
+#include<iostream>
 
-#define sz 100005
-#define pb(a) push_back(a)
-#define pp pop_back()
-#define all(a) a.begin(),a.end()
-#define allr(a) a.rbegin(),a.rend()
-#define ll long long
 #define fread freopen("input.txt","r",stdin)
-#define fwrite freopen("output.txt","w",stdout)
-#define inf (1e9)
-#define chng(a,b) a^=b^=a^=b;
-#define clr(abc,z) memset(abc,z,sizeof(abc))
-#define PI acos(-1)
-#define fr(i,a,b) for(i=a;i<=b;i++)
-#define print1(a)    cout<<a<<endl
-#define print2(a,b) cout<<a<<" "<<b<<endl
-#define print3(a,b,c) cout<<a<<" "<<b<<" "<<c<<endl
-#define mod 1000000007
-ll bigmod(ll sonkha,ll ghat,ll vag_const){ll vag_shesh=1; while(ghat>0)  {if(ghat%2==1){vag_shesh=(vag_shesh*sonkha)%vag_const;}ghat/=2;sonkha=(sonkha*sonkha)%vag_const;} return vag_shesh;}
-ll inverse_mod(ll bivajok, ll vag_const) { return bigmod(bivajok,vag_const-2, vag_const);}
+#define fwrite freopen("input.txt","w",stdout)
 using namespace std;
 
-ll num[100][100] = {{5, 10, 10, 1, 6, 4, 3, 9, 6, 4},
-{2, 10, 9, 4, 9, 5, 1, 10, 1, 5},
-{1, 3, 7, 3, 10, 7, 5, 1, 7, 5},
-{5, 1, 2, 7, 3, 2, 4, 2, 1, 3},
-{7, 6, 6, 6, 4, 10, 5, 1, 5, 5},
-{3, 1, 10, 5, 8, 1, 9, 10, 2, 7},
-{1, 7, 1, 10, 5, 10, 5, 3, 3, 3},
-{6, 3, 10, 2, 5, 1, 6, 7, 10, 9},
-{1, 7, 9, 6, 2, 7, 10, 1, 9, 6},
-{10, 9, 6, 10, 4, 7, 6, 3, 4, 7}};
+int days[12]={31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30 ,31};
+string months[12]={"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November" ,"December"};
 
-//void rec(int pos, int sum)
-//{
-//    flag[sum]=true;
-//    if(pos==v.size()) return;
-//    rec(pos+1,sum+v[pos]);
-//    rec(pos+1,sum);
-//    return;
-//}
+bool isleap(int a)
+{
+    if (a%400==0||(a%4==0 && a%100!=0))
+        return true;
+    return false;
+}
+int d,y;
+string s;
 
+int count()
+{
+    int ret=0;
+    if ( y==0)
+        ret=0;
+    else ret=((y-1)/400)*97;
+    for (int i=0;i<=(y-1)%400;i++)
+        if (isleap(i))
+            ret++;
+    if (isleap(y))
+    {
+        if (!(s=="January" ||(s=="February" && d<29)))
+            ret++;
+    }
+    return ret;
+}
+
+bool gao()
+{
+    if ((s=="February" && d==29))
+        return true;
+    return false;
+}
 
 int main()
 {
-    #ifdef ENAM
-//        fread;
-//    fwrite;
-    #endif // ENAM
-    double  sum=0,now=0;
-    int n,m=0, cas=1;
+#ifdef ENAM
+     // fread;
+    fwrite;
+#endif // ENAM
+    int test=6;
+    cout<<test<<endl;
+    // for (int i = 0; i < test; ++i)
+    // {
+    //     cout<<i+1<<endl;
+    // }
+    cout<<"10000"<<endl;
+    cout<<"11000"<<endl;
+    cout<<"11100"<<endl;
+    cout<<"11110"<<endl;
+    cout<<"11111"<<endl;
+    cout<<"21111"<<endl;
 
-    for (int i = 0; i<10; i++)
-    {
-        num[10][i]=1;
-        for (int j = 0; j<10; j++)
-            num[10][i]*=num[j][i];
-        for (int j = 0; j<10; j++)
-            num[i][10]+=num[i][j];
-        num[10][10]+=num[10][i];
-        num[10][11]+=num[i][10];
-    }
-    cout<<num[10][10]+num[10][11];
+    // scanf("%d",&test);
+    // int cas=1;
+    // while(test--)
+    // {
 
-//    while(~scanf("%d, ", &n))
-//    {
-////        sum+=(n==15?20:n);
-////        now+=n;
-////        m++;
-//        v.pb(n);
-////        if(n!=1&&n%2) m++;
-//    }
-//    sort(allr(v));
-//    now=v[0]+v[1]+v[2];
-//    cout<<now/3.0<<' '<<now<<endl;
-//
-////    rec(0,0);
-//
-////    for (int i = 0; i<v.size(); i++)
-////        if(flag[ v[i] ]) m++;
-////    cout<<m;
+    //     cin>>s;
 
+    //     scanf("%d,%d",&d,&y);
+    //     int ans1=count();
+    //     bool flag1=gao();
+    //     cin>>s;
+    //     scanf("%d,%d",&d,&y);
+    //     int ans2=count();
+    //     bool flag2=gao();
+    //     int ans;
+    //     if (ans1<ans2)
+    //     {
+    //         ans=ans2-ans1;
+    //         if (flag1)
+    //             ans++;
+    //     }
+    //     else if (ans2<ans1)
+    //     {
+    //         ans=ans1-ans2;
+    //         if (flag2)
+    //             ans++;
+    //     }
+    //     else if (ans2==ans1)
+    //     {
+    //         ans=0;
+    //         if (flag1 || flag2)
+    //             ans++;
+    //     }
+    //     //printf("$$$$$$  %d %d\n",ans1,ans2);
+    //     printf("Case %d: %d\n",cas++,ans);
+    // }
     return 0;
 }
-
