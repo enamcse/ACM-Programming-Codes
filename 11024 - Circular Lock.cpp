@@ -6,6 +6,8 @@
 using namespace std;
 
 
+
+
 int main()
 {
     freopen("11024 - Circular Lock.txt","w",stdout);
