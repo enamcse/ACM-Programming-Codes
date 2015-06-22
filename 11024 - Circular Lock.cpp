@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    freopen("output.txt","w",stdout);
+    freopen("11024 - Circular Lock.txt","w",stdout);
     /* Variables used in the program */
     int i, p1,s1, p2, s2, j;
 
