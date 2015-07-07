@@ -1,45 +1,114 @@
-/*
- * RIG for UVa 11016 - Square Counting
- */
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+#define pb push_back
+#define inf (1e9)
+#define clr(abc,z) memset(abc,z,sizeof(abc))
 
 using namespace std;
 
-char line[82];
+char h[9][10], ans[9][10];
+int l=9,up;
 
-void generateString(int n)
+int sq[9];
+int g[9], t[9];
+bool s;
+int quad[9][9];
+struct o
 {
-    for (int i = 0; i<n; i++)
+    int x, y;
+};
+vector<o>v;
+
+void r(int z)
+{
+    if(!s) return;
+    if(z==up)
     {
-        line[i] = ('A'+(rand()%26));
+        s = false;
+
+        for (int i = 0; i<l; i++)
+            strcpy(ans[i],h[i]);
+
+        return;
     }
-    line[n] = 0;
+
+    int a=0, b, c=inf;
+    o p;
+    for (int i = 0; i<up; i++)
+    {
+        p = v[i];
+
+        if(h[p.x][p.y]!='.') continue;
+        b=0;
+
+        for (int j = 1; j<=l; j++)
+            if(!(sq[ quad[p.x][p.y] ]&(1<<j)) && !(g[p.y]&(1<<j)) && !(t[p.x]&(1<<j)) ) b++;
+        if(b<c)
+        {
+            c = b;
+            a = i;
+        }
+    }
+    if(c==0) return;
+    p = v[a];
+
+    for (int j = 1; j<=l; j++)
+    {
+        if(!(sq[ quad[p.x][p.y] ]&(1<<j)) && !(g[p.y]&(1<<j)) && !(t[p.x]&(1<<j)) )
+        {
+            sq[ quad[p.x][p.y] ]|=(1<<j);
+            g[p.y]|=(1<<j);
+            t[p.x]|=(1<<j);
+            h[p.x][p.y] = j+'0';
+            if(s) r(z+1);
+            sq[ quad[p.x][p.y] ]^=(1<<j);
+            g[p.y]^=(1<<j);
+            t[p.x]^=(1<<j);
+            h[p.x][p.y] = '.';
+        }
+    }
+
 }
 
 int main()
 {
-//    freopen("output.txt","w",stdout);
-    /* Variables used in the program */
-    int i, n,m,t,j;
-    int test_case;
-    /* Initialize random seed: */
-    srand (time(NULL));
-    /* Make sure the number of test case range is from 1 through 25 */
-    test_case = rand()%1;
+    ios_base::sync_with_stdio(0);cin.tie(0);
+    int n=3,kk,m;
+    o p;
+    for (int i = 0; i<l; i++)
+        for (int j = 0; j<l; j++)
+            quad[i][j] = (i/n)*n+(j/n);
 
-    for(i = 0; i <= test_case; i++)
+    cin >> kk;
+    for(int i=0; i<kk; i++)
     {
-        /* Make sure the number of point range is from 3 through 100 */
-        t = (rand() % 98)+3;
-
-        printf("%d\n", t);
-        for(j = 0; j < t; j++)
-        {
-            n = rand() % 10001;
-            m = rand() % 10001;
-            printf("%d %d\n", n,m);
-        }
+        s = true;
+        clr(g,0);
+        clr(t,0);
+        clr(sq,0);
+        for(int j=0; j<9; j++)
+            for(int k=0; k<9; k++)
+            {
+                cin >> h[j][k];
+                if(h[j][k]!='0')
+                {
+                    m = h[j][k] - '0';
+                    sq[ quad[j][k] ]|= (1<<m);
+                    g[k]|= (1<<m);
+                    t[j]|= (1<<m);
+                }
+                else
+                {
+                    h[j][k]='.';
+                    p.x = j;
+                    p.y = k;
+                    v.pb(p);
+                }
+            }
+        up = v.size();
+        r(0);
+        for(int j=0; j<9; j++)
+            for(int k=0; k<9; k++)
+                cout<<ans[j][k]<<" \n"[k==8];
     }
-    printf("0\n");
     return 0;
 }

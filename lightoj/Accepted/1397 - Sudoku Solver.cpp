@@ -103,7 +103,7 @@ void rec(int z)
 int main()
 {
     int t, n=3, m, cas=1,len, cnt;
-    vector<int>q;
+//    vector<int>q;
     scanf("%d", &t);
     getchar();
     point p;
