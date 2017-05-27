@@ -1,0 +1,41 @@
+#include <bits/stdc++.h>
+
+#define all(a)           a.begin(),a.end()
+#define chng(a,b)       a^=b^=a^=b;
+#define clr(y,z)        memset(y,z,sizeof(y))
+#define cntbit(mask)     __builtin_popcount(mask)
+#define CROSS(a,b,c,d) ((b.x-a.x)*(d.y-c.y)-(d.x-c.x)*(b.y-a.y))
+#define fr(i,a,b)       for(i=a;i<=b;i++)
+#define inf             (1e9)
+#define mod             1000000007
+#define ll              long long
+#define oo              (1<<30)
+#define pb              push_back
+#define PI              3.141592653589793
+#define pi              (2*acos(0))
+#define pp              pop_back
+#define rev(a)          reverse(all(a));
+#define SIZE(s)         ((int)s.size())
+#define saja(a)         sort(all(a))
+#define sqr(a)          ((a)*(a))
+#define SZ              50005
+#define V(a)            vector<(a)>
+
+using namespace std;
+
+
+class <%:class-name%> {
+public:
+	<%:return-type%> <%:method-name%>(<%:param-list%>) {
+		<%:set-caret%>
+	}
+};
+
+
+<%:testing-code%>
+
+
+
+
+
+

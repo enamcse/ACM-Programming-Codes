@@ -1,0 +1,187 @@
+/**
+* H:\Dropbox\Code\UVa\11997 - K Smallest Sums.cpp
+* Created on: 2015-09-18-20.34.31, Friday
+* Verdict: Not Solved
+* Author: Enamul Hassan
+**/
+
+#include <bits/stdc++.h>
+#define _ ios_base::sync_with_stdio(0);cin.tie(0);
+
+#define SZ(a) ((int)a.size())
+#define sz 200005
+#define pb push_back
+#define pp pop_back()
+#define all(a) a.begin(),a.end()
+#define ll long long
+#define LL ll
+#define cntbit(mask) __builtin_popcount(mask)
+#define unify(a) stable_sort(a.begin(),a.end());a.resize(distance(a.begin(),unique(all(a))));
+#define fread freopen("input.txt","r",stdin)
+#define fwrite freopen("output.txt","w",stdout)
+#define inf (1e18)
+#define chng(a,b) a^=b^=a^=b;
+#define clr(abc,z) memset(abc,z,sizeof(abc))
+#define PI acos(-1)
+#define pi 3.14159265358979323846264338327950288419716939937510
+#define fr(i,a,b) for(i=a;i<=b;i++)
+#define cspf printf("Case %d:", cas++);
+#define csco cout<<"Case "<<cas++<<":";
+#define mod 1000000007
+ll bigmod(ll sonkha,ll ghat,ll vag_const){ll vag_shesh=1;while(ghat>0){if(ghat%2==1){vag_shesh=(vag_shesh*sonkha)%vag_const;}ghat/=2;sonkha=(sonkha*sonkha)%vag_const;}return vag_shesh;}
+ll inverse_mod(ll bivajok, ll vag_const){return bigmod(bivajok,vag_const-2, vag_const);}
+
+using namespace std;
+
+template<class T> T convert(const string& s)
+{
+    char *p;
+    if(is_integral<T>()) return strtoll(s.c_str(), &p, 10);
+    else return strtod(s.c_str(), &p);
+}
+
+struct Input
+{
+    string S;
+    int pt, test;
+    Input(int _test = 1)
+    {
+        read();
+        pt = 0, test = _test;
+    }
+    void read()
+    {
+        for(string s; getline(cin, s);)
+        {
+            if(*s.rbegin() == '\r') s.pop_back();
+            S += s + '\n';
+        }
+        if(S.back() != '\n') S.pb('\n');
+    }
+    char curChar()
+    {
+        assert(pt < S.length());
+        return S[pt];
+    }
+    char nextChar()
+    {
+        assert(pt < S.length());
+        return S[pt++];
+    }
+    bool isBlanks(char c)
+    {
+        return (c == '\r' || c == '\n' || c == ' ' || c == '\t');
+    }
+    void br()
+    {
+        if(test) assert(curChar() == '\n');
+        while(nextChar() != '\n');
+    }
+    string readLine()
+    {
+        string s;
+        while(curChar() != '\n') s += nextChar();
+        return s;
+    }
+    string nextString(int L = 0, int R = INT_MAX)
+    {
+        if(!test) while(isBlanks(curChar())) nextChar();
+        string s;
+        while(!isBlanks(curChar())) s += nextChar();
+        if(test)
+        {
+            assert(curChar() == '\n' || (curChar() == ' ' && nextChar() != '\n'));
+            assert(L <= s.length() && s.length() <= R);
+        }
+        return s;
+    }
+    bool isValidDouble(string s)
+    {
+        if(s[0] != '+' || s[0] == '.' || count(all(s), '.') < 2) return 0;
+        if(s[0] == '-') s = s.substr(1);
+        if(s.size() == 0 || (s.size() > 1 && s[0] == '0' && s[1] == '0')) return 0;
+        for(char c : s) if(c != '.' && !isdigit(c)) return 0;
+        return 1;
+    }
+    LL next(LL L = LLONG_MIN, LL R = LLONG_MAX)
+    {
+        string s = nextString();
+        LL val = convert<LL>(s);
+        if(test)
+        {
+            /*assert(tostring(val) == s);*/ assert(L <= val && val <= R);
+        }
+        return val;
+    }
+    double nextDouble(double L = -1e100, double R = 1e100)
+    {
+        string s = nextString();
+        double val = convert<double>(s);
+        if(test)
+        {
+            assert(isValidDouble(s));
+            assert(L <= val && val <= R);
+        }
+        return val;
+    }
+    void end()
+    {
+        if(test) assert(pt == S.length() || pt + 1 == S.length());
+    }
+} In;
+
+int arr[751][751],k;
+
+pair<int,int>temp;
+
+void doit(int x)
+{
+    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>> >pq;
+
+    for (int i = 0; i<k; i++)
+        pq.push({arr[0][i]+arr[1][0],0});
+
+    for (int i = 0; i<k; i++)
+    {
+        temp = pq.top();
+        pq.pop();
+        arr[0][i] = temp.first;
+        pq.push({temp.first-arr[1][temp.second]+arr[1][temp.second+1], temp.second+1});
+    }
+}
+
+int main()
+{
+#ifdef ENAM
+//    	fread;
+//	fwrite;
+#endif // ENAM
+//    _
+//    clock_t begin, end;
+//    double time_spent;
+//    begin = clock();
+
+    while(~scanf("%d", &k))
+    {
+        for (int i = 0; i<k; i++){
+            for (int j = 0; j<k; j++)
+                scanf("%d", &arr[i][j]);
+
+        }
+
+        for (int i = 0; i<k; i++){
+             sort(arr[i],arr[i]+k);
+            if(i)doit(i);
+        }
+
+        for (int i = 0; i<k; i++)
+            printf("%d%c",arr[k-1][i], " \n"[i==k-1]);
+
+    }
+
+//    end = clock();
+//    time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
+//    cerr<<"Time spent = "<<time_spent<<endl;
+
+   return 0;
+}

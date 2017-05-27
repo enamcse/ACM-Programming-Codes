@@ -1,0 +1,8 @@
+Accoding to problem statement ,
+we have to find the maximum value of n such that
+a+(a+d)+(a+2*d)+(a+3*d)+...+(a+n*d)<=K.
+or n/2(2*a+(n-1)*d)<=K.
+Since, there is a property of linearity.that means if value of n increases then
+summation value also increases. So we can do binary search on 'n', to find 
+appropriate value of n which result in summation less than or equal to K.
+

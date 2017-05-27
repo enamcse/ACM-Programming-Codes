@@ -1,0 +1,49 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct node {
+    int key;
+    struct node *next;
+};
+
+void list_insert(struct node *, int k);
+void list_print(struct node *);
+
+int main(){
+    struct node *root;
+
+    root = malloc(sizeof(struct node));
+    root->next = NULL;
+    root->key = 10;
+printf("%d\n", root->);
+    list_insert(root, 5);
+    list_insert(root, 6);
+
+    list_print(root);
+
+    return 0;
+}
+
+void list_insert(struct node *root, int k){
+    struct node *x;
+
+    x = root;
+    while(x != NULL){
+        printf("%d\n", x);
+        x = x->next;
+    }
+
+    x = malloc(sizeof(struct node));
+    x->key = k;
+    x->next = NULL;
+}
+
+void list_print(struct node *root){
+    struct node *x;
+
+    x = root;
+    while(x != NULL){
+        printf("%d\t", x->key);
+        x = x->next;
+    }
+}

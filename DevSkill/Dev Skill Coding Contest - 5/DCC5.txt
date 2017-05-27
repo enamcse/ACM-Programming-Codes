@@ -1,0 +1,37 @@
+6
+A - Walky Walk
+SingleFile
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Walky_Walk_v2\input.txt
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Walky_Walk_v2\output.txt
+String
+1000
+B - Water Supply
+SingleFile
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\0019 Water Supply\input.txt
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\0019 Water Supply\output.txt
+String
+1000
+C - Remove The Number
+SingleFile
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Problem Remove the number\renumin.txt
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Problem Remove the number\renumout.txt
+Integer
+1000
+D - Another Bigmod Problem
+SingleFile
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\0011 Another Bigmod Problem\input.txt
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\0011 Another Bigmod Problem\output.txt
+String
+500
+E - Counting Thing
+SingleFile
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Problem Counting things\strin.txt
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Problem Counting things\strout.txt
+Integer
+1000
+F - Contest Prize
+SingleFile
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Contest Prize\input.txt
+H:\Dropbox\Code\DevSkill\Dev Skill Coding Contest - 5\DCC5\Contest Prize\output.txt
+String
+1000

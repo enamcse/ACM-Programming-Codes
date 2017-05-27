@@ -1,0 +1,197 @@
+/**
+* H:\Dropbox\Code\Codemarshal\CSE Week 2015 Online Contest\F.cpp
+* Created on: 2015-12-11-18.20.52, Friday
+* Verdict: Not Solved
+* Author: Enamul Hassan
+**/
+
+#include <bits/stdc++.h>
+#define _ ios_base::sync_with_stdio(0);cin.tie(0);
+
+#define SZ(a) ((int)a.size())
+#define sz 200005
+#define pb push_back
+#define pp pop_back()
+#define all(a) a.begin(),a.end()
+#define ll long long
+#define cntbit(mask) __builtin_popcount(mask)
+#define unify(a) stable_sort(a.begin(),a.end());a.resize(distance(a.begin(),unique(all(a))));
+#define fread freopen("input.txt","r",stdin)
+#define fwrite freopen("output.txt","w",stdout)
+#define inf (1e18)
+#define chng(a,b) a^=b^=a^=b;
+#define clr(abc,z) memset(abc,z,sizeof(abc))
+#define PI acos(-1)
+#define pi 3.14159265358979323846264338327950288419716939937510
+#define fr(i,a,b) for(i=a;i<=b;i++)
+#define cspf printf("Case %d:", cas++);
+#define csco cout<<"Case "<<cas++<<": ";
+#define mod 1000000007
+ll bigmod(ll sonkha,ll ghat,ll vag_const)
+{
+    ll vag_shesh=1;
+    while(ghat>0)
+    {
+        if(ghat%2==1)
+        {
+            vag_shesh=(vag_shesh*sonkha)%vag_const;
+        }
+        ghat/=2;
+        sonkha=(sonkha*sonkha)%vag_const;
+    }
+    return vag_shesh;
+}
+ll inverse_mod(ll bivajok, ll vag_const)
+{
+    return bigmod(bivajok,vag_const-2, vag_const);
+}
+
+using namespace std;
+
+double x[100],y[100],d;
+int n;
+#define X first
+#define Y second
+
+using pii = pair <int, int>;
+using pll = pair <ll, ll>;
+
+const ll inf = 1;
+const ll mod = 1E9;
+
+double x[100], y[100];
+int N;
+double d;
+
+const double pi = acos(-1.0);
+
+
+typedef double T;
+const T EPS = 1e-7;
+struct PT
+{
+    T x, y;
+    PT() {}
+    PT(T x, T y) : x(x), y(y) {}
+    bool operator<(const PT &rhs) const
+    {
+        return make_pair(y,x) < make_pair(rhs.y,rhs.x);
+    }
+    bool operator==(const PT &rhs) const
+    {
+        return make_pair(y,x) == make_pair(rhs.y,rhs.x);
+    }
+};
+
+T cross(PT p, PT q)
+{
+    return p.x*q.y-p.y*q.x;
+}
+
+T area2(PT a, PT b, PT c)
+{
+    return cross(a,b) + cross(b,c) + cross(c,a);
+}
+
+void ConvexHull (vector<PT> &pts)
+{
+    sort(pts.begin(), pts.end());
+    pts.erase(unique(pts.begin(), pts.end()), pts.end());
+    vector<PT> up, dn;
+    for (int i = 0; i < pts.size(); i++)
+    {
+        while (up.size() > 1 && area2(up[up.size()-2], up.back(), pts[i]) >= 0) up.pop_back();
+        while (dn.size() > 1 && area2(dn[dn.size()-2], dn.back(), pts[i]) <= 0) dn.pop_back();
+        up.push_back(pts[i]);
+        dn.push_back(pts[i]);
+    }
+    pts = dn;
+    for (int i = (int) up.size() - 2; i >= 1; i--) pts.push_back(up[i]);
+}
+
+double getdist (PT a, PT b)
+{
+    return sqrt((a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y));
+}
+
+double calc(int mask)
+{
+    vector<PT> points;
+    for (int i = 0; i < N; i++)
+    {
+        if (mask&(1<<i))
+        {
+            PT temp;
+            temp.x = x[i];
+            temp.y = y[i];
+            points.pb(tmp);
+        }
+    }
+
+    ConvexHull(points);
+    int n = points.size();
+
+    double ans = 2*acos(-1.0)*R + getdist(points[n-1], points[0]);
+
+    for(int i = 1; i<n; ++i)
+        ans += getdist(points[i-1], points[i]);
+
+    return ans;
+}
+
+double dp[(1<<13)+10];
+int col[(1<<13)+10];
+int now;
+
+double doit (int mask)
+{
+    if (cntbit(mask) == 0) return 0.0;
+    if (col[mask] == now) return dp[mask];
+    col[mask] = now;
+    double &ret = dp[mask];
+    ret = calc(mask);
+    for (int i = mask - 1; i >= 0; )
+    {
+        int lef = (mask&i);
+        int rig = (mask^lef);
+        ret = min(ret, doit(lef) + doit(rig));
+        i--;
+        if(i >= 0)i&=mask;
+    }
+
+    return ret;
+}
+
+int main()
+{
+#ifdef ENAM
+//    	fread;
+//	fwrite;
+#endif // ENAM
+    int t, m, cas=1;
+    _
+//    clock_t begin, end;
+//    double time_spent;
+//    begin = clock();
+
+    cin>>t;
+
+    while(t--)
+    {
+        cin>>n>>d;
+
+        for (int i = 0; i<n; i++)
+            cin>>x[i]>>y[i],vv[i].clear();
+        csco
+
+
+
+        cout<<setprecision(3)<<fixed<<doit((1<<N)-1)<<"\n";
+    }
+
+//    end = clock();
+//    time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
+//    cerr<<"Time spent = "<<time_spent<<endl;
+
+    return 0;
+}

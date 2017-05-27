@@ -1,0 +1,92 @@
+@media screen {
+   .print {
+      display:none;
+   }
+   body {
+      background-color:#222;
+      color: #eee;
+   }
+   .problem_content {
+      background-color:#bbb;
+      color:#333;
+   }
+   #container {
+      padding-top: 60px;
+   }
+
+   h1,h3,h4 {
+      color: #aaa;
+   }
+   h2 {
+      color: #9D6F53;
+   }
+   a {
+      color: #bbb;
+   }
+   a:hover {
+      color: #777;
+   }
+   .dark_border {
+      border: 1px solid #aaa;
+   }
+
+   #message {
+      background-color: #f9f9f9;
+      color: #FF6600;
+   }
+   #message a {
+      color: #FF6600;
+   }
+   #footer a {
+      color: #bbb;
+   }
+   .banner {
+      color: #623100;
+   }
+   .banner sub {
+      color: #ccc;
+   }
+   .grid th {
+      color: #ddd;
+      background-color: #666;
+   }
+   .grid td {
+      background-color: #333;
+      color: #999;
+   }
+   .form_box {
+      background-color: #ffefbd;
+   }
+   .news {
+      background-color:#333;
+   }
+   .forum_table {
+      background-color: #bbb;
+   }
+   .forum_table a, .problem_content a {
+      color:#888;
+   }
+   .forum_table a:hover, .problem_content a:hover {
+      color:#555;
+   }
+   .forum_message {
+      color: #222;
+   }
+   .forum_info {
+      background-color:#5E4940;
+      color: #ddd;
+   }
+   .forum_quote {
+      background:#E1D6D2;
+   }
+   .code_box {
+      background-color: #888;
+   }
+   .code_click {
+      color: #444;
+      background-color: #ccc;
+   }
+   .prettyprint {
+      background-color: #ddd;
+   }
+}
